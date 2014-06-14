@@ -1,7 +1,7 @@
 # Site settings
 title: Archon Digital Labs
 email: overlord@archon-digital.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "An exercise on developing my own flat file CMS running on Jekyll, Foundation 5 and Liquid templating. I'll be publishing more information soon."
 baseurl: ""
 url: "http://archondigital.com"
 
