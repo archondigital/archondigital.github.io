@@ -1,17 +1,12 @@
-<footer class="site-footer">
+<footer class="site-footer panel">
 
-  <div class="wrap">
-
-    <h2 class="footer-heading">{{ site.title }}</h2>
-
-    <div class="footer-col-1 column">
-      <ul>
-        <li>{{ site.title }}</li>
-        <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-      </ul>
+  <div class="row">
+    <div class="large-4 columns">
+      <h2 class="footer-heading">{{ site.title }}</h2>
+      <p class="text">{{ site.description }}</p>
     </div>
 
-    <div class="footer-col-2 column">
+    <div class="large-4 columns">
       <ul>
         <li>
           <a href="https://github.com/{{ site.username }}">
@@ -51,11 +46,6 @@
         </li>
       </ul>
     </div>
-
-    <div class="footer-col-3 column">
-      <p class="text">{{ site.description }}</p>
-    </div>
-
   </div>
 
 </footer>
