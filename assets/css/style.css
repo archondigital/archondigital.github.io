@@ -24,6 +24,8 @@ html, body {height: 100%; width: 100%;}
   
 .fullwidth { max-width: 100%;}
 
+.site-footer {position: relative; height: 70%; width: 100%;}
+
 .page, .post {padding-top: 90px;}
 
 .archives article {height: 100%;}
@@ -32,3 +34,11 @@ html, body {height: 100%; width: 100%;}
   .archives #content {padding-top: 90px;}
 .archives ul.archive {display:block; min-height: 160px;}
 
+.github-icon-svg,
+.twitter-icon-svg {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  position: relative;
+  top: 3px;
+}
