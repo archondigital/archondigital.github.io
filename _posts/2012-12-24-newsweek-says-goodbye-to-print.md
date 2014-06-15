@@ -4,6 +4,9 @@ author: Jon Cuevas
 excerpt: "A sad day for print. Their farewell cover artwork highlights the stark contrast between traditional printing by portraying print as a classic, black and white New York city skyline photo with Newsweek's office building in the foreground and the modern, web-centric hashtag headline, #lastprintissue."
 layout: post
 permalink: /newsweek-says-goodbye-to-print-1803/
+featured_image: /assets/images/legacy/Newsweek-Final-Cover.jpg
+bg_color: 'rgba(0, 0, 0, .8);'
+text_color: light
 custom_css:
   - 
 custom_fonts:
