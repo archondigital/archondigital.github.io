@@ -35,9 +35,12 @@ html, body {height: 100%; width: 100%;}
 .archives ul.archive {display:block; min-height: 160px;}
 
 .articles {position: relative; min-height: 100%;}
-.articles article {background-size: cover; background-position: center; min-height: 300px;}
-  .articles article.light .container {padding: 1.25rem; height: 300px;}
-    .articles article.light h1 a, .articles article.light p, .articles article.light a {color:#fff;}
+.articles article {background-size: cover; background-position: center; min-height: 400px;}
+  .articles article .container {padding: 1.25rem; height: 400px; overflow: hidden;}
+    
+    .articles article h1 a, .articles article p, .articles article a, .articles article .post-date {color:#666;}
+    .articles article.light h1 a, .articles article.light p, .articles article.light a, .articles article.light .post-date {color:#fff;}
+    .articles article.dark h1 a, .articles article.dark p, .articles article.dark a, .articles article.dark .post-date {color:#333;}
 
 .github-icon-svg,
 .twitter-icon-svg {
@@ -47,3 +50,5 @@ html, body {height: 100%; width: 100%;}
   position: relative;
   top: 3px;
 }
+
+p.lead {font-size: 1.51875rem; line-height: 1.4;}
