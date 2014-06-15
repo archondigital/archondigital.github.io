@@ -4,7 +4,7 @@ title:  "An experiment on Flat File CMS, Jekyll and Liquid!"
 date:   2014-06-15 00:22:26
 categories: jekyll update cms
 permalink: /articles/jekyll-test/
-bg_color: '#666;'
+bg_color: '#c93b16;'
 text_color: light
 ---
 
