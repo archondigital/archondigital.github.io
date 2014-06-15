@@ -3,6 +3,9 @@ title: Jai Alai Manila, the Sky Room and lost memories
 author: Jon Cuevas
 layout: post
 permalink: /jai-alai-manila-sky-room-lost-memories-2087/
+featured_image: /assets/images/legacy/IMG_3229-1024x1024.jpg
+bg_color: 'rgba(0, 0, 0, .8);'
+text_color: light
 custom_css:
   - 
 custom_fonts:
