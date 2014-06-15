@@ -26,7 +26,7 @@ html, body {height: 100%; width: 100%;}
 
 .site-footer {position: relative; height: 70%; width: 100%;}
 
-.page, .post {padding-top: 90px;}
+.page, .post {padding: 90px 0;}
 
 .archives article {height: 100%;}
 .archives header {height: 100%; background: #000;}
