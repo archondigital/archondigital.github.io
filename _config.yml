@@ -5,6 +5,7 @@ description: "An exercise on developing my own flat file CMS running on Jekyll, 
 baseurl: ""
 url: "http://archondigital.com"
 username: archondigital
+timezone: Asia/Manila
 
 # Build settings
 markdown: kramdown
