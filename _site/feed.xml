@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Archon Digital Labs</title>
+    <description>An exercise on developing my own flat file CMS running on Jekyll, Foundation 5 and Liquid templating. I&#39;ll be publishing more information soon.</description>
+    <link>http://archondigital.com/</link>
+    <atom:link href="http://archondigital.com/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>An experiment on Flat File CMS, Jekyll and Liquid!</title>
+        <description>&lt;p&gt;Since the middle of 2013, I’ve been exploring Content Management Systems that I could use to simplify the way I maintain blogs and small websites. I came across various flat file, lightweight, content management systems and wondered if I could create my own. The main goal is for me to create a lightweight CMS, whether flat file or on lightweight DB that I can use for myself and my clients. Part of that is learning Jekyll and Liquid which I found very useful in other working on other projects.&lt;/p&gt;
+
+&lt;p&gt;I’ve used WordPress on my main website/blog, &lt;a href=&quot;http://archondigital.com&quot;&gt;Archon Digital&lt;/a&gt;, since 2007. There’s around a dozen WordPress instances that I maintain, all with various levels of customization, including a theme that is being implemented across &lt;a href=&quot;/projects/govph&quot;&gt;government websites&lt;/a&gt;. I also have other websites running on Drupal and there’s also my little experiment with Ghost on &lt;a href=&quot;http://pinapaitan.com&quot;&gt;Pinapaitan&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Don’t get me wrong, I love working on WordPress, I’ve learned a great deal in the years I’ve been using it for work and for personal projects, but I fear that I’ve grown too comfortable with it and now I feel it is time that I move on and learn something new.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 15 Jun 2014 08:22:26 +0800</pubDate>
+        <link>http://archondigital.com/articles/jekyll-test/</link>
+        <guid isPermaLink="true">http://archondigital.com/articles/jekyll-test/</guid>
+      </item>
+    
+  </channel>
+</rss>
