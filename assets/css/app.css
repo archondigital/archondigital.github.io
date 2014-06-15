@@ -6586,7 +6586,7 @@ meta.foundation-mq-topbar {
   height: 34px;
   line-height: 33px;
   padding: 0;
-  color: white;
+  color: #666666;
   position: relative;
 }
 /* line 234, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
@@ -6599,12 +6599,12 @@ meta.foundation-mq-topbar {
   position: absolute;
   display: block;
   height: 0;
-  box-shadow: 0 0px 0 1px white, 0 7px 0 1px white, 0 14px 0 1px white;
+  box-shadow: 0 0px 0 1px #666666, 0 7px 0 1px #666666, 0 14px 0 1px #666666;
   width: 16px;
 }
 /* line 166, ../bower_components/foundation/scss/foundation/components/_global.scss */
 .top-bar .toggle-topbar.menu-icon a::after span:hover:after {
-  box-shadow: 0 0px 0 1px white, 0 7px 0 1px white, 0 14px 0 1px white;
+  box-shadow: 0 0px 0 1px #666666, 0 7px 0 1px #666666, 0 14px 0 1px #666666;
 }
 /* line 254, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
 .top-bar.expanded {
