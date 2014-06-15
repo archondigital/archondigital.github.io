@@ -35,10 +35,11 @@ html, body {height: 100%; width: 100%;}
 .archives ul.archive {display:block; min-height: 160px;}
 
 .articles {position: relative; min-height: 100%;}
-.articles article {background-size: cover; background-position: center; min-height: 400px;}
+.articles article {background-size: cover; background-position: center; min-height: 400px; border-bottom: 1px #f1f1f1 solid;}
+  .articles article.light, .articles article.dark {border-bottom: none;}
   .articles article .container {padding: 1.25rem; height: 400px; overflow: hidden;}
     
-    .articles article h1 a, .articles article p, .articles article a, .articles article .post-date {color:#666;}
+    .articles article h1 a, .articles article p, .articles article a, .articles article .post-date {color:#666; }
     .articles article.light h1 a, .articles article.light p, .articles article.light a, .articles article.light .post-date {color:#fff;}
     .articles article.dark h1 a, .articles article.dark p, .articles article.dark a, .articles article.dark .post-date {color:#333;}
 

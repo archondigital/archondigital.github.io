@@ -6,50 +6,59 @@ layout: default
 
 <div class="articles">
 
-	<div class="row">
-		<div class="large-8 columns">
-			{% for post in paginator.posts %}
-			<article>
-			  <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-			  <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-			  {{ post.excerpt }} 
-			  <p><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">continue reading...</a></p>
-			</article>
-
-			{% endfor %}
-
-			{% if paginator.total_pages > 1 %}
-			<div class="pagination">
-			  {% if paginator.previous_page %}
-			    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
-			  {% else %}
-			    <span>&laquo; Prev</span>
-			  {% endif %}
-
-			  {% for page in (1..paginator.total_pages) %}
-			    {% if page == paginator.page %}
-			      <em>{{ page }}</em>
-			    {% elsif page == 1 %}
-			      <a href="{{ '/index.html' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
-			    {% else %}
-			      <a href="{{ site.url }}/articles/{{ page }}">{{ page }}</a>
-			    {% endif %}
-			  {% endfor %}
-
-			  {% if paginator.next_page %}
-			    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
-			  {% else %}
-			    <span>Next &raquo;</span>
-			  {% endif %}
-			</div>
-			{% endif %}
-
+	{% for post in paginator.posts %}
+	<article class="{{ post.text_color }}" style="background-image: url({{ post.featured_image | prepend: site.baseurl }});">
+		<div class="container" style="background: {{ post.bg_color }}">
+			<div class="row fullwidth">
+				<div class="large-2 columns">
+					&nbsp;
+				</div>
+				<div class="large-4 columns text-right">
+					<h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+				</div>
+			  	
+			  	<div class="large-4 columns">
+			  		<p class="lead">{{ post.excerpt | remove: '<p>' | remove: '</p>' | truncatewords: 60 }}</p>
+			  		<p><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">continue reading...</a></p>
+			  	</div>	  
+			  	<div class="large-2 columns">
+			  		<span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+			  	</div>
+			</div>			
 		</div>
+	</article>
 
-		<div class="large-4 columns">
-		  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-		</div>
+	{% endfor %}
+
+
+	{% if paginator.total_pages > 1 %}
+	<div class="pagination">
+	  {% if paginator.previous_page %}
+	    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+	  {% else %}
+	    <span>&laquo; Prev</span>
+	  {% endif %}
+
+	  {% for page in (1..paginator.total_pages) %}
+	    {% if page == paginator.page %}
+	      <em>{{ page }}</em>
+	    {% elsif page == 1 %}
+	      <a href="{{ '/index.html' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+	    {% else %}
+	      <a href="{{ site.url }}/articles/{{ page }}">{{ page }}</a>
+	    {% endif %}
+	  {% endfor %}
+
+	  {% if paginator.next_page %}
+	    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+	  {% else %}
+	    <span>Next &raquo;</span>
+	  {% endif %}
 	</div>
+	{% endif %}
+
+
+	<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
 
