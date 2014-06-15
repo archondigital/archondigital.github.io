@@ -1,29 +1,17 @@
 ---
 layout: post
-title:  "Test Article!"
+title:  "An experiment on Flat File CMS, Jekyll and Liquid!"
 date:   2014-06-15 00:22:26
-categories: jekyll update
-permalink: /articles/test-post/
+categories: jekyll update cms
+permalink: /articles/jekyll-test/
 ---
 
-Curabitur blandit tempus porttitor. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Maecenas faucibus mollis interdum. Nulla vitae elit libero, a pharetra augue. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+Since the middle of 2013, I've been exploring Content Management Systems that I could use to simplify the way I maintain blogs and small websites. I came across various flat file, lightweight, content management systems and wondered if I could create my own. The main goal is for me to create a lightweight CMS, whether flat file or on lightweight DB that I can use for myself and my clients. Part of that is learning Jekyll and Liquid which I found very useful in other working on other projects.
 
-Curabitur blandit tempus porttitor. Nulla vitae elit libero, a pharetra augue. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor.
+I've used WordPress on my main website/blog, [Archon Digital](http://archondigital.com), since 2007. There's around a dozen WordPress instances that I maintain, all with various levels of customization, including a theme that is being implemented across [government websites](/projects/govph). I also have other websites running on Drupal and there's also my little experiment with Ghost on [Pinapaitan](http://pinapaitan.com).
 
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+Don't get me wrong, I love working on WordPress, I've learned a great deal in the years I've been using it for work and for personal projects, but I fear that I've grown too comfortable with it and now I feel it is time that I move on and learn something new.
 
-Jekyll also offers powerful support for code snippets:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
 
-[jekyll-gh]: https://github.com/jekyll/jekyll
-[jekyll]:    http://jekyllrb.com
