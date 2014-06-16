@@ -3,8 +3,7 @@ title: Death By Tray It Shall Be!
 author: Jon Cuevas
 layout: post
 permalink: /death-by-tray-it-shall-be-1095/
-aktt_notify_twitter:
-  - no
+comments: true
 custom_css:
   - 
 custom_fonts:
