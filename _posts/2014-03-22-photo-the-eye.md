@@ -11,6 +11,7 @@ text_color: light
 categories:
   - Images
 format: image
+comments: true
 ---
 <img src="{{ site.baseurl }}/assets/images/bnr-slide-dfa-grayscale.jpg" alt="the Eye" />
 
