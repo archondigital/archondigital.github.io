@@ -4,22 +4,7 @@ author: Jon Cuevas
 excerpt: "After 10 months of hosting under Webfaction, I'd like to give some insight and clarify a few points on as to why Webfaction sucks."
 layout: post
 permalink: /webfaction-hosting-sucks-1005/
-aktt_notify_twitter:
-  - no
-amazon-product-excerpt-hook-override:
-  - 3
-amazon-product-content-hook-override:
-  - 2
-amazon-product-newwindow:
-  - 3
-lead-image:
-  - http://archondigital.com/wp-content/uploads/webfaction.jpg
-featured:
-  - yes
-topsy_short_url:
-  - http://bit.ly/a8FZC6
-feature_front_queue:
-  - 1
+featured-image: http://archondigital.com/wp-content/uploads/webfaction.jpg
 dsq_thread_id:
   - 933415172
 custom_css:
@@ -31,9 +16,6 @@ custom_columns:
 categories:
   - Web Hosting
 ---
-<div class="alignleft">
-</div>
-
 After 10 months of hosting Archon Digital with these guys, I&#8217;d have to say [**Webfaction Sucks**][1] because I cannot find anything negative to say about it. Go ahead and try to Google that keyword &#8220;**Webfaction Sucks**&#8221; as you&#8217;d find almost nothing negative being said about my current web host. That in itself is pretty self-explanatory and if you would try searching for &#8220;Bluehost Sucks&#8221; or &#8220;Dreamhost Sucks&#8221; or for any other host you&#8217;d find thousands of complaints from unhappy customers.<!--more-->
 
 <p style="text-align: center;">
