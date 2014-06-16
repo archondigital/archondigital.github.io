@@ -1,5 +1,19 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic);
 
 html, body {height: 100%; width: 100%;}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Lato', sans-serif;
+  font-weight: bold;
+  font-style: normal;
+  text-transform: uppercase;
+  text-rendering: optimizeLegibility;
+  line-height: 1.4;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  text-shadow: 0px 0px 10px rgba(0,0,0,0.10);
+}
 
 #nav-main {
   z-index: 20;
@@ -16,6 +30,9 @@ html, body {height: 100%; width: 100%;}
 
   .sticky.fixed .top-bar {opacity: .98;}
   .top-bar {z-index: 99;}
+
+.h70 {position: relative; height: 70%; width: 100%;}
+.h30 {position: relative; height: 30%; width: 100%;}
 
 .fullscreen {position: relative; height: 100%; width: 100%;}
   .fullscreen .orbit-container {height: 100%;}
@@ -34,8 +51,21 @@ html, body {height: 100%; width: 100%;}
   .archives #content {padding-top: 90px;}
 .archives ul.archive {display:block; min-height: 160px;}
 
+#featured {padding: 1.25rem} 
+
 #about, #projects, #blog {padding-top: 160px; margin: 0;}
+  
+  
   #about h1, #projects h1, #blog h1 {}
+  #about h1 {position: absolute; bottom: 0; font-size: 6em; opacity: 0.1;}
+  #about h1, #about h2, #about p {color: #fff; text-shadow: 0px 0px 10px rgba(0,0,0,0.40);}
+
+  #about {
+    background-image: url(/assets/images/bnr-slide-neb-grayscale.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .about .panel {position: absolute; bottom: 120px; width: 100%; background: rgba(0,0,0,0.5); border: none;}
 
 .articles {position: relative; min-height: 100%;}
 .articles article {background-size: cover; background-position: center; min-height: 400px; border-bottom: 1px #f1f1f1 solid;}
