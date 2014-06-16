@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+  	{% include head.html %}
+
+	<body>
+{% if paginator.page != 1 %}
+
+	{% include header.html %}
+    {{ content }}
+    
+{% else %}
+
+    {% include header-home.html %}
+	{% include banner-main.html %}
+    {% include snippet-about.html %}
+    {% include snippet-projects.html %}
+    {{ content }}
+
+{% endif %}
+
+    {% include footer.html %}
+    {% include scripts-footer.html %}
+
+    </body>
+</html>
