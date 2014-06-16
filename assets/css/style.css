@@ -37,6 +37,7 @@ html, body {height: 100%; width: 100%;}
 .articles {position: relative; min-height: 100%;}
 .articles article {background-size: cover; background-position: center; min-height: 400px; border-bottom: 1px #f1f1f1 solid;}
   .articles article.light, .articles article.dark {border-bottom: none;}
+  
   .articles article .container {padding: 1.25rem; height: 400px; overflow: hidden;}
     
     .articles article h1 a, .articles article p, .articles article a, .articles article .post-date {color:#666; }
