@@ -1,13 +1,18 @@
 ---
-layout: default
+layout: home
 ---
-
-{% if paginator.page != 1 %}
-
-<div class="articles">
-
+<div id="articles" class="articles">
+	<div id="blog" class="panel">
+		<div class="row fullwidth">
+			<div class="large-6 columns text-right">
+				<h1>Articles</h1>
+			</div>
+			<div class="large-6 columns"></div>
+		</div>	
+	</div>
+	
 	{% for post in paginator.posts %}
-	<article class="{{ post.text_color }}" style="background-image: url({{ post.featured_image | prepend: site.baseurl }});">
+	<article class="{{ post.text_color }}" style="background-image: url({{ post.featured_image | prepend: site.baseurl }});" data-stellar-background-ratio="0.3">
 		<div class="container" style="background: {{ post.bg_color }}">
 			<div class="row fullwidth">
 				<div class="large-2 columns">
@@ -68,86 +73,3 @@ layout: default
 	<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
-
-{% else %}
-
-<div id="masthead" class="fullscreen">
-  <ul class="example-orbit" data-orbit data-options="bullets: false;">
-
-	<li style="background-image: url({{ site.baseurl }}/assets/images/bnr-slide-neb-grayscale.jpg); background-size:cover; "></li>
-
-<!-- 	<li style="background-image: url({{ site.baseurl }}/assets/images/bnr-slide-neb.jpg); background-size:cover; "></li>
-    
-    <li style="background-image: url({{ site.baseurl }}/assets/images/bnr-slide-manila-bay-grayscale.jpg); background-size:cover; "></li>
-
-    <li style="background-image: url({{ site.baseurl }}/assets/images/bnr-slide-manila-bay.jpg); background-size:cover; "></li> -->
-
-  </ul>    
-</div>
-
-<div class="articles">
-
-		
-	{% for post in paginator.posts %}
-	<article class="{{ post.text_color }}" style="background-image: url({{ post.featured_image | prepend: site.baseurl }});">
-		<div class="container" style="background: {{ post.bg_color }}">
-			<div class="row fullwidth">
-				<div class="large-2 columns">
-					&nbsp;
-				</div>
-				<div class="large-4 columns text-right">
-					<h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-				</div>
-			  	
-			  	<div class="large-4 columns">
-			  		<p class="lead">{{ post.excerpt | remove: '<p>' | remove: '</p>' | truncatewords: 60 }}</p>
-			  		<p><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">continue reading...</a></p>
-			  	</div>	  
-			  	<div class="large-2 columns">
-			  		<span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-			  	</div>
-			</div>			
-		</div>
-	</article>
-
-	{% endfor %}
-
-	{% if paginator.total_pages > 1 %}
-	<div class="row fullwidth">
-		<div class="large-6 columns">&nbsp;</div>
-		<div class="large-6 columns">
-			<ul class="pagination">
-			{% if paginator.previous_page %}
-				<li class="arrow"><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a></li>
-			{% else %}
-				<li class="arrow unavailable"><span>&laquo; Prev</span></li>
-			{% endif %}
-			
-			{% for page in (1..paginator.total_pages) %}
-				{% if page == paginator.page %}
-		    		<li class="current"><a><em>{{ page }}</em></a></li>
-				{% elsif page == 1 %}
-					<li><a href="{{ '/index.html' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a></li>
-			    {% else %}
-			      	<li><a href="{{ site.url }}/articles/{{ page }}">{{ page }}</a></li>
-			    {% endif %}
-			{% endfor %}
-
-			{% if paginator.next_page %}
-				<li class="arrow"><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a></li>
-			{% else %}
-				<li class="arrow unavailable"><span>Next &raquo;</span></li>
-			{% endif %}	
-			</ul>
-			
-			
-		</div>
-	</div>
-	{% endif %}
-
-
-</div>
-
-
-{% endif %}
-
