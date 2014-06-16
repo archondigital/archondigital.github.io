@@ -22,7 +22,7 @@ layout: home
 					<h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
 				</div>
 			  	
-			  	<div class="large-4 columns">
+			  	<div class="large-4 columns hide-for-small">
 			  		<p class="lead">{{ post.excerpt | remove: '<p>' | remove: '</p>' | truncatewords: 60 }}</p>
 			  		<p><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">continue reading...</a></p>
 			  	</div>	  
