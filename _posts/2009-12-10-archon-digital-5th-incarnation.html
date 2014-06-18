@@ -1,0 +1,102 @@
+---
+title: Archon Digital's 5th Incarnation
+author: Jon Cuevas
+layout: post-custom
+permalink: /v5/studio/archon-digital-5th-incarnation/
+excerpt: "Archon Digital, the 5th version finally launches after months of having shelved the project this grand scheme of World Domination due to busy schedules and a some other minor complications."
+bg_color: 'rgba(0, 0, 0, .8);'
+comments: true
+---
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="{{ site.description }}">
+
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+	<link rel="stylesheet" href="{{ "/assets/css/app.css" | prepend: site.baseurl }}">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | prepend: site.baseurl }}">
+
+	{% include scripts-head.html %}
+
+<!-- custom css begin -->
+<style type="text/css">
+	body {background: #000 url({{ site.baseurl }}/assets/images/legacy/v5/bg-post-archon5.jpg) center top no-repeat; background-size: 180rem;}
+	
+	#content {padding-top: 20%;}
+	/*#content .row {max-width: 960px !important;}*/
+		#content h1 {color: #fff;}
+		#content h2 {color: #fff; font-size: 1rem;}
+		#content p {color: #6d7979;}
+		#content p.lead {color: #fff;}
+</style>
+	
+<!-- custom css end -->
+</head>
+
+<body>
+{% include analytics.html %}
+{% include header.html %}
+
+<!-- content -->
+
+<div id="content">
+	<header class="row">
+		<div class="large-12 columns">
+			<h1>Archon Digital's 5th Incarnation</h1>
+		</div>
+	</header>
+	<div class="row">
+
+		<div class="large-12 columns">
+
+			<p class="lead">Archon Digital, the 5th version finally launches after months of having shelved the project, this grand scheme of World Domination, due to busy schedules and a some other minor complications.</p>
+
+			<p>Moving out of the confines of a traditional blog's layout has always been what I wanted to achieve here on Archon Digital since 2007. These latest changes now allow me to bend an article's layout and move out of the structured form yet retain the structure should I choose to be lazy and just blog away normally. I've overhauled nearly all of the older articles on the website for code problems and updated invalid custom fields previously used and implemented some new ones.</p>		
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="large-6 columns">
+			<h2>The Design</h2>
+			<p>After months of thinking about how a new look for version 5.0 would stand out and be an actual improvement from the previous, this is what I have come up with. A fixed/fluid width layout with special blogazine-like articles apart from the regular blog articles and a better and speedier loading design. After testing extensively for this past few days, I can say this has got to be the most complicated yet fastest version of the site since version 2.0 and all of this of was really for me to get motivated and update Archon Digital's content regularly.</p>
+
+			<h2>Custom WordPress Loops, Category Switches and Custom Fields</h2>
+			<p>Major changes have been made with regards to how Archon Digital organizes featured posts, studio articles and portfolio entries. <a href="http://archondigital.com/v5/studio/wordpress/the-studio-live-wordpress-theme-development/">Category</a> switches are out, the WordPress loop handling special posts now filters queries using custom fields. I would prefer to discuss this in detail and with code samples on another post I am working on.</p>
+		</div>
+		<div class="large-6 columns">
+			<h2>Fluid and Fixed width</h2>
+			<p>While some elements of this site are styled to perform better on wide screens by having a more fluid layout, majority of the structure is still on a fixed-width structure making use of a 12-column, 960px grid. Also taking advantage of the extra screen real estate to get all the social media clutter out of the way by having them tucked nicely in a jQuery slide pane in the footer.</p>
+
+			<h2>Thematic, Child Themes and WordPress Theme Frameworks</h2>
+			<p>Previous versions of Archon Digital have been coded as WordPress themes from scratch or by using blank WordPress themes like <a href="http://www.texto.de/wordpress-theme-vorlage-186/">Vorlage</a> in version 3.0 and <a href="http://elliotjaystocks.com/starkers/">Starkers</a> in version 4.0. For the fifth version, a lot of time was spent deciding which framework to use. Working on theme frameworks has been a lot easier from a development point of view. I've come across a lot of frontend frameworks and for the past months have been ended up using Thematic for most projects. Archon Digital Version 5.0 is a child theme of <a href="http://themeshaper.com/thematic/">Thematic</a>.</p>
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="large-12 columns">
+			<h2>Moving Forward</h2>
+			<p>Despite being an on-and-off blogger this past year, it hasn't stopped Archon Digital from further evolving each time a new version comes out. This time around I have to be better organized with real work and with blogging and enough of being busy, stressed and tired…</p>
+			<blockquote>
+				<p class="lead">And now it can be said, World domination is at hand.</p>
+			</blockquote>
+		</div>
+
+	</div>
+		
+</div>
+
+<!-- content end -->
+<div class="panel">{% include comments.html %}</div>
+
+
+{% include footer.html %}
+{% include scripts-footer.html %}
+
+</body>
+
+
+
+
+  
