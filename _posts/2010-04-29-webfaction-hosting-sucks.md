@@ -4,22 +4,15 @@ author: Jon Cuevas
 excerpt: "After 10 months of hosting under Webfaction, I'd like to give some insight and clarify a few points on as to why Webfaction sucks."
 layout: post
 permalink: /webfaction-hosting-sucks-1005/
-featured-image: http://archondigital.com/wp-content/uploads/webfaction.jpg
-dsq_thread_id:
-  - 933415172
-custom_css:
-  - 
-custom_fonts:
-  - 
-custom_columns:
-  - 
-categories:
-  - Web Hosting
+featured_image: /assets/images/legacy/v5/webfaction.jpg
+bg_color: 'rgba(0, 0, 0, .8);'
+text_color: light
+comments: true
 ---
 After 10 months of hosting Archon Digital with these guys, I&#8217;d have to say [**Webfaction Sucks**][1] because I cannot find anything negative to say about it. Go ahead and try to Google that keyword &#8220;**Webfaction Sucks**&#8221; as you&#8217;d find almost nothing negative being said about my current web host. That in itself is pretty self-explanatory and if you would try searching for &#8220;Bluehost Sucks&#8221; or &#8220;Dreamhost Sucks&#8221; or for any other host you&#8217;d find thousands of complaints from unhappy customers.<!--more-->
 
 <p style="text-align: center;">
-  <img class="size-full wp-image-1010 aligncenter" title="Webfaction, Hosting that Sucks" alt="Webfaction, Hosting that Sucks" src="http://archondigital.com/wp-content/uploads/webfaction.jpg" width="618" height="480" />
+  <img class="size-full wp-image-1010 aligncenter" title="Webfaction, Hosting that Sucks" alt="Webfaction, Hosting that Sucks" src="{{ site.baseurl }}/assets/images/legacy/v5/webfaction.jpg" width="618" height="480" />
 </p>
 
 Not all hosting companies are perfect and the biggest problem I had with Webfaction, which lasted for a few days, was a routing issue I had where I could not connect via SSH or FTP to Webfaction&#8217;s data center (The Planet). It turns out [my ISP was to blame][2] for the routing problems. Which I believe got fixed when I sent e-mails directly to their engineers after doing a whois on the IP addresses and sending e-mails to the technical people concerned. **Thank you tech guys at Smart** for getting this sorted out as it would never have gotten sorted under normal circumstances. Again throughout this ordeal Webfaction&#8217;s support staff supported me all the way. This is even after the fact that they were aware that my problems were an external issue not related to them.
@@ -49,6 +42,6 @@ You can take a tour of Webfaction by watching the video clip below.
     Now if you are convinced that <strong>Webfaction doesn&#8217;t suck at all</strong> and would wish to sign up and <strong>help me out</strong> in the process, you can follow the affiliate link and <a href="http://www.webfaction.com/signup?affiliate=archondigital">help Archon Digital complete his goal of World Domination</a>.
   </p>
 
- [1]: http://archondigital.com/internet/hosting/webfaction-hosting-sucks/
- [2]: http://archondigital.com/internet/isp/smartbro/blame-it-on-my-isp-smart-bro/
- [3]: http://archondigital.com/internet/hosting/a-new-slice-of-life-slicehost/
+ [1]: {{ site.baseurl }}/internet/hosting/webfaction-hosting-sucks/
+ [2]: {{ site.baseurl }}/internet/isp/smartbro/blame-it-on-my-isp-smart-bro/
+ [3]: {{ site.baseurl }}/internet/hosting/a-new-slice-of-life-slicehost/

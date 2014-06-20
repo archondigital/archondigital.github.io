@@ -21,7 +21,7 @@ So I guess I&#8217;m a sucker for widgets and always wanted to try out what I fi
 The Fan Box widget came up as I decided rid myself of the two visitor widgets that I have had for more than a year. It was easy to configure as I edited it to fit the width of my sidebar.
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-762" title="facebook-fan-box" src="http://archondigital.com/wp-content/uploads/facebook-fan-box.jpg" alt="" width="618" height="310" />
+  <img class="aligncenter size-full wp-image-762" title="facebook-fan-box" src="{{ site.baseurl }}/assets/images/legacy/v5/facebook-fan-box.jpg" alt="" width="618" height="310" />
 </p>
 
 So after a month of keeping the big Fan box with friend&#8217;s pictures, here some ideas I have that I think will make the widget perform better.
@@ -35,10 +35,10 @@ Those three points should make the widget become more interesting to bloggers. I
 After observing how it gets my pages to load a bit slower, I decided to replace it for now with a smaller Fan Box configured without the logo and the fans&#8217; images. The smaller version occupies less vertical space and does the same job of having a one-step process of gaining &#8220;fans&#8221; for your site. Here it is and see how less clunky it is.
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-760" title="facebook-fan-box-small" src="http://archondigital.com/wp-content/uploads/facebook-fan-box-small.png" alt="" width="618" height="250" />
+  <img class="aligncenter size-full wp-image-760" title="facebook-fan-box-small" src="{{ site.baseurl }}/assets/images/legacy/v5/facebook-fan-box-small.png" alt="" width="618" height="250" />
 </p>
 
 Let&#8217;s see if it performs better and after another month I will check again make some more adjustments if needed, for now the widget stays.
 
  [1]: http://www.facebook.com/pages/Archon-Digital/250984095360
- [2]: http://archondigital.com/studio/archon-digital-5th-incarnation/
+ [2]: {{ site.baseurl }}/studio/archon-digital-5th-incarnation/

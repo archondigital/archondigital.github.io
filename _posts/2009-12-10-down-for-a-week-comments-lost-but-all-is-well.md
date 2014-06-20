@@ -12,4 +12,4 @@ Second, was to finally upload [version 5][1] of Archon Digital which has been re
 
 While I'm finally happy that I was able to restore the site to a working state, a lot of comments were never recovered and to me it was a lot of really great conversations made in the past nine months.
 
-[1]: http://archondigital.com/v5/studio/archon-digital-5th-incarnation/
+[1]: {{ site.baseurl }}/v5/studio/archon-digital-5th-incarnation/

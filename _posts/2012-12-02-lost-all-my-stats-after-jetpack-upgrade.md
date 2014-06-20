@@ -17,7 +17,7 @@ categories:
 ---
 <div class="alert-box secondary">
   <p>
-    Update: December 5, 2012 - <a href="http://archondigital.com/stats-recovered-jetpack-fixed-1664/">WordPress stats recovered, Jetpack fixed.</a>
+    Update: December 5, 2012 - <a href="{{ site.baseurl }}/stats-recovered-jetpack-fixed-1664/">WordPress stats recovered, Jetpack fixed.</a>
   </p>
   
   <a href="" class="close">&times;</a>
@@ -50,5 +50,5 @@ I&#8217;m still hoping their staff is just swamped with requests and mine will g
 
 My only consolation is that I have Google Analytics installed on all my websites and I&#8217;m now also exploring other self-hosted open source solutions like Piwik.
 
- [1]: http://archondigital.com
+ [1]: {{ site.baseurl }}
  [2]: http://wordpress.org/support/topic/wordpress-stats-got-reset-can-you-merge-them-back?

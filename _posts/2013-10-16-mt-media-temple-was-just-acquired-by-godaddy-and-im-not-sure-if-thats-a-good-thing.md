@@ -41,6 +41,6 @@ Both companies have their fair share of strengths and weaknesses and it would be
 
  [1]: http://weblog.mediatemple.net/2013/10/15/faqs-about-the-godaddy-acquisition
  [2]: http://www.godaddy.com/news/article/godaddy-acquires-ronin-integrates-invoicing-into-online-bookkeeping.aspx
- [3]: http://archondigital.com/v5/internet/hosting/saying-goodbye-to-the-grid/
- [4]: http://archondigital.com/v5/internet/hosting/rackspace-acquires-slicehost-and-jungle-disk/
- [5]: http://archondigital.com/webfaction-hosting-sucks-1005/
+ [3]: {{ site.baseurl }}/v5/internet/hosting/saying-goodbye-to-the-grid/
+ [4]: {{ site.baseurl }}/v5/internet/hosting/rackspace-acquires-slicehost-and-jungle-disk/
+ [5]: {{ site.baseurl }}/webfaction-hosting-sucks-1005/

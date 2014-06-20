@@ -15,7 +15,7 @@ categories:
   - Updates
   - Wordpress
 ---
-<figure><img class="alignleft" title="screenshot of Jetpack website" src="http://archondigital.com/wp-content/uploads/Screen-Shot-2012-12-02-at-9.54.48-PM.png" alt="" width="324" height="229" /></figure> 
+<figure><img class="alignleft" title="screenshot of Jetpack website" src="{{ site.baseurl }}/assets/images/legacy/v5/Screen-Shot-2012-12-02-at-9.54.48-PM.png" alt="" width="324" height="229" /></figure> 
 In my previous post, I wrote about how I suddenly lost several years worth of statistics after upgrading Jetpack on [Archon Digital][1]. Today, I got my stats back after support people from WordPress sorted my problem for me.
 
 I received an email yesterday from a WordPress Happiness engineer named Valerie who apologized for time it took for my support request to get answered and was informed that they have located the source of the problem and have asked one of their engineers give the problem a look. This afternoon, I received an email with instructions on how to recover my old statistics along with some information on what caused the problem.
@@ -24,5 +24,5 @@ Apparently, an archive of a [previous version][2] of my site caused the issue. I
 
 The solution was simply to disconnect Jetpack from my archive site and disconnect then reconnect Jetpack on my existing site. Problem solved, my stats are all back. Thank you WordPress, I can now continue to gloat over my rather pathetic set of statistics and draw up more evil plans for [world domination][1].
 
- [1]: http://archondigital.com
- [2]: http://archondigital.com/v5/
+ [1]: {{ site.baseurl }}
+ [2]: {{ site.baseurl }}/v5/

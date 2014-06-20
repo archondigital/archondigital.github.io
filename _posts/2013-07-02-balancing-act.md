@@ -16,4 +16,4 @@ categories:
   - Updates
 format: image
 ---
-<figure class="figure alignnone"><img title="Balancing Act" alt="Balancing Act. Think of weights and counterweights. This is for those asking why I keep my heavy backpack strapped to my back while standing up. (at GT-Toyota Asian Center Auditorium)" src="http://archondigital.com/wp-content/uploads/20130713-233703.jpg" width="1024" height="768" /><figcaption>Think of weights and counterweights. This is for those asking why I keep my heavy backpack strapped to my back while standing up. (at GT-Toyota Asian Center Auditorium)</figcaption></figure>
+<figure class="figure alignnone"><img title="Balancing Act" alt="Balancing Act. Think of weights and counterweights. This is for those asking why I keep my heavy backpack strapped to my back while standing up. (at GT-Toyota Asian Center Auditorium)" src="{{ site.baseurl }}/assets/images/legacy/v5/20130713-233703.jpg" width="1024" height="768" /><figcaption>Think of weights and counterweights. This is for those asking why I keep my heavy backpack strapped to my back while standing up. (at GT-Toyota Asian Center Auditorium)</figcaption></figure>

@@ -10,8 +10,9 @@ aktt_notify_twitter:
   - no
 studio-article:
   - yes
-lead-image:
-  - http://archondigital.com/wp-content/uploads/storm-troopers.jpg
+featured_image: /assets/images/legacy/v5/storm-troopers.jpg
+bg_color: 'rgba(0, 0, 0, .8);'
+text_color: light
 topsy_short_url:
   - http://bit.ly/d1jb7N
 amazon-product-excerpt-hook-override:
@@ -33,7 +34,7 @@ categories:
 ---
 <span class="attention"><em>Archon Digital did not write this article but was happy to stumble upon from this source:</em> <a href="http://www.fantasylibrary.com/lounge/overlord.htm">http://www.fantasylibrary.com/lounge/overlord.htm<br /> </a></span><!--more--><figure>
 
-<img class="alignnone size-full wp-image-1240" title="despicable" src="http://archondigital.com/wp-content/uploads/despicable.jpg" alt="" width="1000" height="511" /></figure> 
+<img class="alignnone size-full wp-image-1240" title="despicable" src="{{ site.baseurl }}/assets/images/legacy/v5/despicable.jpg" alt="" width="1000" height="511" /></figure> 
 1.  My Legions of Terror will have helmets with clear plexiglass visors, not face-concealing ones.
 2.  My ventilation ducts will be too small to crawl through.
 3.  My noble half-brother whose throne I usurped will be killed, not kept anonymously imprisoned in a forgotten cell of my dungeon.

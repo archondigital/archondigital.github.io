@@ -31,5 +31,5 @@ I still have a lot of friends on the network and so I kept one last Entrecard ac
 It was an interestingly unique yet bumpy ride dropping for the past two years but as for this site [Archon Digital][2], Entrecard has been finally dropped.
 
 [1]: http://www.yaw-yan.com
-[2]: http://archondigital.com/
+[2]: {{ site.baseurl }}/
   

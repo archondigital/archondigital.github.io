@@ -8,7 +8,7 @@ custom_css:
   - |
     body.postid-1532 {
     	background-color:#000;
-    	background-image: url(http://archondigital.com/wp-content/uploads/bg-neverforget.jpg);
+    	background-image: url({{ site.baseurl }}/assets/images/legacy/v5/bg-neverforget.jpg);
     	background-repeat: no-repeat;
     	background-position: center top;
     }

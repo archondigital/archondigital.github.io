@@ -2,9 +2,10 @@
 title: Permalink Migration on WordPress
 author: Jon Cuevas
 layout: post
-permalink: /permalink-migration-142/
-lead-image:
-  - http://archondigital.com/wp-content/uploads/blanktheme-lead.jpg
+permalink: /v5/permalink-migration-142/
+featured_image: /assets/images/legacy/v5/blanktheme-lead.jpg
+bg_color: 'rgba(0, 0, 0, .8);'
+text_color: light
 dsq_thread_id:
   - 933414660
 categories:

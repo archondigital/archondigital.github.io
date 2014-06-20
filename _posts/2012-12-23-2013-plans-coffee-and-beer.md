@@ -24,12 +24,12 @@ Seems everything is going as planned, though I&#8217;d still look forward to enj
 
 <div class="alert-box secondary">
   <p>
-    Disclosure: I actually started this post drinking coffee in a coffeeshop while thinking of beer and now I&#8217;m home having a soda (no beer at home) as I publish this post.<a href="http://archondigital.com/stats-recovered-jetpack-fixed-1664/"><br /> </a>
+    Disclosure: I actually started this post drinking coffee in a coffeeshop while thinking of beer and now I&#8217;m home having a soda (no beer at home) as I publish this post.<a href="{{ site.baseurl }}/stats-recovered-jetpack-fixed-1664/"><br /> </a>
   </p>
   
   <a href="" class="close">&times;</a>
 </div><figure class="figure alignnone">
 
-<img title="Beer" alt="Beer. Image courtesy of http://sxc.hu" src="http://archondigital.com/wp-content/uploads/beer_871700_98568385-768x1024.jpg" width="768" height="1024" /><figcaption>Beer. Image courtesy of http://sxc.hu</figcaption></figure>
+<img title="Beer" alt="Beer. Image courtesy of http://sxc.hu" src="{{ site.baseurl }}/assets/images/legacy/beer_871700_98568385-768x1024.jpg" width="768" height="1024" /><figcaption>Beer. Image courtesy of http://sxc.hu</figcaption></figure>
 
- [1]: http://archondigital.com
+ [1]: {{ site.baseurl }}

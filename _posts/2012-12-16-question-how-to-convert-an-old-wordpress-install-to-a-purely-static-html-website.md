@@ -17,7 +17,7 @@ dsq_thread_id:
 categories:
   - Wordpress
 ---
-<figure><img class="alignnone" title="convert wordpress to static html" alt="convert wordpress to static html" src="http://archondigital.com/wp-content/uploads/code.jpg" width="1181" height="640" /></figure> 
+<figure><img class="alignnone" title="convert wordpress to static html" alt="convert wordpress to static html" src="{{ site.baseurl }}/assets/images/legacy/v5/code.jpg" width="1181" height="640" /></figure> 
 This post is not a how-to article, I merely want to find out what is the best way to convert a WordPress install to a static HTML website. I was about to write an aside which turned out to be pretty long for an aside so it evolved into an actual post.
 
 When I redesigned my site two years ago, I decided to archive my old WordPress installation as a way to clean up all the bloat it accumulated from years of installing plugins, themes and custom scripts. The most logical decision for me was to just start with a fresh WordPress install  and retire my old installation under a subfolder. Archiving my site also required me to manually put dozens of 301 redirects to allow search engines and old backlinks to still find their way into my blog.
@@ -33,6 +33,6 @@ Any ideas, anyone?
 <div class="alignleft">
 </div>
 
- [1]: http://archondigital.com/lost-all-my-stats-after-jetpack-upgrade-1650/
+ [1]: {{ site.baseurl }}/lost-all-my-stats-after-jetpack-upgrade-1650/
  [2]: http://wordpress.org/extend/plugins/really-static/
  [3]: http://wordpress.org/extend/plugins/static-html-output-plugin/

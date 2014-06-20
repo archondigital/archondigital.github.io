@@ -36,7 +36,7 @@ It may not appear as simple and beautiful as the node.js powered Ghost which is 
 <div id='gallery-1' class='gallery galleryid-2045 gallery-columns-2 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://archondigital.com/wp-content/uploads/image.jpg'><img width="280" height="280" src="http://archondigital.com/wp-content/uploads/image-e1386956291106-280x280.jpg" class="attachment-thumbnail" alt="Easier than ever to add new posts while on-the-go" /></a>
+      <a href='{{ site.baseurl }}/assets/images/legacy/v5/image.jpg'><img width="280" height="280" src="{{ site.baseurl }}/assets/images/legacy/v5/image-e1386956291106-280x280.jpg" class="attachment-thumbnail" alt="Easier than ever to add new posts while on-the-go" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption'>
@@ -46,7 +46,7 @@ It may not appear as simple and beautiful as the node.js powered Ghost which is 
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://archondigital.com/wp-content/uploads/20131214-001009.jpg'><img width="280" height="280" src="http://archondigital.com/wp-content/uploads/20131214-001009-280x280.jpg" class="attachment-thumbnail" alt="Broken TinyMCE editor after uploading images through the mobile browser." /></a>
+      <a href='{{ site.baseurl }}/assets/images/legacy/v5/20131214-001009.jpg'><img width="280" height="280" src="{{ site.baseurl }}/assets/images/legacy/v5/20131214-001009-280x280.jpg" class="attachment-thumbnail" alt="Broken TinyMCE editor after uploading images through the mobile browser." /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption'>
@@ -56,7 +56,7 @@ It may not appear as simple and beautiful as the node.js powered Ghost which is 
   
   <br style="clear: both" /><dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://archondigital.com/wp-content/uploads/20131214-001028.jpg'><img width="280" height="280" src="http://archondigital.com/wp-content/uploads/20131214-001028-280x280.jpg" class="attachment-thumbnail" alt="Broken TinyMCE editor after uploading images through the mobile browser." /></a>
+      <a href='{{ site.baseurl }}/assets/images/legacy/v5/20131214-001028.jpg'><img width="280" height="280" src="{{ site.baseurl }}/assets/images/legacy/v5/20131214-001028-280x280.jpg" class="attachment-thumbnail" alt="Broken TinyMCE editor after uploading images through the mobile browser." /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption'>
@@ -66,7 +66,7 @@ It may not appear as simple and beautiful as the node.js powered Ghost which is 
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://archondigital.com/wp-content/uploads/20131214-001144.jpg'><img width="280" height="280" src="http://archondigital.com/wp-content/uploads/20131214-001144-280x280.jpg" class="attachment-thumbnail" alt="WordPress for iOS app editor" /></a>
+      <a href='{{ site.baseurl }}/assets/images/legacy/v5/20131214-001144.jpg'><img width="280" height="280" src="{{ site.baseurl }}/assets/images/legacy/v5/20131214-001144-280x280.jpg" class="attachment-thumbnail" alt="WordPress for iOS app editor" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption'>

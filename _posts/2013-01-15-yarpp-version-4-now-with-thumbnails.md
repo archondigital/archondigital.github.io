@@ -21,7 +21,7 @@ categories:
 
 YARPP now also allows you to edit directly on your theme&#8217;s CSS file to customize the styling. The HTML output of the plugin now comes wrapped in distinct classes that would make it easier to narrow down to which element you want to tweak via CSS. The interface of the settings page is also sleeker and simpler to use and by default only displays the most basic of options which would be enough for most users. The more advanced users can easily enable the other options by choosing which panels you want to display as you normally would via the Screen Options button in the WordPress backend. There are more changes outlined in this release but most of these can be seen on the [Changelog][2] of the plugin&#8217;s download page.
 
-### <img class="alignnone" alt="YARPP version 4 now with thumbnails" src="http://archondigital.com/wp-content/uploads/Screen-Shot-2013-01-14-at-3.59.45-PM.png" />
+### <img class="alignnone" alt="YARPP version 4 now with thumbnails" src="{{ site.baseurl }}/assets/images/legacy/v5/Screen-Shot-2013-01-14-at-3.59.45-PM.png" />
 
 I&#8217;ve been using **YARPP** on older versions of **[Archon Digital][3]** and on other websites that I run but decided to ditch it along with dozens of other plugins when I last revamped my site back in October 2011. Reasons for that were not really related to YARPP, but was more on trying out new things and starting afresh. Then fast forward to November 2012, I installed YARPP 3.6 beta 5 and tested it for a few days on a local installation and then forgot about it until this weekend. At present, after two days of having [Yet Another Related Post Plugin][4]&#8216;s latest version back on my site, I can immediately notice the increased amount of traffic and some improvement on my blog&#8217;s bounce rates.
 
@@ -43,9 +43,9 @@ Now don&#8217;t get me wrong, it&#8217;s not all bells and whistles that we&#821
 
 To date, I still find it to be the best related posts plugin for WordPress. **[YARPP][5]** is so useful to me that I consider it as a &#8220;fire-and-forget&#8221; plugin that I can deploy on a website and literally forget about for a long period of time. There were several instances where I would only check on YARPP&#8217;s settings once after an install and would come back to it only after a year or two, or even after three years. Now how&#8217;s that for a reliable plugin?
 
- [1]: http://archondigital.com/linkwithin-inspired-yarpp-template-854/
+ [1]: {{ site.baseurl }}/linkwithin-inspired-yarpp-template-854/
  [2]: http://wordpress.org/extend/plugins/yet-another-related-posts-plugin/changelog/
- [3]: http://archondigital.com
+ [3]: {{ site.baseurl }}
  [4]: http://mitcho.com/code/yarpp/
- [5]: http://archondigital.com/topic/yarpp/
- [6]: http://archondigital.com/webfaction-hosting-sucks-1005/
+ [5]: {{ site.baseurl }}/topic/yarpp/
+ [6]: {{ site.baseurl }}/webfaction-hosting-sucks-1005/

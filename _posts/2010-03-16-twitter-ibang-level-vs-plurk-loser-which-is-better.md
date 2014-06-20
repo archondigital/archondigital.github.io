@@ -19,7 +19,7 @@ This idea has always been bugging me for quite some time now and though I have m
 <!--more-->For the past year or so, I&#8217;ve always tried to get along with Plurk but sadly I just felt it wasn&#8217;t the app for me. With Twitter, I find it more rewarding being a blogger in terms of traffic and also in connecting with people in a closer way. But this is just me and I&#8217;m no social marketing expert and definitely not claiming to be one. I&#8217;m more interested in real users with real human opinions on this subject.
 
 <p style="text-align: center;">
-  <a href="http://archondigital.com/wp-content/uploads/twitter-ibang-level.jpg"><img class="size-medium wp-image-827 aligncenter" title="twitter-ibang-level" src="http://archondigital.com/wp-content/uploads/twitter-ibang-level-579x300.jpg" alt="" width="579" height="300" /></a>
+  <a href="{{ site.baseurl }}/assets/images/legacy/v5/twitter-ibang-level.jpg"><img class="size-medium wp-image-827 aligncenter" title="twitter-ibang-level" src="{{ site.baseurl }}/assets/images/legacy/v5/twitter-ibang-level-579x300.jpg" alt="" width="579" height="300" /></a>
 </p>
 
 > So what is the verdict? <a href="http://www.plurk.com/" target="_blank">Plurk</a> or <a href="http://twitter.com" target="_blank">Twitter</a>?

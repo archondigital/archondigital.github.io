@@ -12,8 +12,9 @@ amazon-product-content-hook-override:
   - 2
 amazon-product-newwindow:
   - 3
-lead-image:
-  - http://archondigital.com/wp-content/uploads/wordpress-menu.gif
+featured_image: /assets/images/legacy/v5/wordpress-menu.gif
+bg_color: 'rgba(0, 0, 0, .8);'
+text_color: light
 topsy_short_url:
   - http://bit.ly/dDzvDY
 studio-article:
@@ -32,7 +33,7 @@ One of the best new feature to come out of WordPress 3.0 is the menu editor. Th
 
 Ever since I updated to version 3.0 of WordPress, I&#8217;ve been wanting to get the new menu feature to work with Thematic. For several days I tried but failed miserably at every attempt. Now thanks to <a title="Theo Ribeiro – Photographer" href="http://theoribeiro.com/" rel="home">Theo Ribeiro</a>, who posted about this on the [Themeshaper forums][1]after following [this post from thematic4you][2], I was able to implement it on projects where I use Thematic.<figure class="figure alignnone">
 
-[<img class="size-full wp-image-1079" title="wordpress-menu" src="http://archondigital.com/wp-content/uploads/wordpress-menu.gif" alt="" width="589" height="425" />][3]<figcaption>The new WordPress menus allow you to easily drag-&-drop menu items</figcaption></figure> 
+[<img class="size-full wp-image-1079" title="wordpress-menu" src="{{ site.baseurl }}/assets/images/legacy/v5/wordpress-menu.gif" alt="" width="589" height="425" />][3]<figcaption>The new WordPress menus allow you to easily drag-&-drop menu items</figcaption></figure> 
 Copying the following code into your Thematic child theme&#8217;s functions.php will allow you to get the menu to work on Thematic.
 
 <span class="attention">Update: updated the snippet from what <a href="http://theoribeiro.com/">Theo Ribeiro</a> just suggested from the comments below</span>
@@ -54,5 +55,5 @@ I made only one minor change by following the comment thread on the Themeshaper 
 
  [1]: http://themeshaper.com/forums/topic/a-better-way-to-use-the-new-menu-in-wordpress-30-final-version
  [2]: http://programming.thematic4you.com/2010/03/how-to-test-wp_nav_menu-with-thematic/
- [3]: http://archondigital.com/wp-content/uploads/wordpress-menu.gif
+ [3]: {{ site.baseurl }}/assets/images/legacy/v5/wordpress-menu.gif
  [4]: http://codex.wordpress.org/Function_Reference/wp_nav_menu
