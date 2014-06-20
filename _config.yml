@@ -13,5 +13,5 @@ paginate_path: "articles/:num"
 markdown: kramdown
 permalink: pretty
 
-gems:
-  - jekyll-sitemap
+# gems:
+#   - jekyll-sitemap
