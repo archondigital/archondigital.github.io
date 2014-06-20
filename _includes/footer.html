@@ -6,8 +6,8 @@
     </div>
 
     <div class="large-4 large-pull-2 columns">
-      <h2 class="footer-heading">{{ site.title }}</h2>
-      <p class="text">{{ site.description }}</p>
+      <!-- <h2 class="footer-heading">{{ site.title }}</h2> -->
+      <!-- <p class="text">{{ site.description }}</p> -->
       <ul>
         <li>
           <a href="https://github.com/{{ site.username }}">
@@ -45,10 +45,11 @@
             <span class="username">{{ site.username }}</span>
           </a>
         </li>
-        <li><a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a></li>
+        <li><a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a> / <a href="{{ "/sitemap.xml" | prepend: site.baseurl }}">XML Sitemap</a></li>
         <li><a href="{{ site.url }}/about/privacy/">Privacy Policy</a></li>
       </ul>
     </div>
   </div>
 
 </footer>
+
