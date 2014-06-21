@@ -71,11 +71,11 @@ p.caption {font-size: 80%;}
   }
   .about .panel {position: absolute; bottom: 120px; width: 100%; background: rgba(0,0,0,0.5); border: none;}
 
-.articles {position: relative; min-height: 100%;}
-.articles article {background-size: cover; background-position: center; min-height: 400px; border-bottom: 1px #f1f1f1 solid;}
+.articles {position: relative;}
+.articles article {background-size: cover; background-position: center; border-bottom: 1px #f1f1f1 solid;}
   .articles article.light, .articles article.dark {border-bottom: none;}
   
-  .articles article .container {padding: 1.25rem; height: 400px; overflow: hidden;}
+  .articles article .container {padding: 1.25rem; overflow: hidden; height: 100%;}
     
     .articles article h1 a, .articles article p, .articles article a, .articles article .post-date {color:#666; }
     .articles article.light h1 a, .articles article.light p, .articles article.light a, .articles article.light .post-date {color:#fff;}
@@ -102,8 +102,7 @@ p.caption {font-size: 80%;}
   .about.fullscreen {height: auto;}
   #about h1 {position: relative; bottom: initial; font-size: 3em; opacity: 0.5;}
   .about .panel {position: relative; bottom: initial; width: 100%; background: rgba(0,0,0,0.5); border: none;}
-  .articles article {max-height: 400px;}
-  .articles article .container {padding: 1.25rem; height: 100$;}
+  .articles article {}
   } /* max-width 640px, mobile-only styles, use when QAing mobile issues */
 
 // Medium screens
@@ -112,14 +111,24 @@ p.caption {font-size: 80%;}
 @media only screen and (min-width: 40.063em) and (max-width: 64em) { } /* min-width 641px and max-width 1024px, use when QAing tablet-only issues */
 
 // Large screens
-@media only screen and (min-width: 64.063em) { } /* min-width 1025px, large screens */
+@media only screen and (min-width: 64.063em) {
+  .articles article {height: 400px;}
+ } /* min-width 1025px, large screens */
 
-@media only screen and (min-width: 64.063em) and (max-width: 90em) { } /* min-width 1025px and max-width 1440px, use when QAing large screen-only issues */
+@media only screen and (min-width: 64.063em) and (max-width: 90em) {
+  .articles article {height: 400px;}
+ } /* min-width 1025px and max-width 1440px, use when QAing large screen-only issues */
 
 // XLarge screens
-@media only screen and (min-width: 90.063em) { } /* min-width 1441px, xlarge screens */
+@media only screen and (min-width: 90.063em) { 
+  .articles article {height: 400px;}
+  } /* min-width 1441px, xlarge screens */
 
-@media only screen and (min-width: 90.063em) and (max-width: 120em) { } /* min-width 1441px and max-width 1920px, use when QAing xlarge screen-only issues */
+@media only screen and (min-width: 90.063em) and (max-width: 120em) { 
+  .articles article {height: 400px;}
+  } /* min-width 1441px and max-width 1920px, use when QAing xlarge screen-only issues */
 
 // XXLarge screens
-@media only screen and (min-width: 120.063em) { } /* min-width 1921px, xxlarge screens */
+@media only screen and (min-width: 120.063em) {
+  .articles article {height: 400px;}
+ } /* min-width 1921px, xxlarge screens */
