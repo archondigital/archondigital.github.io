@@ -1,5 +1,5 @@
 ---
-title: '(mt) Media Temple was just acquired by GoDaddy and I'm not sure if that's a good thing'
+title: "(mt) Media Temple was just acquired by GoDaddy and I'm not sure if that's a good thing"
 author: Jon Cuevas
 layout: post
 permalink: /mt-media-temple-was-just-acquired-by-godaddy-and-im-not-sure-if-thats-a-good-thing-2026/
