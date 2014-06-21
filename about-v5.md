@@ -1,7 +1,7 @@
 ---
 layout: post-custom
 title: About
-permalink: /about/v5/
+permalink: /v5/about/
 ---
 
 <meta http-equiv="refresh" content="0; url=http://archondigital.com/#about">
