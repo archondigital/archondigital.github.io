@@ -39,9 +39,8 @@ As it stands, the leap of faith required to bridge the logical gap in Blog Engag
 
 [Here is a link to the evidence and to all my references backing my opinions on this post][1]
 
-<span class="attention"><div class="alert-box secondary">
-  </span></p> <p>
-    <span class="attention">Disclaimer: This post was an entry for April fools and intended for fun. Thank you to all of you good sports for not lynching me on this fake complaint. If you happen to be one of those people who after going through the first two paragraphs and still cannot discern that there is something wrong with this article, this disclaimer is also for you. Cheers!</span>
+<div class="alert-box secondary">
+  <p>Disclaimer: This post was an entry for April fools and intended for fun. Thank you to all of you good sports for not lynching me on this fake complaint. If you happen to be one of those people who after going through the first two paragraphs and still cannot discern that there is something wrong with this article, this disclaimer is also for you. Cheers!
   </p>
   
   <a href="" class="close">&times;</a>
