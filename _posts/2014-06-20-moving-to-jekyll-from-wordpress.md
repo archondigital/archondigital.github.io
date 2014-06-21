@@ -28,7 +28,7 @@ The following are the main reasons why I had to ditch WordPress on my website:
 
 5.	**Liquid.** I've been using [Mixture.io][9] on some of my projects and that was where I ran into using [Liquid as a templating language][10]. I also intend to publish a boilerplate for Mixture that would work for Jekyll and Foundation 5. I seriously considered using Mixture instead of Jekyll at some point since I found their "collections" feature more stable than Jekyll offers but I wanted to have a "self-hosted" or a Github pages powered site that made use of.
 
-6.	**Ambition.** I want to create my own CMS similar to [Statamic][8] but for free and one that runs on Node and one that can work as either a flat file CMS or on a lightweight or noSQL database.
+6.	**Future plans.** I want to create my own open source CMS project similar to [Statamic][8], but for free, and one that runs on Node and one that can work as either a flat file CMS or on a lightweight or noSQL database.
 
 ### Sayonara WordPress?
 
@@ -36,7 +36,7 @@ No, not really. I'm letting go of WordPress just on this site and would still ac
 
 Working with WordPress has been a great learning experience for me these past few years and it has been very instrumental in the advancement of my career. I learned HTML in the late 90's while in school, but only started to delve into serious web design and development in 2003 while working as a graphic designer. My role has since evolved from a being just a graphic designer for print, to technical lead of projects running on various open source applications. 
 
-I've created different types of implementations for WordPress over the years and even used it for the government's [Institutional Memory][4] and [main government portal][4]. There was also a crude email marketing app that I did that ran on WordPress at some point and I once even made a digital signage system using WordPress in my previous work (too bad the link no longer works). 
+I've created different types of implementations for WordPress over the years and even used it for the government's [Institutional Memory][4] and [main government portal][4]. There was also a crude email marketing app that I did that ran on WordPress at some point and I once even made a digital signage system using WordPress in my previous work (too bad the link no longer works).
 
 
 [1]: http://archondigital.com
