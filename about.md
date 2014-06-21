@@ -1,4 +1,5 @@
 ---
+redirect_from: "http://archondigital.com/#about"
 layout: page
 title: About
 permalink: /about/

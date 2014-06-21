@@ -102,7 +102,8 @@ p.caption {font-size: 80%;}
   .about.fullscreen {height: auto;}
   #about h1 {position: relative; bottom: initial; font-size: 3em; opacity: 0.5;}
   .about .panel {position: relative; bottom: initial; width: 100%; background: rgba(0,0,0,0.5); border: none;}
-  .articles article .container {padding: 1.25rem; height: auto;}
+  .articles article {max-height: 400px;}
+  .articles article .container {padding: 1.25rem; height: 100$;}
   } /* max-width 640px, mobile-only styles, use when QAing mobile issues */
 
 // Medium screens
