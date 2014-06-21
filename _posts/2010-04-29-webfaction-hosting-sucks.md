@@ -9,7 +9,7 @@ bg_color: 'rgba(0, 0, 0, .8);'
 text_color: light
 comments: true
 ---
-After 10 months of hosting Archon Digital with these guys, I&#8217;d have to say [**Webfaction Sucks**][1] because I cannot find anything negative to say about it. Go ahead and try to Google that keyword &#8220;**Webfaction Sucks**&#8221; as you&#8217;d find almost nothing negative being said about my current web host. That in itself is pretty self-explanatory and if you would try searching for &#8220;Bluehost Sucks&#8221; or &#8220;Dreamhost Sucks&#8221; or for any other host you&#8217;d find thousands of complaints from unhappy customers.<!--more-->
+After 10 months of hosting Archon Digital with these guys, I'd have to say [**Webfaction Sucks**][1] because I cannot find anything negative to say about it. Go ahead and try to Google that keyword **Webfaction Sucks** as you'd find almost nothing negative being said about my current web host. That in itself is pretty self-explanatory and if you would try searching for Bluehost Sucks or Dreamhost Sucks or for any other host you'd find thousands of complaints from unhappy customers.<!--more-->
 
 <p style="text-align: center;">
   <img class="size-full wp-image-1010 aligncenter" title="Webfaction, Hosting that Sucks" alt="Webfaction, Hosting that Sucks" src="{{ site.baseurl }}/assets/images/legacy/v5/webfaction.jpg" width="618" height="480" />
