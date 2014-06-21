@@ -32,7 +32,7 @@ Lousy web hosts make more money off smaller hosting accounts which have low-traf
 Now if you are convinced that **Webfaction doesn't suck at all** and would wish to sign up and **help me out** in the process, you can follow the affiliate link and [help Archon Digital complete his goal of World Domination][4].
 
 
-[1]: http://archondigital.com/internet/hosting/webfaction-hosting-sucks/
-[2]: http://archondigital.com/internet/isp/smartbro/blame-it-on-my-isp-smart-bro/
+[1]: http://archondigital.com/webfaction-hosting-sucks-1005/
+[2]: http://archondigital.com/v5/internet/isp/smartbro/blame-it-on-my-isp-smart-bro/
 [3]: http://archondigital.com/v5/internet/hosting/a-new-slice-of-life-slicehost/
 [4]: http://www.webfaction.com/signup?affiliate=archondigital
