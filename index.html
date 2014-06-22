@@ -41,7 +41,7 @@ layout: home
 		<div class="large-8 large-centered columns text-center">
 			<ul class="pagination">
 			{% if paginator.previous_page %}
-				<li class="arrow"><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a></li>
+				<li class="arrow"><a href="{{ paginator.previous_page_path | replace: '//', '/' }}">&laquo; Prev</a></li>
 			{% else %}
 				<li class="arrow unavailable"><span>&laquo; Prev</span></li>
 			{% endif %}
@@ -57,7 +57,7 @@ layout: home
 			{% endfor %}
 
 			{% if paginator.next_page %}
-				<li class="arrow"><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a></li>
+				<li class="arrow"><a href="{{ paginator.next_page_path | replace: '//', '/' }}">Next &raquo;</a></li>
 			{% else %}
 				<li class="arrow unavailable"><span>Next &raquo;</span></li>
 			{% endif %}	
