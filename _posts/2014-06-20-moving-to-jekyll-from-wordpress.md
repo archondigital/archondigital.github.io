@@ -8,7 +8,7 @@ bg_color: '#c93b16;'
 text_color: light
 comments: true
 ---
-As of today, [Archon Digital][1] is now running on Jekyll and is being hosted on [Github pages][2]. Everything seems to work fine and I'm happy the transition went really well considering I was migrating in between breaks, meetings, at night and over the weekend. The original idea was only to migrate the old /v5/ parts of the site but after spending time reading Jekyll's documentation, I decided to move everything over.
+<p class="lead">As of today, <a href="http://archondigital.com">Archon Digital</a> is now running on Jekyll and is being hosted on <a href="https://pages.github.com/">Github Pages</a>. Everything seems to work fine and I'm happy the transition went really well considering I was migrating in between breaks, meetings, at night and over the weekend. The original idea was only to migrate the old /v5/ parts of the site but after spending time reading Jekyll's documentation, I decided to move everything over.</p>
 
 The idea to move started from when I wrote on finding out [how to turn an old WordPress install into a static site][7]. You see, Archon Digital was at that time a site running two WordPress installations, the main one on the root of the domain archondigital.com which was the most updated one and the older one under archondigital.com/v5 that had all the old plugins and posts that I've long since forgotten about. I wanted to turn the old one to a purely static site to save me the time of having to bother logging in and updating WordPress and its old plugins every time there is a new release.
 
