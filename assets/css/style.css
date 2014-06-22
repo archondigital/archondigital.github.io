@@ -21,6 +21,11 @@ ul.pagination {  display: inline-block;}
 
 p.caption {font-size: 80%;}
 
+/* Add Class for Images */
+  img.alignright { float: right; margin: 0 0 18px 18px; }
+  img.alignleft { float: left; margin: 0 18px 18px 0; }
+  img.aligncenter { display: block; margin: 18px auto; }
+
 #nav-main {
   z-index: 20;
   width: 100%;
