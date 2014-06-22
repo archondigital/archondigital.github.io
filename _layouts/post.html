@@ -10,6 +10,7 @@ layout: default
 			  	<p class="meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>	
 		  	</div>  		
 		</div>
+		{% include snippet-social.html %}
 	</header>
 
 	
@@ -20,7 +21,7 @@ layout: default
 			</div>
 		</div>
 	</article>
-	
+
 	{% include snippet-social.html %}
 	{% include comments.html %}
 
