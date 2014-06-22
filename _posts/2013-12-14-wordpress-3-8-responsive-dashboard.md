@@ -16,7 +16,7 @@ From my phone, I was able to tinker with the permalink, edit some custom fields 
 
 It may not appear as simple and beautiful as the node.js powered Ghost which is still under beta, but you can definitely do everything you want from WordPress 3.8's new responsive dashboard.
 
-<div class="panel">
+<div>
   <h3>Screenshots of WordPress 3.8 responsive dashboard</h3>
 
   <ul class="clearing-thumbs" data-clearing>
