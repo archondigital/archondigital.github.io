@@ -21,6 +21,9 @@ ul.pagination {  display: inline-block;}
 
 p.caption {font-size: 80%;}
 
+.share-tweet, .share-fb {height: 20px; float: left; margin-right: 5px;}
+/*.fb-like.fb_iframe_widget {position: absolute !important; top: 0 !important;}*/
+
 /* Add Class for Images */
   img.alignright { float: right; margin: 0 0 18px 18px; }
   img.alignleft { float: left; margin: 0 18px 18px 0; }
