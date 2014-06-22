@@ -8,59 +8,42 @@ bg_color: '#fdb406;'
 text_color: dark
 comments: true
 ---
-The WordPress 3.8 dashboard has gone responsive and it's gorgeous. I'm posting this now from my iPhone 5 through the default iOS Safari browser and I must say I'm really impressed. The guys at Automattic has definitely moved in the right direction on this one.
+<p class="lead">
+  The WordPress 3.8 dashboard has gone responsive and it's gorgeous. I'm posting this now from my iPhone 5 through the default iOS Safari browser and I must say I'm really impressed. The guys at Automattic has definitely moved in the right direction on this one.
+</p>
 
 From my phone, I was able to tinker with the permalink, edit some custom fields and taxonomies and other functionalities which you couldn't edit from their iOS or Android app. I run a lot of custom functions and specialized plugins on the larger sites that I run and being able to edit a custom field using the my own custom interface while on-the-go is a big plus for me.
 
 It may not appear as simple and beautiful as the node.js powered Ghost which is still under beta, but you can definitely do everything you want from WordPress 3.8's new responsive dashboard.
 
-## Screenshots of WordPress 3.8 responsive dashboard
+<div class="panel">
+  <h3>Screenshots of WordPress 3.8 responsive dashboard</h3>
 
-<div id='gallery-1' class='gallery galleryid-2045 gallery-columns-2 gallery-size-thumbnail'>
-  <dl class='gallery-item'>
-    <dt class='gallery-icon portrait'>
-      <a href='{{ site.baseurl }}/assets/images/legacy/v5/image.jpg'><img width="280" height="280" src="{{ site.baseurl }}/assets/images/legacy/v5/image-e1386956291106-280x280.jpg" class="attachment-thumbnail" alt="Easier than ever to add new posts while on-the-go" /></a>
-    </dt>
-    
-    <dd class='wp-caption-text gallery-caption'>
-      WordPress 3.8's responsive dashboard allows you to easily publish posts even when unable to use your desktop or laptop.
-    </dd>
-  </dl>
-  
-  <dl class='gallery-item'>
-    <dt class='gallery-icon portrait'>
-      <a href='{{ site.baseurl }}/assets/images/legacy/v5/20131214-001009.jpg'><img width="280" height="280" src="{{ site.baseurl }}/assets/images/legacy/v5/20131214-001009-280x280.jpg" class="attachment-thumbnail" alt="Broken TinyMCE editor after uploading images through the mobile browser." /></a>
-    </dt>
-    
-    <dd class='wp-caption-text gallery-caption'>
-      Broken TinyMCE editor after uploading images through the mobile browser.
-    </dd>
-  </dl>
-  
-  <br style="clear: both" /><dl class='gallery-item'>
-    <dt class='gallery-icon portrait'>
-      <a href='{{ site.baseurl }}/assets/images/legacy/v5/20131214-001028.jpg'><img width="280" height="280" src="{{ site.baseurl }}/assets/images/legacy/v5/20131214-001028-280x280.jpg" class="attachment-thumbnail" alt="Broken TinyMCE editor after uploading images through the mobile browser." /></a>
-    </dt>
-    
-    <dd class='wp-caption-text gallery-caption'>
-      Paragraph text does not wrap text into since it is forced to follow to follow the width of the image.
-    </dd>
-  </dl>
-  
-  <dl class='gallery-item'>
-    <dt class='gallery-icon portrait'>
-      <a href='{{ site.baseurl }}/assets/images/legacy/v5/20131214-001144.jpg'><img width="280" height="280" src="{{ site.baseurl }}/assets/images/legacy/v5/20131214-001144-280x280.jpg" class="attachment-thumbnail" alt="WordPress for iOS app editor" /></a>
-    </dt>
-    
-    <dd class='wp-caption-text gallery-caption'>
-      I had to continue editing using the iOS app to be able to edit the copy properly.
-    </dd>
-  </dl>
-  
-  <br style="clear: both" />
+  <ul class="clearing-thumbs" data-clearing>
+    <li>
+      <a href="{{ site.baseurl }}/assets/images/legacy/image.jpg">
+      <img src="{{ site.baseurl }}/assets/images/legacy/image-e1386956291106-280x280.jpg" data-caption="WordPress 3.8's responsive dashboard allows you to easily publish posts even when unable to use your desktop or laptop."></a>
+    </li>
+
+    <li>
+      <a href="{{ site.baseurl }}/assets/images/legacy/20131214-001009.jpg">
+      <img src="{{ site.baseurl }}/assets/images/legacy/20131214-001009-280x280.jpg" data-caption="Broken TinyMCE editor after uploading images through the mobile browser."></a>
+    </li>
+
+    <li>
+      <a href="{{ site.baseurl }}/assets/images/legacy/20131214-001028.jpg">
+      <img src="{{ site.baseurl }}/assets/images/legacy/20131214-001028-280x280.jpg" data-caption="Paragraph text does not wrap text into since it is forced to follow to follow the width of the image."></a>
+    </li>
+
+    <li>
+      <a href="{{ site.baseurl }}/assets/images/legacy/20131214-001144.jpg">
+      <img src="{{ site.baseurl }}/assets/images/legacy/20131214-001144-280x280.jpg" data-caption="I had to continue editing using the iOS app to be able to edit the copy properly."></a>
+    </li>
+
+  </ul>  
 </div>
 
-## Minor kinks
+### Minor kinks
 
 There were a just few minor kinks I encountered when the tinyMCE editor went all funky after I uploaded an image I took using my phone.
 
