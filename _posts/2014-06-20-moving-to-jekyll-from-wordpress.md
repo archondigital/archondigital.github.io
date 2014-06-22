@@ -24,11 +24,11 @@ The following are the main reasons why I had to ditch WordPress on this website:
 
 3. 	**Sublime.** I prefer to write stuff and code using Sublime. But I also use iA Writer and Evernote on my iPhone and iPad. I'd want to be able to write about anything using just about any app that was available to me.
 
-4.	**Github.** Github pages is free and amazingly fast. It also allows for version control and encourages me to do more useful and creative stuff. I also find myself more productive when on Github and treat it as my social network compared wasting time on Twitter and Facebook.
+4.	**Github.** Github pages is free and amazingly fast. It also allows for version control and encourages me to do more useful and creative stuff. I also find myself more productive when on Github and treat it as my social network compared to wasting time on Twitter and Facebook.
 
 5.	**Liquid.** I've been using [Mixture.io][9] on some of my projects and that was where I ran into using [Liquid as a templating language][10]. I also intend to publish a boilerplate for Mixture that would work for Jekyll and Foundation 5. I seriously considered using Mixture instead of Jekyll at some point since I found their "collections" feature more stable from what Jekyll offers, but I also wanted to have a "self-hosted" or a Github pages powered site that made use of Jekyll.
 
-6.	**Future plans.** I want to create my own open source CMS project similar to [Statamic][8], but for free, and one that runs on Node and one that can work as either a flat file CMS or on a lightweight or noSQL database.
+6.	**Future plans.** I want to create my own open source CMS project similar to [Statamic][8], but for free, and one that runs on Node.js and one that can work as either a flat file CMS or on a lightweight or noSQL database.
 
 ### Sayonara WordPress?
 
