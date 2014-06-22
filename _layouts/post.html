@@ -7,10 +7,10 @@ layout: default
 		<div class="row">
 		  	<div class="large-12 columns">
 			  	<h1>{{ page.title }}</h1>
-			  	<p class="meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>	
+			  	<p class="meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %} {% include snippet-social.html %}</p>	
 		  	</div>  		
 		</div>
-		{% include snippet-social.html %}
+
 	</header>
 
 	
@@ -21,8 +21,12 @@ layout: default
 			</div>
 		</div>
 	</article>
-
-	{% include snippet-social.html %}
+	<div class="row">
+		<div class="large-12 columns">
+			{% include snippet-social.html %}		
+		</div>
+	</div>
+	
 	{% include comments.html %}
 
 </div>
