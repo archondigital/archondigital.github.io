@@ -3,10 +3,40 @@
 <head>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="{{ site.description }}">
 
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+	
+	<meta name="twitter:title" content="{{ page.title }}">
+	<meta property="og:title" content="{{ page.title }}" />
+	<meta property="og:sitename" content="{{ page.title }}" />
+	<meta itemprop="name" content="{{ page.title }}">
+	{% if page.description %}
+	<meta name="twitter:description" content="{{ page.description }}">
+	<meta property="og:description" content="{{ page.description }}" />
+	<meta itemprop="description" content="{{ page.description }}">
+	<meta name="description" content="{{ page.description }}" />
+	{% else %}
+	<meta name="twitter:description" content="Archon Digital, World Domination and the Internet - {{ site.description }}">
+	<meta property="og:description" content="Archon Digital, World Domination and the Internet - {{ site.description }}" />
+	<meta itemprop="description" content="Archon Digital, World Domination and the Internet - {{ site.description }}">
+	<meta name="description" content="Archon Digital, World Domination and the Internet - {{ site.description }}" />
+	{% endif %}
+	<meta name="twitter:creator" content="@archondigital">
+	<meta name="twitter:domain" content="archondigital.com{{ page.url }}">
+	<meta property="og:type" content="article" />
+	<meta property="og:url" content="http://archondigital.com{{ page.url }}" />
+	<meta property="og:image" content="{{ post.featured_image | prepend: site.baseurl }}" />
+	<meta name="twitter:image:src" content="{{ post.featured_image | prepend: site.baseurl }}">
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="@archondigital">
+	<link rel="author" href="https://plus.google.com/google-plus-profile-id/posts"/>
+	{% if page.keywords %}
+	<meta name="keywords" content="{{ page.keywords }}">
+	{% else %}
+	<meta name="keywords" content="Archon Digital, World Domination and the Internet">
+	{% endif %}
+
 	<link rel="stylesheet" href="{{ "/assets/css/app.css" | prepend: site.baseurl }}">
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{ "/assets/css/style.css" | prepend: site.baseurl }}">
@@ -14,3 +44,5 @@
 	{% include scripts-head.html %}
 
 </head>
+
+
