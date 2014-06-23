@@ -12,11 +12,13 @@
 	<meta property="og:sitename" content="{{ page.title }}" />
 	<meta itemprop="name" content="{{ page.title }}">
 	{% if page.excerpt %}
+	<!-- description -->
 	<meta name="twitter:description" content="{{ page.excerpt }}">
 	<meta property="og:description" content="{{ page.excerpt }}" />
 	<meta itemprop="description" content="{{ page.excerpt }}">
 	<meta name="description" content="{{ page.excerpt }}" />
 	{% else %}
+	<!-- default description -->
 	<meta name="twitter:description" content="Archon Digital, World Domination and the Internet - {{ site.description }}">
 	<meta property="og:description" content="Archon Digital, World Domination and the Internet - {{ site.description }}" />
 	<meta itemprop="description" content="Archon Digital, World Domination and the Internet - {{ site.description }}">
@@ -26,9 +28,17 @@
 	<meta name="twitter:domain" content="archondigital.com{{ page.url }}">
 	<meta property="og:type" content="article" />
 	<meta property="og:url" content="http://archondigital.com{{ page.url }}" />
+	{% if page.featured_image %}
+	<!-- featured image -->
 	<meta property="og:image" content="{{ page.featured_image | prepend: site.baseurl }}" />
 	<meta name="twitter:image:src" content="{{ page.featured_image | prepend: site.baseurl }}">
-	<meta name="twitter:card" content="summary">
+	<meta name="twitter:card" content="summary_large_image">
+	{% else %}
+	<!-- no featured image, loading default image -->
+	<meta property="og:image" content="{{ "/assets/images/alapeanutbuttersandwiches.jpg" | prepend: site.baseurl }}" />
+	<meta name="twitter:image:src" content="{{ "/assets/images/alapeanutbuttersandwiches.jpg" | prepend: site.baseurl }}">
+	<meta name="twitter:card" content="summary_large_image">
+	{% endif %}
 	<meta name="twitter:site" content="@archondigital">
 	<link rel="author" href="https://plus.google.com/google-plus-profile-id/posts"/>
 	{% if page.keywords %}
