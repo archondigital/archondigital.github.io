@@ -1,9 +1,12 @@
 ---
-title: "46 and 2 by Tool cover done by kids"
+title: "Kids cover '46 and 2' by Tool"
 author: Jon Cuevas
 excerpt: "Best Tool cover ever!"
 layout: post-video
 permalink: /46-and-2-by-tool-kids/
+featured_image: /assets/images/articles/46-and-2-tool-cover.jpg
+bg_color: 'rgba(0, 0, 0, .6);'
+text_color: light
 video_id: mYKLvYGqaC0
 comments: true
 ---
@@ -13,3 +16,4 @@ These kids are all students of [Aaron O'Keefe][1] and their other recordings can
 
 [1]: http://aaronokeefe.com/
 [2]: https://aaronokeefe.bandcamp.com/
+
