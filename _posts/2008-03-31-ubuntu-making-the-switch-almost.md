@@ -15,19 +15,19 @@ The long hours spent during my free time has paid off as I managed to get Ubuntu
 
 ## Painless and Clinical
 
-The entire experiment&#8217;s objective was to prepare me to actually make the switch to open source on my home computers. Ubuntu&#8217;s installation ran without much problems, as most of the issues encountered were &#8220;user-oriented&#8221; due to my lack of knowledge of anything Linux-related.<!--more-->
+The entire experiment's objective was to prepare me to actually make the switch to open source on my home computers. Ubuntu's installation ran without much problems, as most of the issues encountered were "user-oriented" due to my lack of knowledge of anything Linux-related.<!--more-->
 
 For my home PC, installed Ubuntu on an old 40GB hard drive which I managed to salvage at home. Installation was a breeze as I merely ate lunch while watching over the whole process.
 
 Here is a screenshot of Ubuntu running on my home PC.
 
-[![Ubuntu running Gimp](http://farm4.static.flickr.com/3110/2376899864_1b6f1383d4_m.jpg)](http://www.flickr.com/photos/22375586@N03/2376899864/ "Ubuntu running Gimp")
+[![Ubuntu running Gimp]({{ site.baseurl }}/assets/images/legacy/v5/ubuntu-2376899864_db169eacd0_o.jpg)](http://www.flickr.com/photos/22375586@N03/2376899864/ "Ubuntu running Gimp")
 
 On my work computer, I installed Ubuntu from within Windows XP using [Virtualbox](http://www.virtualbox.org/), an open-source virtualization solution which was recently acquired by Sun Microsystems.
 
 Here is a screenshot of Ubuntu running inside Windows XP as a guest OS using Virtualbox. (Ubuntu is running on the right side of the screen)
 
-[![Ubuntu - XP Screenshot](http://farm4.static.flickr.com/3111/2375648051_8c186d61b0.jpg)](http://www.flickr.com/photos/22375586@N03/2375648051/ "Ubuntu - XP Screenshot")
+[![Ubuntu - XP Screenshot]({{ site.baseurl }}/assets/images/legacy/v5/ubuntu-2375648051_7bf6705cfb_o.jpg)](http://www.flickr.com/photos/22375586@N03/2375648051/ "Ubuntu - XP Screenshot")
 
 So far, everything has worked out really well. I have never experienced any of the hanging and crashing which happens frequently on Windows. Open-source is beginning to be a viable alternative to the Windows/OSX graphic design workflow.
 
@@ -35,19 +35,19 @@ This could mean big savings for me at home and eventually for the company I work
 
 Imagine never having to pay for an OS upgrade while your hardware and software work harmoniously together without any hacks or workarounds of any kind.
 
-## What&#8217;s Keeping Me from Switching?
+## What's Keeping Me from Switching?
 
-In as much as I&#8217;d like to make the 100% switch to Linux, my main design software still keeps me from doing so.
+In as much as I'd like to make the 100% switch to Linux, my main design software still keeps me from doing so.
 
 Adobe, one of the major players in the graphic design software industry, is yet to make an official version of their products Photoshop, InDesign and Illustrator for Linux. So far, there is no word of making a Creative Suite version for Linux.
 
-Though there are plenty of tutorials on how to get Photoshop and other Windows applications to run from within Ubuntu using [Wine](http://www.winehq.org/), I still feel it would greatly hamper my workflow should I attempt to do so. There are several tutorials of how to make [Photoshop CS2 run on Linux](http://wiki.winehq.org/AdobePhotoshop) but most of the feedback I get is that they are still quite buggy. And you couldn&#8217;t make me go back to Photoshop 7, which works perfectly fine under Wine.
+Though there are plenty of tutorials on how to get Photoshop and other Windows applications to run from within Ubuntu using [Wine](http://www.winehq.org/), I still feel it would greatly hamper my workflow should I attempt to do so. There are several tutorials of how to make [Photoshop CS2 run on Linux](http://wiki.winehq.org/AdobePhotoshop) but most of the feedback I get is that they are still quite buggy. And you couldn't make me go back to Photoshop 7, which works perfectly fine under Wine.
 
-I&#8217;m telling you, once you&#8217;ve gotten used to [smart objects](http://www.adobe.com/products/photoshop/pop_smart.html), you&#8217;d never want to go back to working without it.
+I'm telling you, once you've gotten used to [smart objects](http://www.adobe.com/products/photoshop/pop_smart.html), you'd never want to go back to working without it.
 
 ## Getting Ready For the Long Haul
 
-I will wait until Adobe cranks out a Linux version of CS3 or maybe until then I&#8217;d install Windows XP as guest OS using Virtualbox to help me run Adobe applications. Then again there&#8217;s also the effort being made by [Google to make Photoshop run properly on Linux.
+I will wait until Adobe cranks out a Linux version of CS3 or maybe until then I'd install Windows XP as guest OS using Virtualbox to help me run Adobe applications. Then again there's also the effort being made by [Google to make Photoshop run properly on Linux.
 
 ](http://asia.cnet.com/reviews/digitalcameras/0,39001469,62037989,00.htm)
 
