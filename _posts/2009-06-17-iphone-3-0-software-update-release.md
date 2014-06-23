@@ -1,30 +1,26 @@
 ---
-title: Letterman Apologizes to Sarah Palin, Daughters and Family
+title: iPhone 3.0 Software Update Release
 author: Jon Cuevas
 layout: post
-permalink: /v5/technology/software/iphones-activation-server-down/
+permalink: /v5/technology/software/iphone-3-0-software-update-release/
 excerpt: "The iPhone OS 3.0 Software update is due for release this June 17, 2009. As of this writing, scores of Apple iPhone enthusiasts are all waiting for the exact time this will be released to the public and are all searching any information they can find over the internet."
 featured: false
 comments: true
 ---
-David Letterman apologized on air this June 15th to Sarah Palin her daughters and the rest of their family in an effort to hopefully end the controversy surrounding the joke that he said a few days ago on his show regarding the Alaska governor's daughter. The entire situation has gone from coarse joke to a national campaign by conservatives to hold Letterman responsible and account for his wrong deeds. The newly formed advocacy group firedavidletterman.com has called for Letterman to be fired from CBS even went as far as staging a rally in front of Ed Sullivan Theatre where the Lateshow is taped.
+The iPhone OS 3.0 Software update is due for release this June 17, 2009. As of this writing, scores of Apple iPhone enthusiasts are all waiting for the exact time this will be released to the public and are all searching any information they can find over the internet.<!--more-->
 
-![firedave][1]
+<div id="attachment_436" style="width: 361px" class="wp-caption alignnone">
+  <img class="size-medium wp-image-436" title="iPhone 3.0 - Cut, Copy & Paste and Landscape Keyboard" src="{{ site.baseurl }}/assets/images/legacy/v5/cut-copy-landscape-20090608.jpg" alt="Cut, Copy & Paste and Landscape Keyboard" width="351" height="300" /><p class="wp-caption-text">
+    Cut, Copy & Paste and Landscape Keyboard
+  </p>
+</div>
 
-The longtime Lateshow host started his show with this quip aimed at the ongoing Fire David Letterman rally outside Ed Sulivan Theatre.
+iPhone's improved operating systems is expected to enable much awaited features such as MMS, peer-to-peer gaming, internet tethering among others. Much of these improvements have long been sought after by iPhone users who use their iPhones from making calls, organizing time and to finding locations via GPS. The new version will enable users to download upcoming applications, productivity tools and games for their beloved iPhones.
 
-"Now when I call your name, please come forward and pick up your apology. [Laughter, applause] I wanna get through this as quickly as possibly so you folks can get to the 'Fire Dave Rally.' [Cheering] It's nice that people hate me who are no longer just part of my immediate family. My son, he's telling everybody at school that his father is Conan!"
+<div id="attachment_439" style="width: 498px" class="wp-caption alignnone">
+  <img class="size-medium wp-image-439" title="iPhone 3.0 New Features" src="{{ site.baseurl }}/assets/images/legacy/v5/iPhone3a.jpg" alt="iPhone 3.0 New Features" width="488" height="300" /><p class="wp-caption-text">
+    iPhone 3.0 New Features
+  </p>
+</div>
 
-His apology was straighforward and did not point to any other party and after that the show went on and was as hilarious as ever.
-
-"I would like to apologize, especially to the two daughters involved, Bristol and Willow, and also to the governor and her family and everybody else who was outraged by the joke. I'm sorry about it and I'll try to do better in the future."
-
-He also stated that his intent was indeed meaningles nevertheless the perception was the one that caused public outrage and that he is taking full responsibility for his actions.
-
-See the video of Letterman's apology for his "flawed" joke
-
-Hopefully this would put an end to this and everybody involved would get on with their lives.
-
-" ); (function() { var nn = document.createElement('script'); nn.type = 'text/javascript'; nn.src = 'http://synad2.nuffnang.com.ph/lr.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(nn, s.nextSibling); })();
-
-[1]: {{ site.baseurl }}/assets/images/legacy/v5/firedave.jpg "firedave"
+Apple iPhone OS 3.0 can be downloaded free-of-charge for existing iPhone users and iPod touch owners will have to pay small $9.95 fee.
