@@ -1,7 +1,7 @@
 ---
 title: "Kids cover '46 and 2' by Tool"
 author: Jon Cuevas
-excerpt: "Best Tool cover ever!"
+excerpt: "I've already seen this video a couple of times, shared it in the past on my FB and on Twitter, but it's still, hands down, the best cover done for this song by Tool."
 layout: post-video
 permalink: /46-and-2-by-tool-kids/
 featured_image: /assets/images/articles/46-and-2-tool-cover.jpg
