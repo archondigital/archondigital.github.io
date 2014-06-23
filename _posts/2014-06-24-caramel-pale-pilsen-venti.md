@@ -16,6 +16,6 @@ I'm always terrible at taking pictures of food and it was just too early to take
 
 Re-posted from my [Tumblr][1] and [Instagram][2] feed but using the original photo taken 4 months ago at [Kabisera Ng Dencios][3], Bonifacio High Street. 
 
-[1]: http://archondigital.tumblr.com
+[1]: http://archondigital.tumblr.com/post/77796559228/starbucks-starbucks-din-pag-may-time-at
 [2]: http://instagram.com/p/k1i6D8mq4E
 [3]: https://foursquare.com/v/kabisera-ng-dencios/4b866c17f964a520778931e3
