@@ -6,20 +6,7 @@ permalink: /v5/technology/software/open-source/ubuntu-switched/
 featured_image: /assets/images/legacy/v5/ubuntu-lead.jpg
 bg_color: 'rgba(0, 0, 0, .8);'
 text_color: light
-aktt_notify_twitter:
-  - no
-topsy_short_url:
-  - http://bit.ly/6bOGfC
-dsq_thread_id:
-  - 2769798594
-categories:
-  - Open Source
-tags:
-  - Linux
-  - Open Source
-  - operating systems
-  - Software
-  - Ubuntu
+comments: true
 ---
 So after my little adventure with Hardy Heron almost [three weeks ago][1], I can proudly say that my home PC is now a true-blue Linux box. Everyone at home now uses the OS for their browsing, e-mail and word processing duties. No complaints so far from my users at home. It seems they have <!--more-->adjusted pretty easily or don&#8217;t actually care whatever the operating system is as long as everything just works.
 
@@ -31,5 +18,5 @@ Working on the Linux command line has given me enough practice to be confident e
 
 My article on setting up my very first VPS will come next.
 
- [1]: {{ site.baseurl }}/technology/software/open-source/ubuntu-making-the-switch-almost/
- [2]: {{ site.baseurl }}/about/
+ [1]: http://archondigital.com/technology/software/open-source/ubuntu-making-the-switch-almost/
+ [2]: http://archondigital.com/about/
