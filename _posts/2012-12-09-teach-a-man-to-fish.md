@@ -13,5 +13,3 @@ comments: true
 
 It bothers me that Manila bay is not clean enough for people to bathe in or to fish on, and that at present, there are other more desperate people who would not think twice about eating whatever they catch in these waters if only to satisfy their hunger.
 
-<p class="caption">(Left) Fishing for food in Manila bay's murky waters.</p>
-
