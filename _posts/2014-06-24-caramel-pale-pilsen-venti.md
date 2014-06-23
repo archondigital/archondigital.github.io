@@ -6,7 +6,7 @@ excerpt: "Starbucks starbucks din pag may time..."
 layout: post-photo
 permalink: /caramel-pale-pilsen-venti/
 featured_image: /assets/images/articles/caramel-pale-pilsen-venti-2021.jpg
-bg_color: 'rgba(0, 0, 0, .6);'
+bg_color: 'rgba(0, 0, 0, .8);'
 text_color: light
 comments: true
 ---
