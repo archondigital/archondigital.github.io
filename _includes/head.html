@@ -11,11 +11,11 @@
 	<meta property="og:title" content="{{ page.title }}" />
 	<meta property="og:sitename" content="{{ page.title }}" />
 	<meta itemprop="name" content="{{ page.title }}">
-	{% if page.description %}
-	<meta name="twitter:description" content="{{ page.description }}">
-	<meta property="og:description" content="{{ page.description }}" />
-	<meta itemprop="description" content="{{ page.description }}">
-	<meta name="description" content="{{ page.description }}" />
+	{% if page.excerpt %}
+	<meta name="twitter:description" content="{{ page.excerpt }}">
+	<meta property="og:description" content="{{ page.excerpt }}" />
+	<meta itemprop="description" content="{{ page.excerpt }}">
+	<meta name="description" content="{{ page.excerpt }}" />
 	{% else %}
 	<meta name="twitter:description" content="Archon Digital, World Domination and the Internet - {{ site.description }}">
 	<meta property="og:description" content="Archon Digital, World Domination and the Internet - {{ site.description }}" />
