@@ -8,24 +8,30 @@
     
     
 {% if paginator.page != 1 %}
-
+    
+    {% include scripts-body.html %}
 	{% include header.html %}
     {{ content }}
+    {% include footer.html %}
+    {% include modal-contact.html %}
+    {% include scripts-footer.html %}
     
 {% else %}
 
+    {% include scripts-body-home.html %}
     {% include header-home.html %}
 	{% include banner-main.html %}
     {% include snippet-featured.html %}
     {% include snippet-about.html %}
     {% include snippet-projects.html %}
     {{ content }}
+    {% include footer.html %}
+    {% include modal-contact.html %}
+    {% include scripts-footer-home.html %}    
 
 {% endif %}
 
-    {% include footer.html %}
-    {% include modal-contact.html %}
-    {% include scripts-footer-home.html %}
+
 
     </body>
 </html>
