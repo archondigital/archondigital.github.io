@@ -89,7 +89,7 @@ p.caption {font-size: 80%;}
   .about .panel {position: absolute; bottom: 120px; width: 100%; background: rgba(0,0,0,0.5); border: none;}
 
 .articles {position: relative;}
-.articles article {background-size: cover; background-position: center; border-bottom: 1px #f1f1f1 solid;}
+.articles article {background-size: cover; background-position: center center; background-attachment: fixed; border-bottom: 1px #f1f1f1 solid;}
   .articles article.light, .articles article.dark {border-bottom: none;}
   
   .articles article .container {padding: 1.25rem; overflow: hidden; height: 100%;}
