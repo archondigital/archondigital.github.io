@@ -12,7 +12,7 @@ layout: home
 	</div>
 	
 	{% for post in paginator.posts %}
-	<article class="{{ post.text_color }}" style="background-image: url({{ post.featured_image | prepend: site.baseurl }});" data-stellar-background-ratio="0.6">
+	<article class="article {{ post.text_color }} alapeanutbuttersandwiches" style="background-image: url({{ post.featured_image | prepend: site.baseurl }});" data-stellar-background-ratio="0.6">
 		<div class="container" style="background: {{ post.bg_color }}">
 			<div class="row fullwidth">
 				<div class="large-2 columns">

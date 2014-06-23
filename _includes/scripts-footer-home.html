@@ -27,5 +27,10 @@ $('a[href*=#]:not([href=#])').click(function() {
 	}
 });
 
+$(document).ready(function(){ 
+	$('#articles').waypoint(function(direction) {
+	  $( ".article" ).removeClass( "alapeanutbuttersandwiches" ).addClass( "poof" );
+	});
+});
 
 </script>
