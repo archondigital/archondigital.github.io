@@ -34,6 +34,8 @@ p.caption {font-size: 80%;}
 /*.fb-like.fb_iframe_widget {position: absolute !important; top: 0 !important;}*/
 
 /* Add Class for Images */
+  img.offgrid-right {max-width: 150%; margin-right: -45%;}
+  img.offgrid-left {max-width: 150%; margin-left: -45%;}
   img.alignright { float: right; margin: 0 0 18px 18px; }
   img.alignleft { float: left; margin: 0 18px 18px 0; }
   img.aligncenter { display: block; margin: 18px auto; }
