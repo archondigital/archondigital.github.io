@@ -63,9 +63,9 @@ p.caption {font-size: 80%;}
   .fullscreen .orbit-container {height: 100%;}
   .fullscreen .orbit-container ul {height: 100%;}
     .fullscreen .orbit-container ul li {height: 100%;}
-    .fullscreen .orbit-container ul li .orbit-slide {height: 70%; background-position: center; background-size: cover;}
+    .fullscreen .orbit-container ul li .orbit-slide {height: 65%; background-position: center; background-size: cover;}
 
-#masthead.fullscreen {height: 130%;}
+#masthead.fullscreen {height: 150%;}
   #masthead.fullscreen .orbit-container ul li {height: 100%; background-position: center; background-size: cover;}
 
   #masthead .orbit-caption {position: relative; padding: 1.25rem; height: 400px; background: #fff;} 
