@@ -62,7 +62,16 @@ p.caption {font-size: 80%;}
 .fullscreen {position: relative; height: 100%; width: 100%;}
   .fullscreen .orbit-container {height: 100%;}
   .fullscreen .orbit-container ul {height: 100%;}
-    .fullscreen .orbit-container ul li {height: 100%; background-position: center; background-size: cover;}
+    .fullscreen .orbit-container ul li {height: 100%;}
+    .fullscreen .orbit-container ul li .orbit-slide {height: 70%; background-position: center; background-size: cover;}
+
+#masthead.fullscreen {height: 130%;}
+  #masthead.fullscreen .orbit-container ul li {height: 100%; background-position: center; background-size: cover;}
+
+  #masthead .orbit-caption {position: relative; padding: 1.25rem; height: 400px; background: #fff;} 
+  #masthead .orbit-caption p {color: #000;} 
+
+#masthead .orbit-container .orbit-prev, #masthead .orbit-container .orbit-next {top: 87%; background-color: rgba(0,0,0,0.2);}  
   
 .fullwidth { max-width: 100%;}
 
@@ -74,7 +83,7 @@ p.caption {font-size: 80%;}
   .archives #content {padding-top: 90px;}
 .archives ul.archive {display:block; min-height: 160px;}
 
-#featured {padding: 1.25rem; min-height: 400px;} 
+
 
 #about, #projects, #blog {padding-top: 160px; margin: 0;}
   
