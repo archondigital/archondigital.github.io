@@ -6,7 +6,7 @@ excerpt: "Interacting with analog controls like these takes me, a grown-up fathe
 layout: post-photo
 permalink: /articles/analog-panel/
 featured_image: /assets/images/articles/analog_2160.jpg
-bg_color: 'rgba(0, 0, 0, .6);'
+bg_color: 'rgba(0, 0, 0, .4);'
 text_color: light
 comments: true
 
