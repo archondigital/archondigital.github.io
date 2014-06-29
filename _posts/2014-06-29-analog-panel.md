@@ -16,7 +16,7 @@ comments: true
 
 I've always been a huge fan of the original Fallout series from Interplay and must've spent thousands of hours playing it when it first launched in the late 90's. It was really disappointing to see the series devolve into a first-person, "wannabee RPG" shooter . _Wasteland 2, I'm pinning my RPG hopes on you_. 
 
-Anyway the photo was taken in the basement elevator at the Club House of [Canyon Woods][3] in Tagaytay but hey, it's much cooler to imagine myself immersed inside the gameplay of a post-apocalyptic, non-linear, role-playing game while trying to save whatever is left of the human race.
+Anyway the photo was taken in the basement elevator at the Club House of [Canyon Woods][3] in Tagaytay but hey, it's much cooler to imagine myself immersed inside the gameplay of a post-apocalyptic, non-linear, role-playing game while trying to save whatever is left of the human race, than say trying to get back (read:crawl) to my room with my consciousness intact.
 
 Re-posted from my [Tumblr][1] and [Instagram][2] feed. The original photo was taken 4 months ago.
 
