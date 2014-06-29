@@ -2,17 +2,10 @@
 title: 'Twitter vs Plurk &#8211; Which is Better?'
 author: Jon Cuevas
 layout: post
+excerpt: "This idea has always been bugging me for quite some time now and though I have my own opinion about it I&#8217;d still want to ask you people which is better, Plurk or Twitter?"
 permalink: /twitter-ibang-level-vs-plurk-loser-which-is-better-826/
-custom_css:
-  - 
-custom_fonts:
-  - 
-custom_columns:
-  - 
-dsq_thread_id:
-  - 933414811
-categories:
-  - Social Media
+comments: true
+
 ---
 This idea has always been bugging me for quite some time now and though I have my own opinion about it I&#8217;d still want to ask you people which is better, **Plurk or Twitter**?
 
