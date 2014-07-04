@@ -1,16 +1,11 @@
-<footer class="site-footer fullscreen">
+<footer class="site-footer">
 
   <div class="row fullwidth">
-    <div class="large-3 large-push-2 columns">
-      <img src="{{ site.baseurl }}/assets/images/archondigital-logo2014.png" alt="">
+    <div class="large-6 columns">
+      <p>&copy; 2014 <a href="{{ site.baseurl }}/">Archon Digital</a>. All rights reserved. | <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a> / <a href="{{ "/sitemap.xml" | prepend: site.baseurl }}">XML Sitemap</a> | <a href="{{ site.url }}/about/privacy/">Privacy Policy</a>.</p>
     </div>
-
-    <div class="large-4 large-pull-2 columns">
-      <!-- <h2 class="footer-heading">{{ site.title }}</h2> -->
-      <!-- <p class="text">{{ site.description }}</p> -->
-      <ul>
-        <li>
-          <a href="https://github.com/{{ site.username }}">
+    <div class="large-6 columns text-right">
+        <p>Follow @{{ site.username }} <a href="https://github.com/{{ site.username }}">
             <span class="icon github">
               <svg version="1.1" class="github-icon-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                  viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
@@ -25,10 +20,9 @@
                 c0,0.208,0.14,0.449,0.534,0.373c3.081-1.028,5.302-3.935,5.302-7.362C15.76,3.906,12.285,0.431,7.999,0.431z"/>
               </svg>
             </span>
-            <span class="username">{{ site.username }}</span>
-          </a>
-        </li>
-        <li>
+             on Github
+          </a> and on 
+          
           <a href="https://twitter.com/{{ site.username }}">
             <span class="icon twitter">
               <svg version="1.1" class="twitter-icon-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
@@ -42,12 +36,10 @@
                 c6.015,0,9.304-4.983,9.304-9.304c0-0.142-0.003-0.283-0.009-0.423C14.976,4.29,15.531,3.714,15.969,3.058z"/>
               </svg>
             </span>
-            <span class="username">{{ site.username }}</span>
-          </a>
-        </li>
-        <li><a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a> / <a href="{{ "/sitemap.xml" | prepend: site.baseurl }}">XML Sitemap</a></li>
-        <li><a href="{{ site.url }}/about/privacy/">Privacy Policy</a></li>
-      </ul>
+            on Twitter
+          </a>.
+          Powered by <a href="https://pages.github.com/">Github Pages</a>.  
+        </p>    
     </div>
   </div>
 
