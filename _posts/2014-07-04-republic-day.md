@@ -3,9 +3,7 @@ title: "Today is <del>Independence</del> Republic Day"
 author: Jon Cuevas
 layout: post-photo
 permalink: /articles/republic-day/
-excerpt: "The Philippines used to celebrate its Independence day every July 4 since gaining freedom in 1946 from the Americans. The date was only moved to June 12 after the late President Diosdado Macapagal issued Proclamation No. 28, s. 1962.
-
-"
+excerpt: "The Philippines used to celebrate its Independence day every July 4 since gaining freedom in 1946 from the Americans. The date was only moved to June 12 after the late President Diosdado Macapagal issued Proclamation No. 28, s. 1962."
 featured: false
 featured_image: /assets/images/articles/republic-day.jpg
 bg_color: 'rgba(0, 0, 0, .2);'
