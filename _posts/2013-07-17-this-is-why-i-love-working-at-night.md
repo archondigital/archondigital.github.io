@@ -5,6 +5,8 @@ excerpt: I rarely get speeds like this during daytime, even when in areas with L
 layout: post-photo
 permalink: /this-is-why-i-love-working-at-night-2002/
 featured_image: /assets/images/legacy/Screen-Shot-2013-07-17-at-3.00.19-AM.png
+bg_color: 'rgba(249, 39, 112, .8);'
+text_color: light
 comments: true
 ---
 <blockquote>
