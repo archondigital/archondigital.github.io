@@ -11,7 +11,7 @@ layout: default
 		</div>
 		<div class="row">
 			<div class="large-12 columns">
-				<p class="meta"><time class="dt-published" datetime="{{ page.date | date: "%b %-d, %Y" }}">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span class="p-author h-card">{{ page.author }}</span>{% endif %}{% if page.meta %} • <span>{{ page.meta }}</span>{% endif %}</p>	
+				<p class="meta"><time class="published dt-published" datetime="{{ page.date | date: "%b %-d, %Y" }}">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span class="author p-author h-card">{{ page.author }}</span>{% endif %}{% if page.meta %} • <span>{{ page.meta }}</span>{% endif %}</p>	
 			</div>
 		</div>
 		<div class="row">
@@ -23,7 +23,7 @@ layout: default
 	</header>
 
 	
-	<article class="post-content e-content">
+	<article class="post-content entry-content e-content">
 		<div class="row">
 			<div class="large-8 columns">
 				<div class="flex-video">
