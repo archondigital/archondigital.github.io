@@ -30,7 +30,7 @@ ul.pagination {  display: inline-block;}
 
 p.caption {font-size: 80%;}
 
-.social {padding-bottom: 1.25rem;}
+.social {min-height: 20px; padding-bottom: 1.25rem;}
 .share-tweet, .share-fb, .share-google, .share-su, .share-pin {height: 20px; float: left; margin-right: 5px;}
 /*.fb-like.fb_iframe_widget {position: absolute !important; top: 0 !important;}*/
 
