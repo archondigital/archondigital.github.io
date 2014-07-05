@@ -12,7 +12,7 @@ comments: true
 ---
 <p class="lead">The Philippines used to celebrate its Independence day every July 4 since gaining freedom in 1946 from the Americans. The date was only moved to June 12 after the late President Diosdado Macapagal issued <a href="http://www.gov.ph/1962/05/12/proclamation-no-28-s-1962/">Proclamation No. 28, s. 1962</a>.</p>
 
-I was always fascinated with the artwork done during (in this case, immediately after) wartime. According to the [Official Gazette][4], the artwork featured here came from the "_A Republic is Born, the Official Commemorative Volume on Independence Day, July 4, 1946 which was published in 1948 by the Joint Executive Committee for the Inauguration of the Republic of the Philippines_". 
+I was always fascinated with artwork done for wartime propaganda (in this case, immediately after wartime). According to the [Official Gazette][4], the artwork featured here came from the "_A Republic is Born, the Official Commemorative Volume on Independence Day, July 4, 1946 which was published in 1948 by the Joint Executive Committee for the Inauguration of the Republic of the Philippines_". 
 
 Fourth of July in the Philippines, since 1964 under [Republic Act No. 4166][5], has been celebrated as Philippine Republic Day.
 
