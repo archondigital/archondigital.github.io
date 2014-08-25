@@ -2,21 +2,72 @@
 title: Never Forget
 author: Jon Cuevas
 excerpt: "Three years ago, 58 innocent men and women were violently murdered in Maguindanao by the Ampatuan clan and their henchmen.  The following names are those of the journalists, lawyers, members and aides of the clan's political rival and those unfortunate motorists who just happened to be passing by during that time."
-layout: post-custom
-permalink: /never-forget-1532/
-featured_image: /assets/images/legacy/bg-neverforget.jpg
-bg_color: 'rgba(0, 0, 0, .2);'
+layout: "post-custom"
+permalink: "/never-forget-1532/"
+featured_image: "/assets/images/legacy/bg-neverforget.jpg"
+bg_color: "rgba(0, 0, 0, .2);"
 text_color: light
 comments: true
-
+published: true
 ---
 
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
     <meta name="description" content="{{ site.description }}">
 
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    
+    <meta name="twitter:title" content="{{ page.title }} - {{ site.title }}">
+    <meta property="og:title" content="{{ page.title }} - {{ site.title }}" />
+    <meta property="og:sitename" content="{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}" />
+    <meta itemprop="name" content="{{ page.title }}">
+    {% if page.excerpt %}
+    <!-- description -->
+    <meta name="twitter:description" content="{{ page.excerpt }}">
+    <meta property="og:description" content="{{ page.excerpt }}" />
+    <meta itemprop="description" content="{{ page.excerpt }}">
+    <meta name="description" content="{{ page.excerpt }}" />
+    {% else %}
+    <!-- default description -->
+    <meta name="twitter:description" content="Archon Digital, World Domination and the Internet - {{ site.description }}">
+    <meta property="og:description" content="Archon Digital, World Domination and the Internet - {{ site.description }}" />
+    <meta itemprop="description" content="Archon Digital, World Domination and the Internet - {{ site.description }}">
+    <meta name="description" content="Archon Digital, World Domination and the Internet - {{ site.description }}" />
+    {% endif %}
+    <meta name="twitter:creator" content="@archondigital">
+    <meta name="twitter:domain" content="archondigital.com{{ page.url }}">
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="http://archondigital.com{{ page.url }}" />
+    {% if page.featured_image %}
+    <!-- featured image -->
+    <meta property="og:image" content="{{ page.featured_image | prepend: site.baseurl }}" />
+    <meta name="twitter:image:src" content="{{ page.featured_image | prepend: site.baseurl }}">
+    <meta name="twitter:card" content="summary_large_image">
+    {% else %}
+    <!-- no featured image, loading default image -->
+    <meta property="og:image" content="{{ "/assets/images/alapeanutbuttersandwiches.jpg" | prepend: site.baseurl }}" />
+    <meta name="twitter:image:src" content="{{ "/assets/images/alapeanutbuttersandwiches.jpg" | prepend: site.baseurl }}">
+    <meta name="twitter:card" content="summary_large_image">
+    {% endif %}
+    <meta name="twitter:site" content="@archondigital">
+    <link rel="author" href="https://plus.google.com/google-plus-profile-id/posts"/>
+    {% if page.keywords %}
+    <meta name="keywords" content="{{ page.keywords }}">
+    {% else %}
+    <meta name="keywords" content="Archon Digital, World Domination and the Internet">
+    {% endif %}
+    
+    <!-- pinterest verification -->
+    <meta name="p:domain_verify" content="d2f0d5c994287b95713b694fdb03b8df"/>
+
+    <link rel="stylesheet" href="{{ "/assets/css/app.css" | prepend: site.baseurl }}">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | prepend: site.baseurl }}">
+
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="stylesheet" href="{{ "/assets/css/app.css" | prepend: site.baseurl }}">
