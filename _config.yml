@@ -2,7 +2,7 @@
 title: Archon Digital
 email: overlord@archon-digital.com
 description: "An exercise on developing my own flat file CMS running on Jekyll, Foundation 5 and Liquid templating. I'll be publishing more information soon."
-baseurl: "http://archondigital.com"
+baseurl: "http://archon.digital"
 url: ""
 username: archondigital
 timezone: Asia/Manila
