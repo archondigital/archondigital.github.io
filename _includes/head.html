@@ -7,11 +7,12 @@
     <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 	
-	<meta name="twitter:title" content="{{ page.title }} - {{ site.title }}">
-	<meta property="og:title" content="{{ page.title }} - {{ site.title }}" />
-	<meta property="og:sitename" content="{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}" />
+	<meta name="twitter:title" content="{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}">
+	<meta property="og:title" content="{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}" />
+	<meta property="og:sitename" content="{{ site.title }}" />
 	<meta itemprop="name" content="{{ page.title }}">
 	{% if page.excerpt %}
+	
 	<!-- description -->
 	<meta name="twitter:description" content="{{ page.excerpt }}">
 	<meta property="og:description" content="{{ page.excerpt }}" />
