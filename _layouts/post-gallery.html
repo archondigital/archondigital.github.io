@@ -50,27 +50,24 @@ layout: default
 				
 			{% if page.gallery_content %}
 				
-				<div>
-					<h5>Gallery</h5>
-					<ul class="clearing-thumbs large-block-grid-3 medium-block-grid-2 small-block-grid-2" style="margin-left:-0.625rem;" data-clearing>
-						<li>
-						  <a class="th" href="{{ page.featured_image | prepend: site.baseurl }}" style="max-height:120px; overflow:hidden;">
-						  <img title="{{ page.title }}" alt="{{ page.title }}. {{ page.excerpt }}" src="{{ page.featured_image | prepend: site.baseurl  }}" {% if page.excerpt %}data-caption="{{ page.excerpt }}"{% else %} data-caption="{{ page.title }}"{% endif %} />
-						  </a>
-						</li>
+				<h4>Gallery</h4>
+				<ul class="clearing-thumbs large-block-grid-3 medium-block-grid-2 small-block-grid-2" data-clearing>
+					<li>
+					  <a class="th" href="{{ page.featured_image | prepend: site.baseurl }}" style="max-height:120px; overflow:hidden;">
+					  <img title="{{ page.title }}" alt="{{ page.title }}. {{ page.excerpt }}" src="{{ page.featured_image | prepend: site.baseurl  }}" {% if page.excerpt %}data-caption="{{ page.excerpt }}"{% else %} data-caption="{{ page.title }}"{% endif %} />
+					  </a>
+					</li>
 
-						{% for pic in page.gallery_content %}
-						<li>
-							<a class="th" href="{{ pic.url | prepend: site.baseurl }}" style="max-height:120px; overflow:hidden;">
-							<img title="{{ pic.label }}" alt="{{ pic.label }}" src="{{ pic.url | prepend: site.baseurl  }}" data-caption="{{ pic.label }}. {{ pic.caption }}" />
-							</a>
-						
-						</li>
-						{% endfor %}
+					{% for pic in page.gallery_content %}
+					<li>
+						<a class="th" href="{{ pic.url | prepend: site.baseurl }}" style="max-height:120px; overflow:hidden;">
+						<img title="{{ pic.label }}" alt="{{ pic.label }}" src="{{ pic.url | prepend: site.baseurl  }}" data-caption="{{ pic.label }}. {{ pic.caption }}" />
+						</a>
+					
+					</li>
+					{% endfor %}
 
-					</ul>					
-				</div>
-							
+				</ul>			
 
 			{% else %}
 			{% endif %}
