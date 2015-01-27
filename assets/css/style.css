@@ -28,13 +28,16 @@ p.lead {font-size: 1.51875rem; line-height: 1.4;}
 
 ul.pagination {  display: inline-block;}
 
-p.caption {font-size: 80%;}
+p.caption {font-size: 80%; color: #888;}
 
 .social {min-height: 20px; margin-bottom: 1.25rem;}
 .share-tweet, .share-fb, .share-google, .share-su, .share-pin {height: 20px; float: left; margin-right: 5px;}
 /*.fb-like.fb_iframe_widget {position: absolute !important; top: 0 !important;}*/
 
 /* Add Class for Images */
+div.offgrid-left {float:left;max-width:40%;padding-right:1.25rem;}
+div.offgrid-left img {max-width:120%;margin-left: -20%;}
+
   img.offgrid-right {max-width: 150%; margin-right: -45%;}
   img.offgrid-left {max-width: 150%; margin-left: -45%;}
   img.alignright { float: right; margin: 0 0 18px 18px; }
