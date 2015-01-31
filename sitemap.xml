@@ -2,7 +2,7 @@
 sitemap:
   lastmod: 2014-06-20
   priority: 0.7
-  changefreq: monthly
+  changefreq: weekly
   exclude: 'yes'
 ---
 <?xml version="1.0" encoding="UTF-8"?>
