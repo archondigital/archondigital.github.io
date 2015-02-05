@@ -15,7 +15,7 @@ comments: true
 
 People converge at the intersections of Taft and Quirino avenues near the Papal Nunciature as they await the arrival of Pope Francis.
 
-Photo taken last January 15, using a Sony A6000 with a SEL50F18 lens. [See image on Flickr][1] for complete metadata.
+Photo taken last January 15, using a Sony A6000 with a SEL50F18 lens. [See image on Flickr][1] for EXIF.
 
 
 [1]: https://www.flickr.com/photos/archondigital/16331014162/in/photostream/
