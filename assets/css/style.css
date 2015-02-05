@@ -69,6 +69,11 @@ div.offgrid-left img {max-width:120%;margin-left: -20%;}
     .fullscreen .orbit-container ul li {height: 100%;}
     .fullscreen .orbit-container ul li .orbit-slide {height: 65%; background-position: center; background-size: cover;}
 
+.post.fullscreen {margin: 0; padding: 20% 0 0 0;}
+  .post.fullscreen header h1 {color: #fff;}
+  .post.fullscreen article p, .post.fullscreen article blockquote, .post.fullscreen article cite {color: #fff;}
+  .post.fullscreen article a {color: #888;}
+
 #masthead.fullscreen {height: 150%;}
   #masthead.fullscreen .orbit-container ul li {height: 100%; background-position: center; background-size: cover;}
 

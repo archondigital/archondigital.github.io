@@ -1,0 +1,132 @@
+---
+layout: default
+---
+<div class="post h-entry fullscreen hide-for-small" style="background: url({{ page.featured_image | prepend: site.baseurl  }}); background-size:cover;">
+
+
+
+	
+	
+		<div class="row">
+			<div class="large-8 columns hide-for-medium-up">
+				  
+			</div>
+			<div class="large-4 columns">
+
+				<header class="post-header">
+					<div class="row">
+					  	<div class="large-12 columns">
+						  	<h1 class="entry-title p-name">{{ page.title }}</h1>
+					  	</div>  		
+					</div>
+				
+
+				</header>
+
+				<article class="post-content entry-content e-content">
+				{% if page.intro_description %}
+					<p>{{ page.intro_description }}</p>
+				{% else %}
+				{% endif %}
+				
+				{% if page.intro_quote %}
+					<blockquote>
+						<p class="lead">
+							"{{ page.intro_quote }}"
+						</p>
+						<cite>
+							{% if page.intro_cite_url %}
+							<a target="_blank" href="{{ page.intro_cite_url }}">{{ page.intro_cite }}</a>
+							{% else %}
+								{{ page.intro_cite }}
+							{% endif %}
+						</cite>
+					</blockquote>
+				{% else %}
+				{% endif %}
+
+				</article>
+			
+			</div>
+		</div>
+	
+
+</div>
+	<div class="show-for-small">
+		<img title="{{ page.title }}" alt="{{ page.title }}. {{ page.excerpt }}" src="{{ page.featured_image | prepend: site.baseurl  }}" />
+		<header class="post-header">
+			<div class="row">
+			  	<div class="large-12 columns">
+				  	<h1 class="entry-title p-name">{{ page.title }}</h1>
+			  	</div>  		
+			</div>
+
+
+		</header>
+
+		<article class="post-content entry-content e-content">
+			{% if page.intro_description %}
+				<p>{{ page.intro_description }}</p>
+			{% else %}
+			{% endif %}
+			
+			{% if page.intro_quote %}
+				<blockquote>
+					<p class="lead">
+						"{{ page.intro_quote }}"
+					</p>
+					<cite>
+						{% if page.intro_cite_url %}
+						<a target="_blank" href="{{ page.intro_cite_url }}">{{ page.intro_cite }}</a>
+						{% else %}
+							{{ page.intro_cite }}
+						{% endif %}
+					</cite>
+				</blockquote>
+			{% else %}
+			{% endif %}
+		</article>		
+	</div>
+	<div class="row">
+		<div class="large-12 columns">
+			{% include entry-meta.html %}
+		</div>
+	</div>
+
+	<div class="row hide-for-small">
+		<div class="large-2 columns">
+			<ul class="clearing-thumbs clearing-feature" data-clearing>
+				<li class="clearing-featured-img">
+				  <a href="{{ page.featured_image | prepend: site.baseurl }}">
+				  <img title="{{ page.title }}" alt="{{ page.title }}. {{ page.excerpt }}" src="{{ page.featured_image | prepend: site.baseurl  }}" {% if page.excerpt %}data-caption="{{ page.excerpt }}"{% else %} data-caption="{{ page.title }}"{% endif %} />
+				  </a>
+				</li>
+			{% if page.gallery_content %}
+				{% for pic in page.gallery_content %}
+				<li>
+					<a href="{{ pic.url | prepend: site.baseurl }}">
+					<img title="{{ pic.label }}" alt="{{ pic.label }}" src="{{ pic.url | prepend: site.baseurl  }}" data-caption="{{ pic.label }}. {{ pic.caption }}" />
+					</a>
+				
+				</li>
+				{% endfor %}
+			{% else %}
+			{% endif %}
+			</ul>
+		</div>
+		<div class="large-6 columns">
+			{{ content }}
+		</div>
+		<div class="large-4 columns">
+			{% include adzone01.html %}
+		</div>
+	</div>
+	
+	<div class="row">
+		<div class="large-12 columns">
+			<hr>
+			{% include snippet-social.html %}		
+		</div>
+	</div>
+	
+	{% include comments.html %}
