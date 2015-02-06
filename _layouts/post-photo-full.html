@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div class="post h-entry fullscreen hide-for-small" style="background: url({{ page.featured_image | prepend: site.baseurl  }}); background-size:cover;background-position:{{ page.background_position }};">
+<div class="post h-entry fullscreen hide-for-small" style="background: url({{ page.featured_image | prepend: site.baseurl  }}); background-size:cover;background-repeat:no-repeat;background-position:{{ page.background_position }};">
 
 
 
@@ -16,7 +16,10 @@ layout: default
 				<header class="post-header">
 					<div class="row">
 					  	<div class="large-12 columns">
-						  	<h1 class="entry-title p-name">{{ page.title }}</h1>
+						  	{% if page.title_hide == true %}
+							{% else %}
+								<h1 class="entry-title p-name">{{ page.title }}</h1>
+							{% endif %}
 					  	</div>  		
 					</div>
 				
@@ -57,7 +60,7 @@ layout: default
 		<header class="post-header">
 			<div class="row">
 			  	<div class="large-12 columns">
-				  	<h1 class="entry-title p-name">{{ page.title }}</h1>
+					<h1 class="entry-title p-name">{{ page.title }}</h1>
 			  	</div>  		
 			</div>
 
@@ -89,6 +92,12 @@ layout: default
 	</div>
 	<div class="row">
 		<div class="large-12 columns">
+					{% if page.title_hide == true %}
+						<h1 class="entry-title p-name">{{ page.title }}</h1>
+					{% else %}
+						
+					{% endif %}
+
 			{% include entry-meta.html %}
 		</div>
 	</div>
@@ -100,6 +109,7 @@ layout: default
 				  <a href="{{ page.featured_image | prepend: site.baseurl }}">
 				  <img title="{{ page.title }}" alt="{{ page.title }}. {{ page.excerpt }}" src="{{ page.featured_image | prepend: site.baseurl  }}" {% if page.excerpt %}data-caption="{{ page.excerpt }}"{% else %} data-caption="{{ page.title }}"{% endif %} />
 				  </a>
+				  <br><small class="caption">Click on image to view.</small>
 				</li>
 			{% if page.gallery_content %}
 				{% for pic in page.gallery_content %}
