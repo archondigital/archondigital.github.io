@@ -1,5 +1,5 @@
 ---
-title: Selling Pineapple.
+title: A pineapple day.
 title_hide: true
 author: Jon Cuevas
 layout: post-photo-full
@@ -7,7 +7,7 @@ permalink: /articles/pineapple/
 excerpt: "In the land of Gibberish, the man who makes sense, the man who speaks clearly, clearly speaks nonsense."
 featured_image: /assets/images/articles/pina_09559.jpg
 background_position: center left
-bg_color: 'rgba(255, 255, 255, .3);'
+bg_color: 'rgba(0, 0, 0, .5);'
 text_color: light
 comments: true
 
