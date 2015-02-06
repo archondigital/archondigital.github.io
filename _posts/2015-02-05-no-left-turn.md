@@ -1,5 +1,6 @@
 ---
 title: No left turn
+title_hide: true
 author: Jon Cuevas
 layout: post-photo-full
 permalink: /articles/no-left-turn/
