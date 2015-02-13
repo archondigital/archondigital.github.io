@@ -1,8 +1,8 @@
 ---
-title: Tough Choices and Keeping Calm; Feels Good to be Pinoy
+title: Christmas in Sharjah and Manila via webcam
 author: Jon Cuevas
 layout: post
-permalink: /v5/overlord/tough-choices-and-keeping-calm-feels-good-to-be-pinoy/
+permalink: /v5/overlord/christmas-in-sharjah-and-manila-via-webcam/
 excerpt: "Spending Christmas eve with the family via webcam. Can't figure out why the webcam at home seems too grainy but it's better than not being able to see them at all. I sure wish Skype worked in U.A.E. but had to settle for Yahoo Messenger for now."
 featured: false
 comments: true
