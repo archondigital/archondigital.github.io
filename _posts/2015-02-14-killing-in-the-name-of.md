@@ -22,7 +22,7 @@ gallery_content:
     caption: They came in droves and turned Taft avenue into a giant covered walkway.
 - url: /assets/images/articles/saf_6475.jpg
     label: Heroes.
-    caption: On the morning of January 29, 2015, the remains of the members of the PNP Special Action Force slain in Mamasapano arrived at Villamor Air Base. The fallen PNP SAF were accorded arrival honors, led by the Secretary of the Interior and Local Government Mar Roxas, PNP Deputy Dir. Gen. Leonardo Espina, and AFP Chief of Staff Gen. Gregorio Catapang. (source: Official Gazette PH http://www.gov.ph)
+    caption: On the morning of January 29, 2015 the remains of the members of the PNP Special Action Force slain in Mamasapano arrived at Villamor Air Base. The fallen PNP SAF were accorded arrival honors led by the Secretary of the Interior and Local Government Mar Roxas, PNP Deputy Dir. Gen. Leonardo Espina, and AFP Chief of Staff Gen. Gregorio Catapang. (source - Official Gazette PH www.gov.ph)
 
 
 
