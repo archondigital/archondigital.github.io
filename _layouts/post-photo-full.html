@@ -60,7 +60,11 @@ layout: default
 		<header class="post-header">
 			<div class="row">
 			  	<div class="large-12 columns">
-					<h1 class="entry-title p-name">{{ page.title }}</h1>
+					{% if page.title_hide == false %}
+						<h1 class="entry-title p-name">{{ page.title }}</h1>
+					{% else %}
+						
+					{% endif %}
 			  	</div>  		
 			</div>
 
