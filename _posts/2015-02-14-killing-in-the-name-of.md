@@ -28,7 +28,7 @@ gallery_content:
 
 <p class="lead">While on my way to test a friend's vintage lens in the street, I ran into a procession, mostly of children taking turns carrying a replica of the Nazarene in a procession on one of the side streets of Manila. This while the religious and some of our so-called "statesmen" call for blood and vengeance.</p>
 
-Religion is a very dominant influence among the masses in this country, where roughly 80 percent (not an accurate estimate) are Christian Catholics. A procession like this means the community around it is soon to celebrate a feast of whoever the community's patron saint is.
+Religion is a very dominant influence among the masses in this country, where roughly 80 percent (not an accurate estimate) are Christian Catholics. A procession like this means the community around it is soon to celebrate a feast of whoever the community's patron saint is. This image was taken a few days after our country declared a day of mourning over the deaths of 44 men of our elite Special Action Force (SAF) in the hands of Muslim separatists in the south.
 
 I find it ironic though that this same Christian majority, the same who flocked to the streets during Pope Francis' visit barely a month ago, the same flock who were calling for love, mercy and compassion, now finds itself calling for blood, vengeance and all out war.
 
