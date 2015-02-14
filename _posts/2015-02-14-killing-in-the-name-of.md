@@ -10,6 +10,17 @@ background_position: center -7rem
 bg_color: 'rgba(0, 0, 0, .3);'
 text_color: light
 comments: true
+gallery_content:
+  - url: /assets/images/articles/pope-in-ph_09800.jpg
+    label: The Pope's motorcade
+    caption: The faithful flocked and patiently waited for the pontiff to pass.
+  - url: /assets/images/articles/pope-in-ph_09976.jpg
+    label: Papal merchandise.
+    caption: People sold all kinds of Pope memorabilia. Shirts, keycards, tags, lanyards, keychains and such.
+  - url: /assets/images/articles/pope-in-ph_09932.jpg
+    label: Patiently waiting
+    caption: They came in droves and turned Taft avenue into a giant covered walkway.
+
 
 ---
 
@@ -48,7 +59,7 @@ Do we really want our children to witness war? War can be brutal and indiscrimin
 
 Like everyone else, I grieve for our fallen heroes. They did not deserve to die that way. I too, like everyone else, want the truth to come out. I want justice, but not at the expense of the lives of more innocent people. Not through war, we've had enough of that in the south. I can understand and even sympathize with the widowed, the children and families of our fallen heroes. They have every right to call for blood, every right to call for justice. 
 
-But for "men of faith" to call for war? I find it disgusting and hypocritical of the Christian faith that you proudly profess.
+But for "men of faith" to call for war? I find it disgusting and hypocritical of the Christian faith that you proudly profess to be part of.
 
 <blockquote>
 	<p class="lead">
