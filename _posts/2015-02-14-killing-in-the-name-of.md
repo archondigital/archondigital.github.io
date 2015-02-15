@@ -6,7 +6,7 @@ layout: post-photo-full
 permalink: /articles/killing-in-the-name/
 excerpt: "Children taking turns carrying a replica of the Nazarene in a procession on one of the side streets of Manila. This while the religious and our so-called statesmen call for blood and vengeance."
 featured_image: /assets/images/articles/nazarene-kids_1406.jpg
-background_position: top center
+background_position: center -7rem
 bg_color: 'rgba(0, 0, 0, .3);'
 text_color: light
 comments: true
