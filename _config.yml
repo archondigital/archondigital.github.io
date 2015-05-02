@@ -6,7 +6,7 @@ baseurl: "http://archon.digital"
 url: ""
 username: archondigital
 timezone: Asia/Manila
-paginate: 8
+paginate: 12
 paginate_path: "articles/:num"
 
 # Build settings
