@@ -6,7 +6,7 @@ layout: post-photo-full
 permalink: /articles/selfie-generation/
 excerpt: "People taking a group selfie, nuff said."
 featured_image: /assets/images/articles/selfie-gen_00046.jpg
-background_position: bottom center
+background_position: top center
 bg_color: 'rgba(0, 0, 0, .3);'
 text_color: light
 comments: true
