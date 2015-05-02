@@ -13,7 +13,7 @@ comments: true
 
 ---
 
-From sometime back in March on a weekend when I had nothing better to do but walk around with a camera, creeping people out. Spent that entire day taking pictures and just sort of forgot about these until today.
+From sometime back in March, on a weekend when I had nothing better to do but walk around with a camera, creeping people out. Spent that entire day taking pictures and just sort of forgot about these until today.
 
 I thought maybe I could rant a bit about how everyone does selfies, but nah, that subject has already been well covered by almost everyone else I follow so I'll just leave this photo here.
 
