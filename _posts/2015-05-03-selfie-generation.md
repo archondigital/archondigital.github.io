@@ -4,7 +4,7 @@ title_hide: true
 author: Jon Cuevas
 layout: post-photo-full
 permalink: /articles/selfie-generation/
-excerpt: "People taking a group selfie, nuff said."
+excerpt: "People taking a group selfie. Taken sometime back in March, on a weekend when I had nothing better to do but walk around with a camera and creep strangers out."
 featured_image: /assets/images/articles/selfie-gen_00046.jpg
 background_position: top center
 bg_color: 'rgba(0, 0, 0, .3);'
@@ -13,9 +13,9 @@ comments: true
 
 ---
 
-From sometime back in March, on a weekend when I had nothing better to do but walk around with a camera, creeping people out. Spent that entire day taking pictures and just sort of forgot about these until today.
+The image is from one of the solo photowalks that I took sometime back in March. It was on a weekend when I had nothing better to do but walk around with a camera and creep strangers out. Spent that entire day taking pictures and just sort of forgot about these until today.
 
-I thought maybe I could rant a bit about how everyone does selfies, but nah, that subject has already been well covered by almost everyone else I follow so I'll just leave this photo here.
+I thought maybe I could rant a bit about how everyone does selfies, but nah, that subject has already been well covered by almost everyone else I follow, so I'll just leave this photo here.
 
 Taken while probably sitting down and resting using a Nikkor 50mm f/1.2 AI-S on an A6000. Black and white post-processing was done on Lightroom. [See image on Flickr][1] for EXIF. Posted originally on my [Instagram][2].
 
