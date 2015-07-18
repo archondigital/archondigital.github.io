@@ -5,7 +5,6 @@ author: Jon Cuevas
 layout: post-photo-full
 permalink: /articles/no-left-turn/
 excerpt: "People converge at the intersections of Taft and Quirino avenues near the Papal Nunciature as they await the arrival of Pope Francis."
-featured: false
 featured_image: /assets/images/articles/no-left-turn_09232.jpg
 background_position: bottom center
 bg_color: 'rgba(0, 0, 0, .6);'
