@@ -31,8 +31,8 @@
 	<meta property="og:url" content="http://archon.digital{{ page.url }}" />
 	{% if page.featured_image %}
 	<!-- featured image -->
-	<meta property="og:image" content="{{ page.featured_image | prepend: site.baseurl }}" />
-	<meta name="twitter:image:src" content="{{ page.featured_image | prepend: site.baseurl }}">
+	<meta property="og:image" content="{% if page.featured_image_thumb %}{{ page.featured_image_thumb | prepend: site.baseurl }}{% else %}{{ page.featured_image | prepend: site.baseurl }}{% endif %}" />
+	<meta name="twitter:image:src" content="{% if page.featured_image_thumb %}{{ page.featured_image_thumb | prepend: site.baseurl }}{% else %}{{ page.featured_image | prepend: site.baseurl }}{% endif %}">
 	<meta name="twitter:card" content="summary_large_image">
 	{% else %}
 	<!-- no featured image, loading default image -->
