@@ -5,6 +5,7 @@ author: Jon Cuevas
 layout: post-photo-full
 permalink: /articles/selfie-generation/
 excerpt: "People taking a group selfie. Taken sometime back in March, on a weekend when I had nothing better to do but walk around with a camera and creep strangers out."
+featured: true
 featured_image: /assets/images/articles/selfie-gen_00046.jpg
 featured_image_thumb: /assets/images/articles/selfie-gen_00046-thumb.jpg
 background_position: top center
