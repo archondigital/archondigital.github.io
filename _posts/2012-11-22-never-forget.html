@@ -48,8 +48,8 @@ published: true
     <meta property="og:url" content="http://archondigital.com{{ page.url }}" />
     {% if page.featured_image %}
     <!-- featured image -->
-    <meta property="og:image" content="{{ page.featured_image | prepend: site.baseurl }}" />
-    <meta name="twitter:image:src" content="{{ page.featured_image | prepend: site.baseurl }}">
+    <meta property="og:image" content="{{ site.baseurl }}/assets/images/legacy/never-forget-thumb.jpg" />
+    <meta name="twitter:image:src" content="{{ site.baseurl }}/assets/images/legacy/never-forget-thumb.jpg">
     <meta name="twitter:card" content="summary_large_image">
     {% else %}
     <!-- no featured image, loading default image -->
