@@ -15,6 +15,7 @@ comments: true
 
 It was raining, we were stuck in traffic and passed under a bridge and this is where I found this man taking a nap on the levee by the river.
 
-Taken with a Sony A6000 using a Nikkor 50mm f/1.2 AI-S lens at 1/60s f/1.2 ISO 1600. [See image on Flickr][1] for EXIF.
+Taken with a Sony A6000 using a Nikkor 50mm f/1.2 AI-S lens at 1/60s f/1.2 ISO 1600. [See image on Flickr][1] for EXIF. Posted originally on my [Instagram][2].
 
 [1]: https://www.flickr.com/photos/archondigital/19610946028/
+[2]: http://instagram.com/p/42cPmjGq5D/
