@@ -53,8 +53,9 @@ layout: default
 			</div>
 		</div>
 	
-
+	<span id="more" style="position:absolute;bottom:2rem;"></span>
 </div>
+
 	<div class="show-for-small">
 		<img title="{{ page.title }}" alt="{{ page.title }}. {{ page.excerpt }}" src="{{ page.featured_image | prepend: site.baseurl  }}" />
 		<header class="post-header">
@@ -95,13 +96,15 @@ layout: default
 		</article>		
 	</div>
 	<div class="row">
-		<div class="large-12 columns">
+		
+		<div class="large-10 columns">
 					{% if page.title_hide == true %}
 						<h1 class="entry-title p-name">{{ page.title }}</h1>
+						<p class="meta" style="position:absolute;left:1rem;line-height:0;bottom:3.25rem;"><a href="#more">Read more</a></p>
 					{% else %}
 						
 					{% endif %}
-
+			<br>
 			{% include entry-meta.html %}
 		</div>
 	</div>
