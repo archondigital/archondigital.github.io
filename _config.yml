@@ -1,7 +1,7 @@
 # Site settings
 title: Archon Digital
 email: overlord@archon-digital.com
-description: "An exercise on developing my own flat file CMS running on Jekyll, Foundation 5 and Liquid templating. I'll be publishing more information soon."
+description: "My personal blog. Covers most of what I do from web design to frontend development, gear, music and street photography. This site runs on Jekyll, Foundation 5 and Liquid templating."
 baseurl: "http://archon.digital"
 url: ""
 username: archondigital
