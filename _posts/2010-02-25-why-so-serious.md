@@ -1,7 +1,7 @@
 ---
 title: Why So Serious?
 author: Jon Cuevas
-layout: post
+layout: post-photo-full
 permalink: /v5/overlord/why-so-serious/
 excerpt: "That's my little guy, Steven after finishing his grape juice."
 featured_image: /assets/images/legacy/v5/steven-DSC00262a.jpg
