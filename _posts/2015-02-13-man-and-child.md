@@ -5,7 +5,6 @@ author: Jon Cuevas
 layout: post-photo-full
 permalink: /articles/crossing-tracks/
 excerpt: "Man with child about to cross railroad tracks on a bicycle."
-featured: true
 featured_image: /assets/images/articles/man-and-child_3715.jpg
 background_position: center -7rem
 bg_color: 'rgba(0, 0, 0, .5);'

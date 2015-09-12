@@ -4,7 +4,7 @@ title_hide: true
 author: Jon Cuevas
 layout: post-photo-full
 permalink: /articles/bayaw-by-the-river/
-excerpt: "Bayaw taking a nap under the Makati-Mandaluyong bridge."
+excerpt: "A 'bayaw' taking a nap under the Makati-Mandaluyong bridge."
 featured_image: /assets/images/articles/bayaw-by-the-river_08331.jpg
 featured_image_thumb: /assets/images/articles/bayaw-by-the-river-thumb_08331.jpg
 background_position: top center
