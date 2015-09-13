@@ -14,10 +14,10 @@
 	{% if page.excerpt %}
 	
 	<!-- description -->
-	<meta name="twitter:description" content="{{ page.excerpt }}">
-	<meta property="og:description" content="{{ page.excerpt }}" />
-	<meta itemprop="description" content="{{ page.excerpt }}">
-	<meta name="description" content="{{ page.excerpt }}" />
+	<meta name="twitter:description" content="{{ page.excerpt | strip_html }}">
+	<meta property="og:description" content="{{ page.excerpt | strip_html }}" />
+	<meta itemprop="description" content="{{ page.excerpt | strip_html }}">
+	<meta name="description" content="{{ page.excerpt | strip_html }}" />
 	{% else %}
 	<!-- default description -->
 	<meta name="twitter:description" content="Archon Digital, World Domination and the Internet - {{ site.description }}">
@@ -45,7 +45,7 @@
 	{% if page.keywords %}
 	<meta name="keywords" content="{{ page.keywords }}">
 	{% else %}
-	<meta name="keywords" content="Archon Digital, World Domination and the Internet, {{ page.title }}">
+	<meta name="keywords" content="Archon Digital, World Domination and the Internet, {{ page.title }}, {{ page.excerpt | strip_html }}">
 	{% endif %}
 	
 	<!-- pinterest verification -->
