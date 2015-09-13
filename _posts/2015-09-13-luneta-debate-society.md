@@ -2,7 +2,7 @@
 title: Luneta debate society.
 title_hide: true
 author: Jon Cuevas
-layout: post-photo-full
+layout: post-photo
 permalink: /articles/luneta-debate-society/
 excerpt: "Long before Fliptop rap battles, we had these guys debating at the park every Sunday."
 keywords: "Luneta, debate, street photography, Manila, Sony A6000"
