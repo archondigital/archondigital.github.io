@@ -29,7 +29,7 @@ layout: default
 				<ul class="clearing-thumbs clearing-feature" data-clearing>
 					<li class="clearing-featured-img">
 					  <a href="{{ page.featured_image | prepend: site.baseurl }}">
-					  <img title="{{ page.title }}" alt="{{ page.title }}. {{ page.excerpt }}" src="{{ page.featured_image | prepend: site.baseurl  }}" {% if page.excerpt %}data-caption="{{ page.excerpt }}"{% else %} data-caption="{{ page.title }}"{% endif %} />
+					  <img class="extra-wide" title="{{ page.title }}" alt="{{ page.title }}. {{ page.excerpt }}" src="{{ page.featured_image | prepend: site.baseurl  }}" {% if page.excerpt %}data-caption="{{ page.excerpt }}"{% else %} data-caption="{{ page.title }}"{% endif %} />
 					  </a>
 					</li>
 				{% if page.gallery_content %}
