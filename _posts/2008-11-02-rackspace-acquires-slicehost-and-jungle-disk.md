@@ -17,14 +17,16 @@ tags:
   - Hosting
   - servers
   - VPS
+comments: true
 ---
-Archon Digital&#8217;s hosting provider, Slicehost and one of the internet&#8217;s most reliable online storage providers, Jungle Disk has both entered into an agreement to be acquired by Rackspace Hosting, Inc. The announcement was made on October 22, 2008 on their respective websites.<!--more-->
+
+Archon Digital's hosting provider, Slicehost and one of the internet's most reliable online storage providers, Jungle Disk has both entered into an agreement to be acquired by Rackspace Hosting, Inc. The announcement was made on October 22, 2008 on their respective websites.<!--more-->
 
 How will this affect Slicehost users? <a href="http://www.slicehost.com/" target="_blank">Slicehost</a> annouced they are planning changes for the better which at this moment is still not clear as we are yet to see something concrete to ponder on.
 
 But If all goes as planned according to their press releases, Archon Digital would benefit a lot by being able to purchase cheaper backup services as well lower server costs and larger slices.
 
-This is a very smart and strategic move on the part of Slicehost&#8217;s owners, and as the United States&#8217; economy  continues to experience a downturn, this acquisition would secure Slicehost&#8217;s future in the hosting industry.
+This is a very smart and strategic move on the part of Slicehost's owners, and as the United States' economy  continues to experience a downturn, this acquisition would secure Slicehost's future in the hosting industry.
 
 This move by Rackspace can be seen by many as a direct challenge to Amazon Web Services. Rackspace has entered into the business of Cloud Computing and sees Slicehost and <a href="http://www.jungledisk.com/" target="_blank">Jungle Disk</a> to be a formidable combination for competing in this market.
 
