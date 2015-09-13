@@ -20,4 +20,4 @@ Long before those Fliptop rap battles were being posted on Youtube, there were t
 Taken with a Sony A6000 using a Nikkor 50mm f/1.2 AI-S lens at 1/60s f/2 ISO 1600. [See image on Flickr][1] for EXIF. Posted originally on my [Instagram][2].
 
 [1]: https://www.flickr.com/photos/archondigital/18755570230/
-[2]: http://instagram.com/p/4GCUt0mq-C/
+[2]: https://instagram.com/p/4GCUt0mq-C/
