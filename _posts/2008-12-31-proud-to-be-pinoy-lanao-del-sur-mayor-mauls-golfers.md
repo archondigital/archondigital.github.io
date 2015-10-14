@@ -85,7 +85,7 @@ DIGG: [Politician mauls 56 year old and 14 year old on golf course][65]
 
 Let me know if you blog post about this and I will gladly add it to this list.
 
-[1]: {{ site.baseurl }}/overlord/tough-choices-and-keeping-calm-feels-good-to-be-pinoy/
+[1]: {{ site.baseurl }}/v5/overlord/tough-choices-and-keeping-calm-feels-good-to-be-pinoy/
 [2]: http://jaypeeonline.net/news/a-bad-round-of-golf/
 [3]: http://vicissitude-decidido.blogspot.com/2008/12/world-is-fucked-up.html
 [4]: http://vicissitude-decidido.blogspot.com/2008/12/updates-and-thank-yous.html
