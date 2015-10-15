@@ -154,10 +154,20 @@ li.clearing-featured-img {display: block; width: 100%;}
   #about h1 {position: relative; bottom: initial; font-size: 3em; opacity: 0.5;}
   .about .panel {position: relative; bottom: initial; width: 100%; background: rgba(0,0,0,0.5); border: none;}
   .articles article {}
+
+  /* Add Class for Images */
+  div.offgrid-left {float:none;max-width:120%;padding-right:0;}
+  div.offgrid-left img {max-width:120%;margin-left: -20%;}
+  div.aligncenter { display: block; width: 100%; clear: both; }
+    div.aligncenter img { display: block; min-width: 100%; margin: 0 18px 0 0; }
+   
+
   } /* max-width 640px, mobile-only styles, use when QAing mobile issues */
 
 // Medium screens
-@media only screen and (min-width: 40.063em) { } /* min-width 641px, medium screens */
+@media only screen and (min-width: 40.063em) {  
+
+  } /* min-width 641px, medium screens */
 
 @media only screen and (min-width: 40.063em) and (max-width: 64em) { } /* min-width 641px and max-width 1024px, use when QAing tablet-only issues */
 
