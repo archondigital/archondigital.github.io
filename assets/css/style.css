@@ -30,7 +30,7 @@ ul.pagination {  display: inline-block;}
 
 p.caption {font-size: 80%; color: #888; margin-top: 0.625rem;}
 
-.social {min-height: 20px; margin-bottom: 1.25rem;}
+.social {min-height: 20px; margin-bottom: 1.25rem; float: left;}
 .share-tweet, .share-fb, .share-google, .share-su, .share-pin {height: 20px; float: left; margin-right: 5px;}
 
 img.extra-wide, li.clearing-featured-img img.extra-wide {width:120%; max-width: 120%; margin-left:-20%;background:#222;}
