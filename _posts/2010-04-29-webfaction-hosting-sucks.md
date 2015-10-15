@@ -4,16 +4,21 @@ author: Jon Cuevas
 excerpt: "After 10 months of hosting under Webfaction, I'd like to give some insight and clarify a few points on as to why Webfaction sucks."
 layout: post
 permalink: /webfaction-hosting-sucks-1005/
+keywords: "Archon Digital, Webfaction Sucks, Webfaction Hosting, Hosting that sucks, webfaction doesn't suck"
 featured_image: /assets/images/legacy/v5/webfaction.jpg
 bg_color: 'rgba(0, 0, 0, .8);'
 text_color: light
 comments: true
 ---
-After 10 months of hosting Archon Digital with these guys, I'd have to say [**Webfaction Sucks**][1] because I cannot find anything negative to say about it. Go ahead and try to Google that keyword **Webfaction Sucks** as you'd find almost nothing negative being said about my current web host. That in itself is pretty self-explanatory and if you would try searching for Bluehost Sucks or Dreamhost Sucks or for any other host you'd find thousands of complaints from unhappy customers.<!--more-->
 
-<p style="text-align: center;">
-  <img class="size-full wp-image-1010 aligncenter" title="Webfaction, Hosting that Sucks" alt="Webfaction, Hosting that Sucks" src="{{ site.baseurl }}/assets/images/legacy/v5/webfaction.jpg" width="618" height="480" />
+<p class="lead">
+After 10 months of hosting Archon Digital with these guys, I'd have to say <a href="http://archon.digital/webfaction-hosting-sucks-1005/">Webfaction Sucks</a> because I cannot find anything negative to say about it. Go ahead and try to Google that keyword <strong>Webfaction Sucks</strong> as you'd find almost nothing negative being said about my current web host. That in itself is pretty self-explanatory and if you would try searching for Bluehost Sucks or Dreamhost Sucks or for any other host you'd find thousands of complaints from unhappy customers.<!--more-->
 </p>
+
+<div class="offgrid-left">
+	<img class="size-full wp-image-1010 aligncenter" title="Webfaction, Hosting that Sucks" alt="Webfaction, Hosting that Sucks" src="{{ site.baseurl }}/assets/images/legacy/v5/webfaction.jpg" width="618" height="480" />
+	<p class="caption">Screenshot of Webfaction's website, circa 2010.</p>
+</div>
 
 Not all hosting companies are perfect and the biggest problem I had with Webfaction, which lasted for a few days, was a routing issue I had where I could not connect via SSH or FTP to Webfaction's data center (The Planet). It turns out [my ISP was to blame][2] for the routing problems. Which I believe got fixed when I sent e-mails directly to their engineers after doing a whois on the IP addresses and sending e-mails to the technical people concerned. **Thank you tech guys at Smart** for getting this sorted out as it would never have gotten sorted under normal circumstances. Again throughout this ordeal Webfaction's support staff supported me all the way. This is even after the fact that they were aware that my problems were an external issue not related to them.
 
@@ -32,7 +37,7 @@ Lousy web hosts make more money off smaller hosting accounts which have low-traf
 Now if you are convinced that **Webfaction doesn't suck at all** and would wish to sign up and **help me out** in the process, you can follow the affiliate link and [help Archon Digital complete his goal of World Domination][4].
 
 
-[1]: http://archondigital.com/webfaction-hosting-sucks-1005/
-[2]: http://archondigital.com/v5/internet/isp/smartbro/blame-it-on-my-isp-smart-bro/
-[3]: http://archondigital.com/v5/internet/hosting/a-new-slice-of-life-slicehost/
+[1]: http://archon.digital/webfaction-hosting-sucks-1005/
+[2]: http://archon.digital/v5/internet/isp/smartbro/blame-it-on-my-isp-smart-bro/
+[3]: http://archon.digital/v5/internet/hosting/a-new-slice-of-life-slicehost/
 [4]: http://www.webfaction.com/signup?affiliate=archondigital
