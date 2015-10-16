@@ -2,7 +2,7 @@
 title: Crossing tracks.
 title_hide: true
 author: Jon Cuevas
-layout: post-photo-full
+layout: post-photo
 permalink: /articles/crossing-tracks/
 excerpt: "Man with child about to cross railroad tracks on a bicycle."
 featured_image: /assets/images/articles/man-and-child_3715.jpg
