@@ -13,26 +13,55 @@ layout: home
 	
 	{% for post in paginator.posts %}
 
-	<article class="article {{ post.text_color }} {% if paginator.page != 1 %}poof{% else %}alapeanutbuttersandwiches{% endif %}" style="background-image: url({{ post.featured_image | prepend: site.baseurl }});" data-stellar-background-ratio="0.3">
-		<div class="container" style="background: {{ post.bg_color }}">
-			<div class="row fullwidth">
-				<div class="large-2 columns">
-					&nbsp;
-				</div>
-				<div class="large-4 columns text-right">
-					<h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-				</div>
-			  	
-			  	<div class="large-4 columns hide-for-small">
-			  		<p class="lead">{{ post.excerpt | remove: '<p>' | remove: '</p>' | truncatewords: 60 }}</p>
-			  		<p><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">continue reading...</a></p>
-			  	</div>	  
-			  	<div class="large-2 columns">
-			  		<span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-			  	</div>
-			</div>			
-		</div>
-	</article>
+		{% if paginator.page != 1 %}
+
+		<article class="article {{ post.text_color }} {% if paginator.page != 1 %}poof{% else %}alapeanutbuttersandwiches{% endif %}" style="background-image: url({{ post.featured_image | prepend: site.baseurl }});" data-stellar-background-ratio="0.2">
+			<div class="container" style="background: {{ post.bg_color }}">
+				<div class="row fullwidth">
+					<div class="large-2 columns">
+						&nbsp;
+					</div>
+					<div class="large-4 columns text-right">
+						<h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+					</div>
+				  	
+				  	<div class="large-4 columns hide-for-small">
+				  		<p class="lead">{{ post.excerpt | remove: '<p>' | remove: '</p>' | truncatewords: 60 }}</p>
+				  		<p><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">continue reading...</a></p>
+				  	</div>	  
+				  	<div class="large-2 columns">
+				  		<span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+				  	</div>
+				</div>			
+			</div>
+		</article>		
+
+		{% else %}
+
+		<article class="article {{ post.text_color }} {% if paginator.page != 1 %}poof{% else %}alapeanutbuttersandwiches{% endif %}" style="background-size: cover; background-image: url({{ post.featured_image | prepend: site.baseurl }});" data-stellar-background-ratio="0.3" data-stellar-vertical-offset="700">
+			<div class="container" style="background: {{ post.bg_color }};">
+				<div class="row fullwidth">
+					<div class="large-2 columns">
+						&nbsp;
+					</div>
+					<div class="large-4 columns text-right">
+						<h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+					</div>
+				  	
+				  	<div class="large-4 columns hide-for-small">
+				  		<p class="lead">{{ post.excerpt | remove: '<p>' | remove: '</p>' | truncatewords: 60 }}</p>
+				  		<p><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">continue reading...</a></p>
+				  	</div>	  
+				  	<div class="large-2 columns">
+				  		<span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+				  	</div>
+				</div>			
+			</div>
+		</article>				
+
+		{% endif %}
+
+	
 
 	{% endfor %}
 	<hr>
