@@ -1,7 +1,7 @@
 # Site settings
 title: Archon Digital
 email: overlord@archon-digital.com
-description: "My personal blog. Covers most of what I do from web design to frontend development, gear, music and street photography. This site runs on Jekyll, Foundation 5 and Liquid templating."
+description: "I'm Jon Cuevas, a.k.a @archondigital, and this is my personal website. Here I publish blog entries on my interests and what I mostly do, from web design, frontend development, street photography, tech gear, gaming and music. This site runs on Jekyll, Foundation 5 and Liquid templating. Powered by Github Pages."
 baseurl: "http://archon.digital"
 url: ""
 username: archondigital
