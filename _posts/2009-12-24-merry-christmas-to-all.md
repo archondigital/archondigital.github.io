@@ -10,7 +10,8 @@ text_color: light
 comments: true
 ---
 
-![Merry Christmas]({{ site.baseurl }}/assets/images/legacy/v5/xmas4.png "Title")
+<div class="aligncenter"><img src="{{ site.baseurl }}/assets/images/legacy/v5/xmas4.png">
+</div>
 
 To all my friends, online and offline, may you have a blessed holiday season and God bless you all.
 
