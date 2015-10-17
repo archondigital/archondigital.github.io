@@ -1,4 +1,4 @@
-{% if site.enable_adsense %}
+{% if site.enable_adsense == true %}
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Archon Digital 2015 -->
 <ins class="adsbygoogle"
@@ -8,4 +8,6 @@
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+{% else %}
+	<img src="{{ site.baseurl }}/assets/images/ad-sample-300x250.jpg">
 {% endif %}

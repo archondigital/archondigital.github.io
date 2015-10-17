@@ -1,4 +1,4 @@
-{% if site.enable_adsense %}
+{% if site.enable_adsense == true %}
 <!-- BuySellAds Zone Code -->
 <!-- <div id="bsap_1297334" class="bsarocks bsap_659b1f8cb94733cf9b883299bd357fdd"></div> -->
 <!-- End BuySellAds Zone Code -->
@@ -12,4 +12,6 @@
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+{% else %}
+	<img src="{{ site.baseurl }}/assets/images/ad-sample-300x600.jpg">
 {% endif %}
