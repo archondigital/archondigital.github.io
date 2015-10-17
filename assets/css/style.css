@@ -86,6 +86,7 @@ li.clearing-featured-img {display: block; width: 100%;}
   #masthead.fullscreen .orbit-container ul li {height: 100%; background-position: center; background-size: cover;}
 
   #masthead .orbit-caption {position: relative; padding: 1.25rem; height: 200px; background: #fff;} 
+  #masthead .orbit-caption h3 a {color: #000;}
   #masthead .orbit-caption p {color: #000;} 
 
 #masthead .orbit-container .orbit-prev, #masthead .orbit-container .orbit-next {top: 88.5%; background-color: rgba(0,0,0,0.2);}  
