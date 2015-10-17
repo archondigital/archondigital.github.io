@@ -164,6 +164,9 @@ li.clearing-featured-img {display: block; width: 100%;}
   .about .panel {position: relative; bottom: initial; width: 100%; background: rgba(0,0,0,0.5); border: none;}
   .articles article {}
 
+  h1 {font-size: 1.625rem;}
+  p.lead {font-size: 1.25rem; line-height: 1.4}
+
   /* Add Class for Images */
   div.offgrid-left {float:none;max-width:120%;padding-right:0;}
   div.offgrid-left img {max-width:120%;margin-left: -20%;}
