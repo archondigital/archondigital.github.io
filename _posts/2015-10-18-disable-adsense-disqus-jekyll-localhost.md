@@ -59,6 +59,7 @@ This is the command that I run when running Jekyll on my local machine.
 ```
 jekyll serve --baseurl --drafts --cfig=_config.yml,_config_dev.yml
 ```
+
 The second config file overrides the first one which results in Disqus and Adsense when running on localhost. 
 
 Hopefully, Jekyll would have a more official solution to this in the future.
