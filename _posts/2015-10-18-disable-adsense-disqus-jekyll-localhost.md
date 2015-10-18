@@ -28,7 +28,7 @@ This had me end up with a lot of ```http://localhost:4000/…``` URLs on my Disq
 
 Though the Disqus issue is more of a nuisance than a critical one, the same cannot be said for Adsense.
 
-With ad impressions running from localhost, you run the risk of getting your Adsense account banned since it may appear to Google as simulated impressions which is a violation of their terms of use.
+With ad impressions running from localhost, you run the risk of getting your Adsense account banned since it may appear to Google as simulated impressions which is a violation of their terms of use. Now, we've all must've already heard nightmare stories of publishers getting banned from Adsense for various valid or questionable reasons and it's just one of those things that you just would not put to chance.
 
 This prompted me to scout around for an elegant solution and that is how I came across this post from [Michael Parker][2]{:target="_blank"} on how he [disabled Disqus when running Jekyll on localhost][3]{:target="_blank"} using a second configuration file.
 
