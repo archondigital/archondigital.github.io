@@ -5,6 +5,7 @@ author: Jon Cuevas
 layout: post-photo
 permalink: /articles/pineapple/
 excerpt: "A vendor starts his day preparing sliced pineapples to sell."
+featured: true
 featured_image: /assets/images/articles/pina_09559.jpg
 background_position: center left
 bg_color: 'rgba(0, 0, 0, .5);'
