@@ -9,7 +9,14 @@ bg_color: '#c93b16;'
 text_color: light
 comments: true
 ---
-<p class="lead">As of today, <a href="http://archondigital.com">Archon Digital</a> is now running on Jekyll and is being hosted on <a href="https://pages.github.com/">Github Pages</a>. Everything seems to work fine and I'm happy the transition went really well considering I was migrating in between breaks, meetings, at night and over the weekend. The original idea was only to migrate the old /v5/ parts of the site but after spending time reading Jekyll's documentation, I decided to move everything over.</p>
+<div data-alert class="alert-box secondary">
+  Related: <strong><a href="http://archon.digital/articles/disable-adsense-disqus-jekyll-localhost/">Learn how to Disable Disqus & Google Adsense when running Jekyll on localhost.</a></strong>
+  <a href="#" class="close">&times;</a>
+</div>
+
+<div class="offgrid-right"><p>{% include adzone01.html %}</p></div>
+
+<p class="lead">As of today, <a href="http://archon.digital">Archon Digital</a> is now running on Jekyll and is being hosted on <a href="https://pages.github.com/">Github Pages</a>. Everything seems to work fine and I'm happy the transition went really well considering I was migrating in between breaks, meetings, at night and over the weekend. The original idea was only to migrate the old /v5/ parts of the site but after spending time reading Jekyll's documentation, I decided to move everything over.</p>
 
 The idea to move started from when I wrote on finding out [how to turn an old WordPress install into a static site][7]. You see, Archon Digital was at that time a site running two WordPress installations, the main one on the root of the domain archondigital.com which was the most updated one and the older one under archondigital.com/v5 that had all the old plugins and posts that I've long since forgotten about. I wanted to turn the old one to a purely static site to save me the time of having to bother logging in and updating WordPress and its old plugins every time there is a new release.
 
@@ -41,14 +48,19 @@ I've created different types of implementations for WordPress over the years and
 
 It would be great to find out what you think of the new version of this site, do feel free to comment below.
 
+<div data-alert class="alert-box secondary">
+  Related: <strong><a href="http://archon.digital/articles/disable-adsense-disqus-jekyll-localhost/">Learn how to Disable Disqus & Google Adsense when running Jekyll on localhost.</a></strong>
+  <a href="#" class="close">&times;</a>
+</div>
 
-[1]: http://archondigital.com
+[1]: http://archon.digital
 [2]: https://github.com/benbalter/wordpress-to-jekyll-exporter
 [3]: https://pages.github.com/
 [4]: http://www.gov.ph
 [5]: http://malacanang.gov.ph
 [6]: http://wordpress.org/news/2003/10/072-final-version-available/
-[7]: http://archondigital.com/question-how-to-convert-an-old-wordpress-install-to-a-purely-static-html-website-1737/
+[7]: http://archon.digital/question-how-to-convert-an-old-wordpress-install-to-a-purely-static-html-website-1737/
 [8]: http://www.statamic.com/
 [9]: http://mixture.io/
 [10]: http://liquidmarkup.org/
+[11]: http://archon.digital/articles/disable-adsense-disqus-jekyll-localhost/
