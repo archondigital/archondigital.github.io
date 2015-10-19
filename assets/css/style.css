@@ -30,6 +30,8 @@ ul.pagination {  display: inline-block;}
 
 p.caption {font-size: 80%; color: #888; margin-top: 0.625rem;}
 
+.entry-content ul, .entry-content ol, .entry-content dl {list-style-position: inside;}
+
 .social {min-height: 20px; margin-bottom: 1.25rem; float: left;}
 .share-tweet, .share-fb, .share-google, .share-su, .share-pin {height: 20px; float: left; margin-right: 5px;}
 
