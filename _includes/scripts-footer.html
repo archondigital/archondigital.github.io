@@ -30,6 +30,16 @@ $('a[href*=#]:not([href=#])').click(function() {
 });
 
 
+// load clearing lightbox with hash #clearing
+$(function(){
+   if (window.location.hash){
+      var hash = window.location.hash.substring(1);
+      if (hash == "clearing"){
+         $('ul[data-clearing] li a').first().click();
+      }
+   }
+});
+
 </script>
 
 <!-- Google +1 -->
