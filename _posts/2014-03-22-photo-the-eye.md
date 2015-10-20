@@ -4,7 +4,6 @@ author: Jon Cuevas
 layout: post-photo
 permalink: /articles/the-eye/
 excerpt: "It's like a giant cyclops from an alternate dimension, a single robotic eyeball looking down on us little people below, watching our every move. No, this is not the set of a movie on fictional dystopian societies, the photo is actually the ceiling artwork in the Mabini Hall of the Department of Foreign Affairs in Pasay City."
-featured: true
 featured_image: /assets/images/bnr-slide-dfa-grayscale.jpg
 bg_color: 'rgba(0, 0, 0, .8);'
 text_color: light
