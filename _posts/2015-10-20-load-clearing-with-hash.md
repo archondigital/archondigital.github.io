@@ -39,7 +39,7 @@ Add the script shown on the screen right after the ```$(document).foundation();`
 A live example of this can be seen by navigating to [this image post][3]{:target="_blank"}. You can apply this to any WordPress theme, on Jekyll or on static sites that use Foundation 5 and has [Clearing Lightbox][1]{:target="_blank"} enabled.
 
 
-### Why would you want to do this
+### Why would you want to do this?
 
 One of the reasons why I wanted to be able to load Clearing Lightbox on opening a page is for when I share photos of my street photography on various forums. I would want to be able to share photos without distracting the people who would click through with my site by removing, or in this case, covering all the branding on my site. What users would see is just an opened up modal or lightbox that would show the entire image on a black background.
 
