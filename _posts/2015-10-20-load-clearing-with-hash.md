@@ -41,7 +41,7 @@ A live example of this can be seen by navigating to [this image post][3]{:target
 
 ### Why would you want to do this?
 
-One of the reasons why I wanted to be able to load Clearing Lightbox on opening a page is for when I share photos of my street photography on various forums. I would want to be able to share photos without distracting the people who would click through with my site by removing, or in this case, covering all the branding on my site. What users would see is just an opened up modal or lightbox that would show the entire image on a black background.
+One of the reasons why I wanted to be able to load Clearing Lightbox on opening a page is for when I share photos of my street photography on various forums. By the way, my photos are crap. But I would want to be able to share photos without distracting the people who would click through with my site by removing, or in this case, covering all the branding on my site. What users would see is just an opened up modal or lightbox that would show the entire image on a black background.
 
 This would allow me to display my photo without any other distractions for the user and at the same time allow me to measure this interaction on my Google Analytics account. It's like using a third-party, image sharing service minus the third-party.
 
