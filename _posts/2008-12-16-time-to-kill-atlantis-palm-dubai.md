@@ -4,8 +4,8 @@ author: Jon Cuevas
 layout: post
 permalink: /v5/overlord/tough-choices-and-keeping-calm-feels-good-to-be-pinoy/
 excerpt: "Dubai, home to a vast number of people from many different cultures. The city is one of, if not the fastest developing urban hubs in the world today. A place where mega projects are sprouting left and right."
-featured: false
 comments: true
+tags: [Dubai, OFW, Travel]
 ---
 Now I haven't really gone around much since arriving here in U.A.E. but was able to see a few sights in Dubai over the weekend. A friend took me to see the Atlantis, The Palm, Dubai which is 25 minutes away from my place without traffic.
 

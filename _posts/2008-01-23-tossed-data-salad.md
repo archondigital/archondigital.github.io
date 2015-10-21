@@ -4,13 +4,7 @@ author: Archon Digital
 excerpt: "How would you feel if you find out that your personal and financial data is being passed from one amateur telemarketer to another?"
 layout: post
 permalink: /v5/finances-income/credit/tossed-data-salad/
-tags:
-  - Credit
-  - finances
-  - marketing
-  - money
-  - Overlord
-  - telemarketing
+tags: [Data, Privacy]
 comments: true
 ---
 ## Why Me?

@@ -1,25 +1,20 @@
 ---
-layout: page
+layout: archives
 title: Archives
 permalink: /archives/
 ---
-
-<!-- modified snippet taken from http://reyhan.org/2013/03/jekyll-archive-without-plugins.html -->
-<h3>2015</h3>
-{%for post in site.posts %}
-{% unless post.next %}
-<ul class="this no-bullet">
-  {% else %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
-  {% if year != nyear %}
-</ul>
-<h3>{{ post.date | date: '%Y' }}</h3>
-<ul class="past no-bullet">
-  {% endif %}
-  {% endunless %}
-  <li><time class="meta" style="display:inline-block;width:3.25rem;">{{ post.date | date:"%d %b" }}:</time> <a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+<h3><small>By Topic</small></h3>
+<ol class="this">
+	<li><a href="{{ "/topic/wordpress/" | prepend: site.baseurl }}">WordPress</a></li>
+	<li><a href="{{ "/topic/jekyll/" | prepend: site.baseurl }}">Jekyll</a></li>
+	<li><a href="{{ "/topic/web-development/" | prepend: site.baseurl }}">Web Development</a></li>
+	<li><a href="{{ "/topic/foundation/" | prepend: site.baseurl }}">Foundation</a></li>
+	<li><a href="{{ "/topic/technology/" | prepend: site.baseurl }}">Technology</a></li>
+	<li><a href="{{ "/topic/street-photography/" | prepend: site.baseurl }}">Street Photography</a></li>
+	<li><a href="{{ "/topic/design/" | prepend: site.baseurl }}">Design</a></li>
+	<li><a href="{{ "/topic/manila/" | prepend: site.baseurl }}">Manila</a></li>
+	<li><a href="{{ "/topic/philippines/" | prepend: site.baseurl }}">Philippines</a></li>
+	<li><a href="{{ "/topic/tourism/" | prepend: site.baseurl }}">Tourism</a></li>
+	<li><a href="{{ "/topic/politics/" | prepend: site.baseurl }}">Politics</a></li>
+	<li><a href="{{ "/topic/proud-to-be-pinoy/" | prepend: site.baseurl }}">Proud to be Pinoy</a></li>
+</ol>

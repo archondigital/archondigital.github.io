@@ -8,6 +8,7 @@ featured_image: /assets/images/legacy/Newsweek-Final-Cover.jpg
 bg_color: 'rgba(0, 0, 0, .8);'
 text_color: light
 comments: true
+tags: [Print, Design]
 ---
 Definitely, a sad day for print. Newsweek will be publishing its final print issue this coming Monday. They just announced it online by releasing a digital version of their cover over Twitter a few hours ago (see tweet below).
 

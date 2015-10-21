@@ -10,7 +10,7 @@ background_position: bottom center
 bg_color: 'rgba(0, 0, 0, .6);'
 text_color: light
 comments: true
-
+tags: [Photography, Street Photography, Black and White, Sony, Manila, PopeinPH, Streets of Manila]
 ---
 
 People converge at the intersections of Taft and Quirino avenues near the Papal Nunciature as they await the arrival of Pope Francis.

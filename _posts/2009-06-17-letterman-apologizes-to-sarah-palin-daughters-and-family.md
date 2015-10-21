@@ -2,11 +2,13 @@
 title: Letterman Apologizes to Sarah Palin, Daughters and Family
 author: Jon Cuevas
 layout: post
-permalink: /v5/technology/software/iphones-activation-server-down/
+permalink: /v5/overlord/letterman-apologizes-to-sarah-palin-daughters-and-family/
 excerpt: "Now when I call your name, please come forward and pick up your apology. [Laughter, applause] I wanna get through this as quickly as possibly so you folks can get to the 'Fire Dave Rally.'"
-featured: false
 comments: true
+tags: [Funny]
 ---
+{% include snippet-disclaimer-old-post.html %}
+
 David Letterman apologized on air this June 15th to Sarah Palin her daughters and the rest of their family in an effort to hopefully end the controversy surrounding the joke that he said a few days ago on his show regarding the Alaska governor's daughter. The entire situation has gone from coarse joke to a national campaign by conservatives to hold Letterman responsible and account for his wrong deeds. The newly formed advocacy group firedavidletterman.com has called for Letterman to be fired from CBS even went as far as staging a rally in front of Ed Sullivan Theatre where the Lateshow is taped.
 
 ![firedave][1]

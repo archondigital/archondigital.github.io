@@ -10,12 +10,10 @@ dsq_thread_id:
   - 2769796434
 categories:
   - Contests
-tags:
-  - Contests
-  - Entrecard
-  - Overlord
-  - world domination
+tags: [World Domination, Contests]
 ---
+{% include snippet-disclaimer-old-post.html %}
+
 ## Yes, I hate Mondays.
 
 From waking up early to taking the train to work, working and getting back home, the whole day seems to just run on <a href="http://www.imdb.com/title/tt0389860/" target="_blank">autopilot</a> for me. For the others around me, it&#8217;s like I have this big &#8220;F*ck-off-it&#8217;s-Monday&#8221; sign on my forehead.

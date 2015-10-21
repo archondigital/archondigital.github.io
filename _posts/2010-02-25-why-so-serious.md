@@ -8,6 +8,7 @@ featured_image: /assets/images/legacy/v5/steven-DSC00262a.jpg
 bg_color: 'rgba(0, 0, 0, .7);'
 text_color: light
 comments: true
+tags: [Family, Life, World Domination]
 ---
 
 <p class="lead">That's my little guy, Steven after finishing his grape juice.</p>

@@ -8,7 +8,10 @@ featured_image: /assets/images/legacy/v5/smartbro-broadbandest.jpg
 bg_color: 'rgba(0, 0, 0, .8);'
 text_color: light
 comments: true
+tags: [ISP, Internet, Smart Bro]
 ---
+{% include snippet-disclaimer-old-post.html %}
+
 <p class="lead">It always made perfect sense to put the blame on my ISP every single time some problem comes up with my internet connection. The logic behind it is very simple, aside from our politicians, I don’t see anyone else better to blame than my Internet Service Provider,  Smart Bro.</p>
 
 ![Smart Bro]({{ site.baseurl }}/assets/images/legacy/v5/smartbro-broadbandest.jpg "Title")

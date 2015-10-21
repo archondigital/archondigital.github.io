@@ -10,7 +10,7 @@ featured_image: /assets/images/articles/brain-implant.jpg
 bg_color: 'rgba(248, 245, 125, .9);'
 text_color: dark
 comments: true
-
+tags: [Technology]
 ---
 
 <p class="lead">A microchip implanted in the brain of a paralyzed man in this video proved successful and has allowed him to regain movement in his right hand using only his thoughts.</p>

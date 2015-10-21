@@ -6,17 +6,12 @@ permalink: /v5/internet/hosting/saying-goodbye-to-the-grid/
 featured_image: /assets/images/legacy/v5/bass-555.jpg
 bg_color: 'rgba(0, 0, 0, .8);'
 text_color: light
-dsq_thread_id:
-  - 2769796462
 categories:
   - Hosting
-tags:
-  - Hosting
-  - mediatemple
-  - shared hosting
-  - Slicehost
-  - VPS
+tags: [Hosting, Media Temple, Slicehost]
 ---
+{% include snippet-disclaimer-old-post.html %}
+
 I fell in love with the grid (gs) back when I signed up and up to the last minute. It was easy for me to ignore the issues with loading times, downtime and other problems as I was one happy customer. Mediatemple is family, but you just can&#8217;t stay at home for the rest of your life.
 
 Before this article was written, Archon Digital took eons to fully load which I find to be really frustrating a lot of times. It has been on a Mediatemple Grid Server ever since the domain was bought in January 2007 and moving away from their lovely control panel was like moving away from home for the first time. <!--more-->

@@ -22,6 +22,18 @@ $(function(){
    }
 });
 
+$(document.body).on("opened.fndtn.clearing", function(event) {
+  $( ".link-to-post" ).click(function() {
+    document.location.href=$(this).attr("href");
+  });
+});
+
+$(document.body).on("closed.fndtn.clearing", function(event) {
+  $( ".link-to-post" ).hover(function() {
+    document.location.reload();
+  });  
+});
+
 // stellar
 $.stellar();
 

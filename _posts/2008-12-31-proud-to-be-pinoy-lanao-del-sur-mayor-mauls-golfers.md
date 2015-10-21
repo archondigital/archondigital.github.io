@@ -4,9 +4,11 @@ author: Jon Cuevas
 layout: post
 permalink: /v5/philippines/proud-to-be-pinoy-lanao-del-sur-mayor-mauls-golfers/
 excerpt: "A public servant with an overblown ego and mindless henchmen takes part in a demolition job of his own career after mauling a 56-year-old man and his son right in front of their daughter over a round of golf. Now, aren't we all just 'Proud to be Pinoy' now?"
-featured: false
 comments: true
+tags: [Politics, Philippines, Proud to be Pinoy]
 ---
+{% include snippet-disclaimer-old-post.html %}
+
 After talking about being [feeling good to be Pinoy][1], it seems that some have had worse experiences right in my own beloved homeland where fellowmen are being harassed by my own Filipino-elected public servants. I just read about it from the article, <del>A Bad Round of Golf by JaypeeOnline</del>, where he wrote about the plight of Bambee de la Paz, her father and brother who got beat up to a pulp by Nasser Pangandaman Jr., a Mayor from Lanao Del Sur.
 
 My deepest sympathies to the family of this young girl and I am pledging my support to make this cruelty known more to the Filipino public and to the rest of the world.

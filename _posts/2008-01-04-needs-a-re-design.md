@@ -3,13 +3,11 @@ title: Needs a Re-design
 author: Archon Digital
 layout: post
 permalink: /v5/studio/design/needs-a-re-design/
-tags:
-  - Design
-  - graphic design
-  - Themes
-  - Wordpress
+tags: [Design, WordPress]
 comments: true
 ---
+{% include snippet-disclaimer-old-post.html %}
+
 <del datetime="2008-02-10T12:26:13+00:00">This site needs some drastic changes in its basic design.</del>
 
 <span class="attention">Posted during the 2nd version of Archon Digital</span>

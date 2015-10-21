@@ -12,9 +12,11 @@ categories:
   - Images
 format: image
 comments: true
+tags: [Design, World Domination, Videos]
 ---
 <div class="row">
 	<div class="large-8 columns">
+	{% include snippet-disclaimer-old-post.html %}
 
 	<p class="lead">Art & Copy is a powerful documentary about advertising and inspiration.</p>
 

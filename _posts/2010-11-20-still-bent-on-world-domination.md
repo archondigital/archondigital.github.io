@@ -5,7 +5,10 @@ layout: post
 permalink: /v5/overlord/still-bent-on-world-domination/
 excerpt: "I miss blogging. A lot of things going on in my life offline and these past few months I made a decision not to blog at all."
 comments: true
+tags: [World Domination]
 ---
+{% include snippet-disclaimer-old-post.html %}
+
 <p class="lead">A lot of things going on in my life offline and these past few months I made a decision not to blog at all.</p>
 
 There’s the new gig, a lot of interesting experiences, new people and some personal matters going on and I’m not really sure how I would communicate it all through Archon Digital. I always felt I needed to write down the things on my mind whether to blog it or just write down or doodle my thoughts and stash it somewhere.

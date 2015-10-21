@@ -5,6 +5,7 @@ excerpt: "When I redesigned my site two years ago, I decided to archive my old W
 layout: post
 permalink: /question-how-to-convert-an-old-wordpress-install-to-a-purely-static-html-website-1737/
 comments: true
+tags: [WordPress, HTML, Jekyll, Web Development]
 ---
 
 <div class="row">

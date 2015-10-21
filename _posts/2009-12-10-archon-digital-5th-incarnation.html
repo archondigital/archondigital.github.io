@@ -8,6 +8,7 @@ featured_image: /assets/images/legacy/v5/bg-post-archon5.jpg
 bg_color: 'rgba(0, 0, 0, .8);'
 text_color: light
 comments: true
+tags: [Design, WordPress, World Domination, Web Development]
 
 ---
 <head>
@@ -45,6 +46,10 @@ comments: true
 
 <!-- content -->
 
+<!-- for tags -->
+{% assign post = page %}
+<!-- for tags end -->
+
 <div id="content">
 	<header class="row">
 		<div class="large-12 columns">
@@ -54,6 +59,8 @@ comments: true
 	<div class="row">
 
 		<div class="large-12 columns">
+			{% include entry-meta.html %}
+			{% include snippet-disclaimer-old-post.html %}
 
 			<p class="lead">Archon Digital, the 5th version finally launches after months of having shelved the project, this grand scheme of World Domination, due to busy schedules and a some other minor complications.</p>
 
@@ -92,7 +99,19 @@ comments: true
 </div>
 
 <!-- content end -->
-<div class="panel">{% include comments.html %}</div>
+
+	
+
+<div class="panel">
+	<div class="row">
+		<div class="large-12 columns">
+			{% include snippet-tags-post.html %}
+			{% include snippet-social.html %}		
+		</div>
+	</div>
+
+{% include comments.html %}
+</div>
 
 
 {% include footer.html %}

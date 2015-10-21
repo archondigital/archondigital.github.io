@@ -4,9 +4,11 @@ author: Jon Cuevas
 layout: post
 permalink: /v5/internet/search-engine-optimization/pinay-scandal-seo-campaign-results/
 excerpt: "[UPDATE July 17, 2011] This SEO contest and advocacy campaign against the exploitation of Filipinas has ended. The campaign that was launched in 2007 is no longer active and those who participated should delete the links and inform others."
-featured: false
 comments: true
+tags: [SEO]
 ---
+{% include snippet-disclaimer-old-post.html %}
+
 <p class="lead">Last October 9, 2008 Archon Digital launched a campaign both as a cause oriented post for awareness against exploitation of Filipina women as well as an SEO experiment to drive traffic to this site by maximizing for keywords related to Pinay Scandal.</p>
 
 <div class="alert-box secondary">

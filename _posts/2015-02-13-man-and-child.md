@@ -10,7 +10,7 @@ background_position: center -7rem
 bg_color: 'rgba(0, 0, 0, .5);'
 text_color: light
 comments: true
-
+tags: [Photography, Street Photography, Black and White, Sony, Nikon, Nikkor, Manila, Streets of Manila]
 ---
 
 A man on a bicycle holds on to his child in an attempt to keep him safe as he makes his way to cross a railroad crossing in Pandacan, Manila. 

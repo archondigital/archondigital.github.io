@@ -1,41 +1,19 @@
 ---
-title: 'Fallout 3 is Almost There&#8230;&#8230; So Close I Can Smell it Now'
+title: Fallout 3 is Almost There, So Close I Can Smell it Now
 author: Archon Digital
 layout: post
 permalink: /computer-games/fallout-3-almost-there/
-lead-copy:
-  - |
-    War... War never changes.<br>
-    The wait has been sooooooo long but is definitely worth it. Fallout 3 will soon be released and Archon Digital will be ready as soon as it comes out in the U.S. market.
+excerpt: "War... War never changes. The wait has been sooooooo long but is definitely worth it. Fallout 3 will soon be released and Archon Digital will be ready as soon as it comes out in the U.S. market."
 featured_image: /assets/images/legacy/v5/powerarmor.jpg
 bg_color: 'rgba(0, 0, 0, .8);'
 text_color: light
-aktt_notify_twitter:
-  - no
-topsy_short_url:
-  - http://bit.ly/ceyVWH
-amazon-product-isactive:
-  - 1
-amazon-product-content-location:
-  - 3
-amazon-product-single-asin:
-  - B002BXKJA0
-amazon-product-excerpt-hook-override:
-  - 3
-amazon-product-content-hook-override:
-  - 2
-amazon-product-newwindow:
-  - 3
 categories:
   - Gaming
-tags:
-  - fallout
-  - fallout 3
-  - Gaming
+tags: [Gaming, Fallout]
 ---
-The best non-linear, role playing game I have ever played are games Fallout and Fallout 2. Since then, I have always been waiting for the third release (Fallout 3).
+<p class="lead">The best non-linear, role playing game I have ever played are games Fallout and Fallout 2. Since then, I have always been waiting for the third release (Fallout 3).</p>
 
-I have followed news about the game&#8217;s development progress privately, but am now excited this whole thing is pushing through and is to be released in two weeks from now.<!--more-->
+I have followed news about the game's development progress privately, but am now excited this whole thing is pushing through and is to be released in two weeks from now.<!--more-->
 
 ## Fallout 3, The Game
 
@@ -45,7 +23,7 @@ I have followed news about the game&#8217;s development progress privately, but 
   </p>
 </div>
 
-In the game, *Fallout 3* takes place in the year 2277, 36 years after the what took place in *Fallout 2* which is roughly 200 years after the great nuclear war that devastated the world. The player character hails from *Vault 101*, a fallout shelter serving the Washington, D.C. area. The player character one day wakes up finding that his/her father has left the vault and gone off into the wasteland for reasons unknown. He/She then decides to go out into the Capital Wasteland in search of him after the vault *overseer* becomes suspicious that the player had something to do with the father&#8217;s disappearance. And so the story begins for our character as the player encounters organizations seen in the previous games, including the Brotherhood of Steel and the Enclave.
+In the game, *Fallout 3* takes place in the year 2277, 36 years after the what took place in *Fallout 2* which is roughly 200 years after the great nuclear war that devastated the world. The player character hails from *Vault 101*, a fallout shelter serving the Washington, D.C. area. The player character one day wakes up finding that his/her father has left the vault and gone off into the wasteland for reasons unknown. He/She then decides to go out into the Capital Wasteland in search of him after the vault *overseer* becomes suspicious that the player had something to do with the father's disappearance. And so the story begins for our character as the player encounters organizations seen in the previous games, including the Brotherhood of Steel and the Enclave.
 
 ## Prepare for the Future
 

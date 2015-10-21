@@ -14,15 +14,9 @@ client-url:
   - http://www.shangri-la.com/en/property/manila/makatishangrila
 portfolio:
   - yes
-aktt_notify_twitter:
-  - no
-dsq_thread_id:
-  - 2769799024
 categories:
   - Design
-tags:
-  - graphic design
-  - Portfolio
+tags: [Design]
 ---
 This artwork was developed for the digital signage system of Makati Shangri-La, Manila during the recently held 2008 Beijing Summer Olympics. The digital signage displays are 60&#8243; screens strategically located around the hotel&#8217;s public areas and invites guests to a coccktail area in the upper lobby where the games were being screened live.
 

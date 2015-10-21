@@ -6,6 +6,7 @@ permalink: /v5/overlord/writing/getting-in-the-zone/
 featured_image: /assets/images/legacy/v5/blur-lead.jpg
 bg_color: 'rgba(0, 0, 0, .8);'
 text_color: light
+tags: [Writing]
 comments: true
 ---
 Writing has been very elusive to me lately. Working long hours has been draining but fun at the same time and I can&#8217;t seem to blame anyone but myself for getting the writer&#8217;s block.

@@ -8,6 +8,7 @@ featured_image: /assets/images/legacy/IMG_3229-1024x1024.jpg
 bg_color: 'rgba(0, 0, 0, .8);'
 text_color: light
 comments: true
+tags: [Philippines, Heritage, Manila, Torre de Manila]
 ---
 <div class="row">
 	<div class="large-8 columns">

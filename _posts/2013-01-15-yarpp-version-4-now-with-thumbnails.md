@@ -4,6 +4,7 @@ author: Jon Cuevas
 layout: post
 permalink: /yarpp-version-4-now-with-thumbnails-1835/
 comments: true
+tags: [YARPP, WordPress, Web Development]
 ---
 **Yet Another Related Post Plugin** now offers a built-in thumbnail template option that takes advantage of WordPress' own post thumbnails function and can be enabled without requiring any extra PHP programming. All your options are now conveniently located on the settings page. This latest feature eliminates the need for a custom template similar to the [Linkwithin-inspired YARPP template][1] that I published way back in March 2010.
 

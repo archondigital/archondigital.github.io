@@ -3,27 +3,11 @@ title: Quality Comments and Giving Back Some Love
 author: Archon Digital
 layout: post
 permalink: /internet/blogging/quality-comments-and-giving-back-some-love/
-lead-copy:
-  - |
-    We now "DO FOLLOW" comments from regular visitors and also include a "Top Commenters" link where everybody's name will be posted.
-aktt_notify_twitter:
-  - no
-topsy_short_url:
-  - http://bit.ly/aKxqyX
-amazon-product-excerpt-hook-override:
-  - 3
-amazon-product-content-hook-override:
-  - 2
-amazon-product-newwindow:
-  - 3
-dsq_thread_id:
-  - 2769798985
+excerpt: "We now DO FOLLOW comments from regular visitors and also include a Top Commenters link where everybody's name will be posted."
 categories:
   - Blogging
-tags:
-  - links
-  - nofollow
-  - SEO
+tags: [SEO]
+comments: true
 ---
 Archon Digital has upgraded itself to a more community-friendly environment with the addition of dofollow commentluv links for the people who provide regular their insight and opinion on things posted on Archon Digital.<!--more-->
 

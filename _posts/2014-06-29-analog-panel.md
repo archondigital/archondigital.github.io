@@ -9,7 +9,7 @@ featured_image: /assets/images/articles/analog_2160.jpg
 bg_color: 'rgba(0, 0, 0, .4);'
 text_color: light
 comments: true
-
+tags: [Photography, Fallout, Gaming]
 ---
 
 <p class="lead">Interacting with analog controls like these takes me, a grown-up father of three, to this make believe, post-apocalyptic world in search of an extra waterchip or unused GECK.</p>

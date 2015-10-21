@@ -8,20 +8,9 @@ aktt_notify_twitter:
 featured_image: /assets/images/legacy/v5/facebook_1.jpg
 bg_color: 'rgba(0, 0, 0, .8);'
 text_color: light
-featured:
-  - yes
-topsy_short_url:
-  - http://bit.ly/ar2JiK
-custom_css:
-  - 
-custom_fonts:
-  - 
-custom_columns:
-  - 
-dsq_thread_id:
-  - 933414775
 categories:
   - Social Media
+tags: [Social Media, Facebook]
 ---
 After a month of keeping a [Facebook Fan Box widget][1] for <a href="http://www.facebook.com/pages/Archon-Digital/250984095360" target="_blank">Archon Digital&#8217;s Facebook Fan Page</a>, we decided to remove the clunky javascript altogether and replace it with an image resembling the same &#8220;Become a Fan&#8221; button.<!--more-->
 

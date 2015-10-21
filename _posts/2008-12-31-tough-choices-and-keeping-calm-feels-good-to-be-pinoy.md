@@ -4,14 +4,13 @@ author: Jon Cuevas
 layout: post
 permalink: /v5/overlord/tough-choices-and-keeping-calm-feels-good-to-be-pinoy/
 excerpt: "December 26, 2008 was my first time to encounter being literally harassed for being Filipino. I had a long and hard day that day and had to work on a Friday and had a lot of things going on in my mind."
-featured: false
+tags: [OFW, Life, Proud to be Pinoy]
 comments: true
 ---
-<blockquote>
-	<p class="lead">
-		Friday here is like Sunday to the rest of the world and I was walking home after going to the grocery and sending some money home over through Western Union at the mall's Al Ansari exchange. Walking at night in Sharjah is generally peaceful as it is not like back home when you just knew you had to take extra precaution for anything that might come up.
-	</p>
-</blockquote>
+
+<p class="lead">
+	Friday here is like Sunday to the rest of the world and I was walking home after going to the grocery and sending some money home over through Western Union at the mall's Al Ansari exchange. Walking at night in Sharjah is generally peaceful as it is not like back home when you just knew you had to take extra precaution for anything that might come up.
+</p>
 
 So I was crossing the street when a group young teens, probably locals, ran up almost to my back slightly hitting the back of my shoe and started muttering curses ending their phrases with Filipine or Filipino in their own accent. It had to be an insult as I would've been too naive to think it was something else. The signal to cross was still red and I had to endure all that verbal crap being directed at me.
 

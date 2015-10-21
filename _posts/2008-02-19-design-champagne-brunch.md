@@ -13,15 +13,9 @@ client-name:
   - Makati Shangri-La, Manila
 portfolio:
   - yes
-aktt_notify_twitter:
-  - no
-dsq_thread_id:
-  - 2769797438
 categories:
   - Design
-tags:
-  - graphic design
-  - Portfolio
+tags: [Design]
 ---
 Ever thought of what the rich could do on a lazy Sunday morning? It could be anything from playing golf to taking on a few laps in the pool at an exclusive country club and perhaps even getting a nice tan poolside drinking a martini while under the sun. Or how about having a *Sunday Champagne Brunch*? Yes, you heard right, it&#8217;s brunch served with some really expensive champagne.
 

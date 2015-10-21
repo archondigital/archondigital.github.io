@@ -8,6 +8,7 @@ featured_image: /assets/images/bnr-slide-dfa-grayscale.jpg
 bg_color: 'rgba(0, 0, 0, .8);'
 text_color: light
 comments: true
+tags: [Photography, Black and White]
 ---
 <p class="lead">It's like a giant cyclops from an alternate dimension, a single robotic eyeball looking down on us little people below, watching our every move.</p>
 

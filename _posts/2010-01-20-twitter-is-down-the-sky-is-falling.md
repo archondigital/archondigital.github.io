@@ -8,6 +8,7 @@ featured_image: /assets/images/legacy/v5/twitter-is-overcapacity.jpg
 bg_color: 'rgba(0, 0, 0, .8);'
 text_color: light
 comments: true
+tags: [Twitter, Social Media]
 ---
 
 ![Fail Whale]({{ site.baseurl }}/assets/images/legacy/v5/twitter-is-overcapacity.jpg "Title")

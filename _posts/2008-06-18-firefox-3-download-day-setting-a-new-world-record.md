@@ -10,13 +10,10 @@ dsq_thread_id:
   - 2769798073
 categories:
   - Browsers
-tags:
-  - Browsers
-  - downloads
-  - firefox
-  - Open Source
-  - Software
+tags: [Firefox, Internet]
 ---
+{% include snippet-disclaimer-old-post.html %}
+
 Today is D-Day. I got a friendly e-mail reminder from spreadfirefox.com on Download Day (17:00 UTC on June 18, 2008) for the official release of Firefox 3. The guys from Mozilla Foundation are on a mission to set a Guinness World Record for the most software downloaded in 24 hours. <!--more-->Firefox 3 is Mozilla&#8217;s latest stable release of the browser which boasts of a ton of new features and significant performance improvements over the previous version which I discussed in an 
 
 <a href="http://archon-digital.com/studio/software/firefox-3-beta-4/" target="_self">article</a> I wrote a few months back.

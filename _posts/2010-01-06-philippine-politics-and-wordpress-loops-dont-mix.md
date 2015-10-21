@@ -8,6 +8,7 @@ featured_image: /assets/images/legacy/v5/blanktheme-lead.jpg
 bg_color: 'rgba(0, 0, 0, .8);'
 text_color: light
 comments: true
+tags: [Funny, Web Development, Coding, WordPress]
 ---
 
 Philippine politics and open source CMS WordPress cannot seem to create good code poetry. Perhaps poetry and political harmony (read; anarchy) cannot and will never co-exist to create a dynamic Filipino WordPress community.

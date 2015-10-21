@@ -12,9 +12,7 @@ dsq_thread_id:
   - 2769796833
 categories:
   - Family
-tags:
-  - Family
-  - Life
+tags: [Family, Life]
 ---
 
 ![Steven](1)

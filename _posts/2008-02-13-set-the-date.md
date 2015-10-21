@@ -12,10 +12,9 @@ client-name:
   - Makati Shangri-La, Manila
 portfolio:
   - yes
-aktt_notify_twitter:
-  - no
 categories:
   - Design
+tags: [Design]
 ---
 Here is an e-mail creative we came up with to help promote the hotel&#8217;s upcoming Valentine&#8217;s day promotions.
 

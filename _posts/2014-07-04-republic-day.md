@@ -9,6 +9,7 @@ featured_image: /assets/images/articles/republic-day.jpg
 bg_color: 'rgba(0, 0, 0, .2);'
 text_color: light
 comments: true
+tags: [Print, Design, Heritage]
 ---
 <p class="lead">The Philippines used to celebrate its Independence day every July 4 since gaining freedom in 1946 from the Americans. The date was only moved to June 12 after the late President Diosdado Macapagal issued <a href="http://www.gov.ph/1962/05/12/proclamation-no-28-s-1962/">Proclamation No. 28, s. 1962</a>.</p>
 

@@ -9,5 +9,6 @@ bg_color: 'rgba(0, 0, 0, .5);'
 text_color: light
 video_id: jFhJjCmYi1M
 comments: true
+tags: [Videos]
 ---
 <p class="lead">Thank you Netflix. Looking forward to Season 2 of House of Cards.</p>

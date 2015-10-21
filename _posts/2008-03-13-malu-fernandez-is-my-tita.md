@@ -14,14 +14,11 @@ dsq_thread_id:
   - 2769797641
 categories:
   - Philippines
-tags:
-  - Dubai
-  - OFW
-  - Philippines
-  - pinoy
-  - Proud to be Pinoy
+tags: [Philippines, OFW, Dubai, Proud to be Pinoy]
 ---
-Yep, that&#8217;s for real, I am the nephew of a very lovely person named *Malu Fernandez*. My aunt&#8217;s reputation though, is nowhere near the vilified persona much less the body mass (BMI) of the much hated, ex-People Asia writer. My aunt instead is an angel busy with making the world a much better place.
+{% include snippet-disclaimer-old-post.html %}
+
+Yep, that&#8217;s for real, I am the nephew of a very lovely person named *Malu Fernandez*. My aunt&#8217;s reputation though, is nowhere near the vilified persona of the much hated, ex-People Asia writer. My aunt instead is an angel busy with making the world a much better place.
 
 > My aunt&#8230; an angel busy with making the world a much better place.
 

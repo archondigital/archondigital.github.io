@@ -4,11 +4,10 @@ author: Archon Digital
 layout: post
 permalink: /v5/overlord/a-red-orange-sunset/
 excerpt: "Another workday has ended, but the overlord still doesn't want to leave his post. He glances at the red-orange sunset and senses the impending rush of all the other primitive lifeforms around him. They all wish to retreat to their so called homes."
-tags:
-  - Overlord
-  - world domination
+tags: [World Domination]
 comments: true  
 ---
+{% include snippet-disclaimer-old-post.html %}
 
 <blockquote>
 	<p class="lead">Time to leave, but too lazy to go... Traffic is really bad.</p>

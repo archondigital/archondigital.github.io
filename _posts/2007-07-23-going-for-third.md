@@ -5,9 +5,7 @@ layout: post
 permalink: /v5/life/family/going-for-third/
 excerpt: "Why just two when you can have all three?"
 featured: false
-tags:
-  - Family
-  - Life
+tags: [Family, Life]
 comments: true
 ---
 <blockquote><p class="lead">Why just two when you can have all three?</p></blockquote>

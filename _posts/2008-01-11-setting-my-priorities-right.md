@@ -3,10 +3,7 @@ title: Setting My Priorities Right
 author: Archon Digital
 layout: post
 permalink: /v5/internet/blogging/setting-my-priorities-right/
-tags:
-  - Design
-  - world domination
-  - Writing
+tags: [Design, World Domination, Writing]
 comments: true
 ---
 The past five years has been a on-and-off relationship between me and blogging. I can never figure out why I could not last for a few months posting regularly. Over the course of five years, I have been able to setup numerous personal blogs but never actually run them properly. Was I lacking in something? Technical know-how? Writing skills? Job security?<!--more-->

@@ -12,6 +12,7 @@ categories:
   - Images
 format: image
 comments: true
+tags: [Foundation, Jekyll, HTML5, Web Development, Coding]
 ---
 <div class="panel">
   <div class="row">

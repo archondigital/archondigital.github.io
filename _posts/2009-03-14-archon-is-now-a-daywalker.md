@@ -4,9 +4,10 @@ author: Jon Cuevas
 layout: post
 permalink: /v5/overlord/archon-is-now-a-daywalker/
 excerpt: "It's as if the world suddenly collapsed around the realm of Archon Digital. After three months on the new gig, a lot of things have changed and the physical world as Archon once knew no longer existed."
-featured: false
 comments: true
+tags: [OFW, Dubai, World Domination]
 ---
+{% include snippet-disclaimer-old-post.html %}
 
 <blockquote>
 	<p class="lead">“Never show anyone. They’ll beg you and they’ll flatter you for the secret, but as soon as you give it up… you’ll be nothing to them.”</p>

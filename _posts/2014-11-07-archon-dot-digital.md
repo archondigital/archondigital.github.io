@@ -7,7 +7,7 @@ excerpt: "Migrated my site to this new .digital domain"
 bg_color: 'rgba(190, 105, 83, .8);'
 text_color: light
 comments: true
-
+tags: [Domains, Jekyll, Github]
 ---
 
 Just migrated my site to the new .digital top level domain. The whole thing, including setting up 301 redirects in Apache, moving my old domain to a tiny PHP app on my Webfaction and making changes to Google Analytics, Webmaster tools and Disqus all took less than an hour. Though I hope I wasn't forgetting anything.

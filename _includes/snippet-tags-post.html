@@ -1,0 +1,11 @@
+			<div>
+				{% include snippet-tags.html %}
+				<p class="meta">{{ tags_content }} 
+				{% if page.tags %}
+					{% for tags in page.tags %}
+					<span class="label secondary"><a href="{{ site.baseurl }}/topic/{{ tags | slugify }}/">{{ tags }}</a></span>
+					{% endfor %}
+				{% else %}
+				{% endif %}	
+				</p>
+			</div>

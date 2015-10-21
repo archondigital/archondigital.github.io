@@ -9,6 +9,7 @@ featured_image: /assets/images/legacy/v5/nasabuzz.jpg
 bg_color: 'rgba(0, 0, 0, .8);'
 text_color: light
 comments: true
+tags: [Funny, SEO, Spam]
 ---
 <blockquote>
   <p class="lead">"I am Buzz Lightyear. I come in peace."</p>

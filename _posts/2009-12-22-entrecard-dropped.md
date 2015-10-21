@@ -7,7 +7,10 @@ excerpt: "Less clutter and now Entrecard-free. This will be my last Entrecard po
 bg_color: '000'
 text_color: light
 comments: true
+tags: [World Domination]
 ---
+{% include snippet-disclaimer-old-post.html %}
+
 Archon Digital joined Entrecard around this time of the year almost exactly two years back on December 2007 on [Yaw-Yan ArDigma][1] first as an experiment to how effective the new blog network is compared to Blogrush. You first get the initial feeling of awe of suddenly getting so much traffic and meeting new people which at that time the experience was something new and exciting. Genuine bloggers went widget surfing to find other bloggers and soon got the feel of it and started to enjoy the newfound community of like-minded people.
 
 Then in droves came the spam bots, the schemers, the whiners and the cheaters. Factor in the inability of the owner to responsibly take control and put direction to the entire effort and you got yourself a recipe for failure. Like the absentee landlord that Al Pacino refers too in the movie Devil's Advocate, the owner never really became a real part of the community but instead it was the volunteer mods and the lead developer who kept the community running all this time.

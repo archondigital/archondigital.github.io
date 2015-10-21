@@ -7,7 +7,10 @@ excerpt: "Out of curiosity after checking out Mashable’s post on @ConanOBrien 
 bg_color: '#80000b'
 text_color: light
 comments: true
+tags: [Social Media, Twitter, Funny]
 ---
+{% include snippet-disclaimer-old-post.html %}
+
 Out of curiosity after checking out [Mashable’s post on @ConanOBrien](http://mashable.com/2010/03/03/conans-tweet-team/) as being the verified Twitter account of the former host of the Tonight Show, I just had to log in and see for myself. I found it amusing to see Conan O’Brien tweet usual funny quips and even if borrowing one from George Carlin‘s “Jumbo Shrimp” line, still it was very funny.
 
 [@ConanOBrien](http://twitter.com/ConanOBrien) not only has a huge and almost immediate following in the hundreds of thousands but it is also worth noting that there is a funny side story to this Twitter account with [Conan’s local squirel, @ConansSquirrel](http://twitter.com/ConansSquirrel), as a follower and tweeting in tandem with Conan’s tweets. I find these squirrel point-of-view tweets to be the most funny part of it and can’t help not to laugh at every tweet coming from both accounts. At one point the squirrel was tweeting about Conan leaving the house, wearing his “big boy clothes” and all this while Conan tweets about going for a job interview at Home Depot.

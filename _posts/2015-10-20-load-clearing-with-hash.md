@@ -11,7 +11,7 @@ background_position: top center
 bg_color: 'rgba(12, 78, 103, .9);'
 text_color: light
 comments: true
-
+tags: [Foundation, Web Development, HTML5, Coding]
 ---
 <div class="offgrid-right"><p>{% include adzone01.html %}</p></div>
 

@@ -3,17 +3,10 @@ title: Lost all my stats after JetPack upgrade
 author: Jon Cuevas
 layout: post
 permalink: /lost-all-my-stats-after-jetpack-upgrade-1650/
-custom_css:
-  - 
-custom_fonts:
-  - 
-custom_columns:
-  - 
-dsq_thread_id:
-  - 954339139
 categories:
   - Updates
   - Wordpress
+tags: [WordPress, World Domination, Web Development]
 ---
 <div class="alert-box secondary">
   <p>

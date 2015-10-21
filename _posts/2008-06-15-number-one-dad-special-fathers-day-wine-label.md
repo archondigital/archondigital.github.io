@@ -14,13 +14,9 @@ aktt_notify_twitter:
   - no
 portfolio:
   - yes
-dsq_thread_id:
-  - 2769798405
 categories:
   - Design
-tags:
-  - graphic design
-  - Portfolio
+tags: [Design]
 ---
 Father&#8217;s Day had me work on a special wine label to be pasted to some real expensive wine bottles which was given to top male executives from corporate clients of the hotel. I had to prepare something personalized and quick yet remain classy.
 

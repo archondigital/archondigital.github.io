@@ -10,6 +10,7 @@ bg_color: 'rgba(0, 0, 0, .6);'
 text_color: light
 video_id: mYKLvYGqaC0
 comments: true
+tags: [Videos, Music]
 ---
 <p class="lead">I've already seen this video a couple of times, shared it in the past on my FB and on Twitter, but it's still, hands down, the best cover done for this song by Tool.</p>
 

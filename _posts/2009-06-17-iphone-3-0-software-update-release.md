@@ -4,9 +4,11 @@ author: Jon Cuevas
 layout: post
 permalink: /v5/technology/software/iphone-3-0-software-update-release/
 excerpt: "The iPhone OS 3.0 Software update is due for release this June 17, 2009. As of this writing, scores of Apple iPhone enthusiasts are all waiting for the exact time this will be released to the public and are all searching any information they can find over the internet."
-featured: false
 comments: true
+tags: [Apple, iOS, iPhone, Technology]
 ---
+{% include snippet-disclaimer-old-post.html %}
+
 The iPhone OS 3.0 Software update is due for release this June 17, 2009. As of this writing, scores of Apple iPhone enthusiasts are all waiting for the exact time this will be released to the public and are all searching any information they can find over the internet.<!--more-->
 
 <div id="attachment_436" style="width: 361px" class="wp-caption alignnone">

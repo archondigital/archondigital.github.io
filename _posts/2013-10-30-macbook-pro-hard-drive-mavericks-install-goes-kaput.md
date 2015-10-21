@@ -4,6 +4,7 @@ author: Jon Cuevas
 layout: post
 permalink: /macbook-pro-hard-drive-mavericks-install-goes-kaput-2038/
 comments: true
+tags: [MacBook Pro, Apple, Technology, OS X]
 ---
 A few days ago, the hard drive on the 17" MacBook Pro (July 2011) I've been using for work has died. It stopped working after I ran into an error with OS X Mavericks' installation.
 

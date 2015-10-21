@@ -11,11 +11,7 @@ dsq_thread_id:
   - 2769797555
 categories:
   - Politics
-tags:
-  - Philippines
-  - pinoy
-  - Politics
-  - Proud to be Pinoy
+tags: [Philippines, Politics, Proud to be Pinoy]
 comments: true
 
 ---

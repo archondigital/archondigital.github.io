@@ -8,16 +8,12 @@ lead-copy:
 featured_image: /assets/images/legacy/v5/nvidia9800-lead.jpg
 bg_color: 'rgba(0, 0, 0, .8);'
 text_color: light
-dsq_thread_id:
-  - 2769797981
 categories:
   - Graphics Card
-tags:
-  - graphics card
-  - Hardware
-  - nvidia
-  - technology
+tags: [Nvidia, Technology, Product Review]
 ---
+{% include snippet-disclaimer-old-post.html %}
+
 This is one Mother-of-All graphic cards. Look at this monster, I hope to get one on my next setup. Now I have to put this on my wish list for work as I can see it works well on Crysis, I mean Creative Suite.
 
 

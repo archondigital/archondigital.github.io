@@ -4,6 +4,7 @@ author: Jon Cuevas
 layout: post
 permalink: /sharebar-error-and-quick-fix-on-wordpress-3-5-1717/
 comments: true
+tags: [WordPress, Web Development, Coding]
 ---
 I ran into some problems with the Sharebar plugin immediately after upgrading to WordPress 3.5. All my posts where [Sharebar][1] is active were displaying the following error code.
 

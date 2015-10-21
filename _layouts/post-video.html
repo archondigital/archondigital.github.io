@@ -22,7 +22,9 @@ layout: default
 
 	</header>
 
-	
+	<!-- for tags -->
+	{% assign post = page %}
+	<!-- for tags end -->	
 	<article class="post-content entry-content e-content">
 		<div class="row">
 			<div class="large-8 columns">
@@ -39,6 +41,7 @@ layout: default
 	<div class="row">
 		<div class="large-12 columns">
 			<hr>
+			{% include snippet-tags-post.html %}
 			{% include snippet-social.html %}		
 		</div>
 	</div>

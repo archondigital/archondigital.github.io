@@ -7,6 +7,7 @@ permalink: /wordpress-3-8-responsive-dashboard-2045/
 bg_color: '#fdb406;'
 text_color: dark
 comments: true
+tags: [WordPress, Web Development]
 ---
 <p class="lead">
   The WordPress 3.8 dashboard has gone responsive and it's gorgeous. I'm posting this now from my iPhone 5 through the default iOS Safari browser and I must say I'm really impressed. The guys at Automattic has definitely moved in the right direction on this one.

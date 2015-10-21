@@ -6,15 +6,9 @@ permalink: /technology/software/brief-downtime-due-to-server-upgrade/
 featured_image: /assets/images/legacy/v5/ubuntu-lead.jpg
 bg_color: 'rgba(0, 0, 0, .8);'
 text_color: light
-dsq_thread_id:
-  - 2769796534
 categories:
   - Software
-tags:
-  - Hosting
-  - Linux
-  - Open Source
-  - Ubuntu
+tags: [Hosting, Linux, Ubuntu]
 ---
 Archon Digital was down for less than 30 minutes this morning due to a system upgrade on the server.
 

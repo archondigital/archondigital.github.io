@@ -5,6 +5,7 @@ layout: post
 permalink: /v5/internet/blogging/rainy-saturdays-wordpress-app-for-blackberry-and-losing-track-of-time/
 excerpt: "It was raining that Saturday night and I couldn’t get a ride home from the mall as there were just too many people all trying to get a cab at the same time. I was virtually stuck where I was so I decided go back inside, [grab some coffee](http://foursquare.com/archondigital/checkin/4d31aa81c6cba35d0a3c197a) and tinker with this WordPress’ app for Blackberry."
 comments: true
+tags: [WordPress, Blackberry]
 ---
 It was raining that Saturday night and I couldn’t get a ride home from the mall as there were just too many people all trying to get a cab at the same time. I was virtually stuck where I was so I decided go back inside, grab some coffee and tinker with this WordPress’ app for Blackberry.
 

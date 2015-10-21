@@ -4,9 +4,11 @@ author: Jon Cuevas
 layout: post
 permalink: /v5/internet/social-networks/facebook-virus-koobface-on-the-loose/
 excerpt: "Whenever there is any doubt, there is no doubt. That's the first thing they teach you. - Ronin"
-featured: false
 comments: true
+tags: [Technology, Facebook, Social Media]
 ---
+{% include snippet-disclaimer-old-post.html %}
+
 <blockquote>
 	<p class="lead">Whenever there is any doubt, there is no doubt. 
 That's the first thing they teach you.</p>

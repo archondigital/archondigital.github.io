@@ -3,9 +3,7 @@ title: Baby Boy Steve
 author: Archon Digital
 layout: post
 permalink: /v5/life/baby-boy-steve/
-tags:
-  - Family
-  - Life
+tags: [Family, Life]
 comments: true
 ---
 I am now the proud father of three beautiful and wonderful kids, Steven John, my third child, was born this August 9, 2007 at the Manila Doctor's Hospital.

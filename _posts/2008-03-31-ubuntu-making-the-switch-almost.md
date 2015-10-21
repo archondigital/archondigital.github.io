@@ -10,6 +10,8 @@ comments: true
 ---
 <div class="row">
 	<div class="large-6 columns">
+		{% include snippet-disclaimer-old-post.html %}
+
 		<p class="lead">The long hours spent during my free time has paid off as I managed to get Ubuntu 8.04 (Hardy Heron Beta) to run properly. It took me a lot of online reading before I took the plunge and found it amusing that the entire process of actually installing the OS took less than 30 minutes.</p>
 
 		<h3 id="painless-and-clinical">Painless and Clinical</h3>
@@ -50,8 +52,6 @@ comments: true
 		<h3>Getting Ready For the Long Haul</h3>
 
 		<p>I will wait until Adobe cranks out a Linux version of CS3 or maybe until then I'd install Windows XP as guest OS using Virtualbox to help me run Adobe applications. Then again there's also the effort being made by [Google to make Photoshop run properly on Linux.</p>
-		
-		<p>](http://asia.cnet.com/reviews/digitalcameras/0,39001469,62037989,00.htm)</p>
 		
 		<p>For now, consider me as a true-blue Linux convert.</p>
 

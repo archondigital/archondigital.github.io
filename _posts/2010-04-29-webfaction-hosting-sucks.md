@@ -9,6 +9,7 @@ featured_image: /assets/images/legacy/v5/webfaction.jpg
 bg_color: 'rgba(0, 0, 0, .8);'
 text_color: light
 comments: true
+tags: [Hosting, Webfaction]
 ---
 
 <p class="lead">

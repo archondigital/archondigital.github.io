@@ -8,6 +8,7 @@ featured_image: /assets/images/legacy/v5/xmas-tree_105265_6392.jpg
 bg_color: 'rgba(128, 0, 11, .8);'
 text_color: light
 comments: true
+tags: [Life]
 ---
 <p class="lead">It definitely feels like it, smells like it and so most probably it is starting to creep up to my busy schedule. Christmas is so close, it's about to pounce me on the back and rub on me the spirit of the Holiday Season and the entire industry that comes with it. Soon I'll have to do some Christmas shopping, which to me is the only type shopping that even comes close to mind.</p>
 

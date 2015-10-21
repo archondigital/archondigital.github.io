@@ -8,6 +8,7 @@ featured_image: /assets/images/legacy/fisherman_IMG_6663-flat.jpg
 bg_color: 'rgba(0, 0, 0, .8);'
 text_color: light
 comments: true
+tags: [Photography, Street Photography]
 ---
 <p class="lead">This man caught my attention one late afternoon while I was having coffee near the Manila Yacht Club. He was attempting to catch some fish in the murky waters of Manila bay. His semi-pro fishing rod suggests he may not be doing this out of desperation, but the pollution in this part of the bay is just so terrible that it would be impossible to find something that is still safe to eat.</p>
 

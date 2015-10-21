@@ -5,6 +5,7 @@ layout: post
 permalink: /v5/studio/music/i-hate-mondays-mastodon-and-the-calm-amidst-the-rage/
 excerpt: "Every day above ground is a good day. - Scarface 1983"
 comments: true
+tags: [Music, World Domination]
 ---
 <blockquote>
 	<p class="lead">Every day above ground is a good day.</p>

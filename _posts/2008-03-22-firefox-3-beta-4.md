@@ -7,15 +7,9 @@ permalink: /v5/internet/browsers/firefox-3-beta-4/
 featured_image: /assets/images/legacy/v5/firefox3-lead.jpg
 bg_color: 'rgba(0, 0, 0, .8);'
 text_color: light
-dsq_thread_id:
-  - 2769797848
 categories:
   - Browsers
-tags:
-  - Browsers
-  - firefox
-  - Internet
-  - Software
+tags: [Firefox, Internet]
 ---
 
 <p>Just this morning I installed the latest beta from Mozilla Firefox. This is the first time I am installing the beta to give it a road test. Since I first started using it, I immediately noticed how faster the beta is as compared to the current version and it appears to not consume too much memory.</p>

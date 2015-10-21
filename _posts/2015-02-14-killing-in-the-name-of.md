@@ -23,7 +23,7 @@ gallery_content:
   - url: /assets/images/articles/saf_6475.jpg
     label: Heroes arrival.
     caption: Image credit - Official Gazette PH.
-
+tags: [Proud to be Pinoy, Philippines, Politics, Religion]
 ---
 
 <p class="lead">They start 'em young.</p>

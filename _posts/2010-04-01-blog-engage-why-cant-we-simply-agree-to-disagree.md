@@ -5,6 +5,7 @@ excerpt: "I have been following the stories and comments surrounding Blog Engage
 layout: post
 permalink: /blog-engage-why-cant-we-simply-agree-to-disagree-871/
 comments: true
+tags: [Funny, Blog Engage]
 ---
 <div class="alignleft">
 </div>

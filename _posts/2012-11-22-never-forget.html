@@ -8,7 +8,7 @@ featured_image: "/assets/images/legacy/bg-neverforget.jpg"
 bg_color: "rgba(0, 0, 0, .2);"
 text_color: light
 comments: true
-published: true
+tags: [Philippines, Politics, Press Freedom, Proud to be Pinoy]
 ---
 
 <head>
@@ -138,7 +138,9 @@ published: true
 <div id="content">
     <h1>Never Forget</h1>
     <h3>11/23/2009</h3> 
-
+        <!-- for tags -->
+        {% assign post = page %}
+        <!-- for tags end -->
     <div class="row collapse">
       <div class="large-12 columns">
         {% include snippet-social.html %}
@@ -204,6 +206,7 @@ published: true
   
     <div class="row">
       <div class="large-12 columns">
+        {% include snippet-tags-post.html %}
         {% include snippet-social.html %}
       </div>
     </div>

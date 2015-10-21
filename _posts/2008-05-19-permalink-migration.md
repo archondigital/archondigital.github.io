@@ -6,12 +6,13 @@ permalink: /v5/permalink-migration-142/
 featured_image: /assets/images/legacy/v5/blanktheme-lead.jpg
 bg_color: 'rgba(0, 0, 0, .8);'
 text_color: light
-dsq_thread_id:
-  - 933414660
 categories:
   - Articles
   - Wordpress
+tags: [WordPress, Web Development, Coding]
 ---
+{% include snippet-disclaimer-old-post.html %}
+
 It has been one of those things you knew you had to do but was near the bottom of your very long to-do list. But after a few days of thinking it over and browsing the web and eventually looking for the right plugins, I managed to migrate my permalink structure to a more keyword rich, SEO friendly layout.<!--more-->
 
 My old permalink structure was the date based */%year%/%monthnum%/%day%/%postname%/* which I still find to be useful for proper chronological organization of one&#8217;s journal or news items but I also find my new permalink structure */%category%/%postname%/* to be more keyword rich and easier for both humans and bots.

@@ -6,15 +6,12 @@ permalink: /v5/internet/contest/i-hate-mondays-results/
 featured_image: /assets/images/legacy/v5/bang-lead.jpg
 bg_color: 'rgba(0, 0, 0, .8);'
 text_color: light
-dsq_thread_id:
-  - 2769797912
 categories:
   - Contests
-tags:
-  - Contests
-  - Entrecard
-  - world domination
+tags: [World Domination, Contests]
 ---
+{% include snippet-disclaimer-old-post.html %}
+
 There was a short delay to my posting of the results for the <a href="{{ site.baseurl }}/v5/internet/contest/i-hate-mondays/" target="_self">I Hate Mondays</a> contest as I had a terrible headache yesterday. I&#8217;m actually not feeling very well today but I know I should be posting the results right now.
 
 So here it is&#8230;<!--more-->

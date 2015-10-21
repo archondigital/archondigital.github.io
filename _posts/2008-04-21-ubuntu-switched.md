@@ -8,6 +8,8 @@ bg_color: 'rgba(0, 0, 0, .8);'
 text_color: light
 comments: true
 ---
+{% include snippet-disclaimer-old-post.html %}
+
 So after my little adventure with Hardy Heron almost [three weeks ago][1], I can proudly say that my home PC is now a true-blue Linux box. Everyone at home now uses the OS for their browsing, e-mail and word processing duties. No complaints so far from my users at home. It seems they have <!--more-->adjusted pretty easily or don&#8217;t actually care whatever the operating system is as long as everything just works.
 
 Almost everything I need is now running on the Ubuntu box. I used Wine to install my personal accounting software, Photoshop CS2 and Dreamweaver 8. I had a few minutes of using GIMP to edit and crop the picture on my [about][2] page but that was my only time to ever use the image editing software.

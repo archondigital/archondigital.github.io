@@ -11,7 +11,7 @@ background_position: center left
 bg_color: 'rgba(0, 0, 0, .5);'
 text_color: light
 comments: true
-
+tags: [Photography, Street Photography, Black and White, Sony, Manila, PopeinPH, Streets of Manila]
 ---
 
 A vendor starts his day preparing sliced pineapples to sell.

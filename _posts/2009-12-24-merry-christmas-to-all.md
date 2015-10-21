@@ -8,6 +8,7 @@ featured_image: /assets/images/legacy/v5/xmas4.png
 bg_color: 'rgba(0, 0, 0, .8);'
 text_color: light
 comments: true
+tags: [World Domination]
 ---
 
 <div class="aligncenter"><img src="{{ site.baseurl }}/assets/images/legacy/v5/xmas4.png">

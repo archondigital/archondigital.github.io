@@ -8,6 +8,7 @@ permalink: /articles/wordpress-to-jekyll/
 bg_color: '#c93b16;'
 text_color: light
 comments: true
+tags: [WordPress, Jekyll, HTML5, HTML, Github, CMS, Web Development]
 ---
 <div data-alert class="alert-box secondary">
   Related: <strong><a href="http://archon.digital/articles/disable-adsense-disqus-jekyll-localhost/">Learn how to Disable Disqus & Google Adsense when running Jekyll on localhost.</a></strong>

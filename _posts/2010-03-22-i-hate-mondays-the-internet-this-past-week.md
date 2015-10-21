@@ -8,7 +8,10 @@ featured_image: /assets/images/legacy/v5/garfield_monday.jpg
 bg_color: 'rgba(0, 0, 0, .8);'
 text_color: light
 comments: true
+tags: [World Domination]
 ---
+{% include snippet-disclaimer-old-post.html %}
+
 <p class="lead">If I can remember it right, the last time I posted about me hating monday was on April 14, 2008, when Archon Digital created a mini contest to give away a tiny prize.</p>
 
 ![Smart Bro]({{ site.baseurl }}/assets/images/legacy/v5/garfield_monday.jpg "Title")

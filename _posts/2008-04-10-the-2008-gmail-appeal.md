@@ -10,12 +10,7 @@ dsq_thread_id:
   - 2769797535
 categories:
   - E-mail Creative
-tags:
-  - Design
-  - e-mail
-  - Google
-  - marketing
-  - web standards
+tags: [Design, E-mail Marketing, Google, Web Standards]
 ---
 The dedicated folks at E-mail Standards Project has just launched their 2008 Gmail Appeal campaign which aims to make enough noise within the internet and hopefully convince Google to make their e-mail client more XHTML/CSS friendly.
 

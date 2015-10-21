@@ -5,7 +5,24 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="http://archon.digital/feed.xml" />
 
-    <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <title>
+    	{% if page.layout != 'home' %}
+		
+			{% if page.title %}
+				{{ page.title }}
+			{% endif %}
+
+			{% if template == blog_by_tag %}
+				{{ page.tag }}
+			{% endif %}
+			
+			- {{ site.title }}
+
+		{% else %}	
+			{{ site.title }}
+		{% endif %}
+	</title>
+
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 	
 	<meta name="twitter:title" content="{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}">
@@ -63,5 +80,4 @@
 	<meta name="blogcatalog" content="9BC8694366" />
 
 </head>
-
 

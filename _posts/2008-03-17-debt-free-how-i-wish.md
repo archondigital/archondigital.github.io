@@ -7,21 +7,13 @@ permalink: /v5/finances-income/debt-free-how-i-wish/
 featured_image: /assets/images/legacy/v5/debt-lead.jpg
 bg_color: 'rgba(0, 0, 0, .8);'
 text_color: light
-aktt_notify_twitter:
-  - no
-topsy_short_url:
-  - http://bit.ly/5E2geG
-dsq_thread_id:
-  - 2769797635
 categories:
   - 'Finances &amp; Income'
-tags:
-  - Credit
-  - debt
-  - finances
-  - money
+tags: [World Domination]
 ---
-> <span class="entry-lead">Finding out your <strong>net worth</strong> can be both <strong>challenging</strong> and <strong>disappointing</strong> at the same time.</span><!--more-->
+{% include snippet-disclaimer-old-post.html %}
+
+<span class="entry-lead">Finding out your <strong>net worth</strong> can be both <strong>challenging</strong> and <strong>disappointing</strong> at the same time.</span><!--more-->
 
 Recently, I started using Quicken (again) to keep track of my finances. The application was easy to learn and use and there is also an option there to find out your net worth which sparked my curious (yet <a href="{{ site.baseurl }}/v5/philippines/malu-fernandez-is-my-tita/" target="_blank">slacking</a>) mind. I really find it convenient to use accounting software for managing finances ever since running into Quickbooks in my previous job.
 

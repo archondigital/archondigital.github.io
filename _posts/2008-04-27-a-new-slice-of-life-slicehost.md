@@ -10,14 +10,11 @@ dsq_thread_id:
   - 2769798641
 categories:
   - Hosting
-tags:
-  - Hosting
-  - Linux
-  - nginx
-  - Ubuntu
-  - VPS
+tags: [Hosting, Linux, nginx, Ubuntu, Slicehost]
 comments: true
 ---
+{% include snippet-disclaimer-old-post.html %}
+
 One of the main things that I do find interesting with blogging has never really been about making money online but more on the design part of things. Two weeks ago I got myself a 256 slice from [Slicehost][1]{:target="_blank"}. I figured this was a worthwhile investment for most of the sites I run (for myself and for other people).
 
 The learning experience slowly evolved from learning how to design websites, to learning the code behind the design, and then ultimately, learning how the whole box works and looks from the inside.

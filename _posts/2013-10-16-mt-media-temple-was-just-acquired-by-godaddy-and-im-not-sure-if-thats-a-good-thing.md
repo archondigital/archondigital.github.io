@@ -5,6 +5,7 @@ layout: post
 excerpt: "(mt) Media Temple was just acquired by GoDaddy, one of the best hosting companies that both graphic designers and web designers love to use and one of the best around taken over by what is known as one of the worst hosting company that ever existed."
 permalink: /mt-media-temple-was-just-acquired-by-godaddy-and-im-not-sure-if-thats-a-good-thing-2026/
 comments: true
+tags: [Media Temple, Hosting, GoDaddy]
 ---
 <p class="lead">(mt) Media Temple was just acquired by GoDaddy, one of the best hosting companies that both graphic designers and web designers love to use and one of the best around taken over by what is known as one of the worst hosting company that ever existed.</p>
 

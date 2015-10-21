@@ -3,12 +3,12 @@ title: Lost in Space
 author: Archon Digital
 layout: post
 permalink: /v5/overlord/its-a-mind-thing/
-excerpt: "Today the Printshop, Tomorrow the World! The overlord is at it again. His mind drifts into the vastness of the universe seeking for something he has never seen. It seems like ages but then again a good idea can never be taken lightly."    
-tags:
-  - Overlord
-  - world domination
+excerpt: "Today the Printshop, Tomorrow the World! The overlord is at it again. His mind drifts into the vastness of the universe seeking for something he has never seen. It seems like ages but then again a good idea can never be taken lightly."
+tags: [World Domination]
 comments: true
 ---
+{% include snippet-disclaimer-old-post.html %}
+
 If only he can come up with the "good idea" then he wouldn't be scanning the vastness of space and squeezing it dry just to get one.
 
 <blockquote><p class="lead">Don't reinvent the wheel, why are you making it complicated? Google it up, and take it from there, tell me, do I have to repeat myself?</p></blockquote>

@@ -8,6 +8,7 @@ featured_image: /assets/images/legacy/Screen-Shot-2013-07-17-at-3.00.19-AM.png
 bg_color: 'rgba(249, 39, 112, .8);'
 text_color: light
 comments: true
+tags: [World Domination, ISP, Internet, Globe Telecom]
 ---
 <blockquote>
 <p class="lead">Focus. Speed. Faster than fast, quicker than quick. I am Lightning.</p>	

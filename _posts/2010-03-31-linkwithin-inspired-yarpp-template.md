@@ -4,6 +4,7 @@ author: Jon Cuevas
 layout: post
 permalink: /linkwithin-inspired-yarpp-template-854/
 comments: true
+tags: [WordPress, YARPP, Linkwithin, Web Development, Coding]
 ---
 Archon Digital has created a **simple custom template for YARPP** that would allow it to display post **thumbnails** on related posts, similar to how **LinkWithin** displays relevant articles.
 

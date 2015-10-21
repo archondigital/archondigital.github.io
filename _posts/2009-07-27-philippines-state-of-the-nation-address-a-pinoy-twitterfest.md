@@ -2,15 +2,14 @@
 title: Philippines State of the Nation Address – A Pinoy Twitterfest
 author: Jon Cuevas
 layout: post
-permalink: /v5/overlord/a-dozen-drafts-but-nothing-posted/
-excerpt: "Nothing happening lately on this site. Too much activities on marketing some projects on social networks like twitter, facebook and the rest have kept Archon Digital from blogging. It seems writing content on this site has crept down to a halt."
-featured: false
+permalink: /v5/philippines-state-of-the-nation-address-a-pinoy-twitterfest/
+excerpt: "President Gloria Macapagal-Arroyo presented her ninth and final State of the Nation Address (Sona) which focused on grandstanding the administration's achievements stating successful programs and round statistical figures and even goes about lashing out on her critics. Her bit started with a short prayer for the ailing former President Corazon Aquino, who is battling colon cancer  (causing quite a stir in Twitter and the Blogosphere) and afterwhich the President moved on to her real agenda to address the nation."
 comments: true
+tags: [Politics, Philippines]
 ---
+<p class="lead">President Gloria Macapagal-Arroyo presented her ninth and final State of the Nation Address (Sona) which focused on grandstanding the administration's achievements stating successful programs and round statistical figures and even goes about lashing out on her critics. Her bit started with a short prayer for the ailing former President Corazon Aquino, who is battling colon cancer  (causing quite a stir in Twitter and the Blogosphere) and afterwhich the President moved on to her real agenda to address the nation.</p>
 
-President Gloria Macapagal-Arroyo presented her ninth and final State of the Nation Address (Sona) which focused on grandstanding the administration's achievements stating successful programs and round statistical figures and even goes about lashing out on her critics. Her bit started with a short prayer for the ailing former President Corazon Aquino, who is battling colon cancer  (causing quite a stir in Twitter and the Blogosphere) and afterwhich the President moved on to her real agenda to address the nation.
-
-![sona][1]
+<div class="offgrid-left"><img src="{{ site.baseurl }}/assets/images/legacy/v5/sona.jpg"></div>
 
 ## A Twitterfest
 

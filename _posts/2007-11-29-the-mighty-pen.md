@@ -4,11 +4,7 @@ author: Archon Digital
 layout: post
 permalink: /v5/philippines/politics/the-mighty-pen/
 excerpt: "Gunshots fired. The sound of sporadic gunfire can be heard from where I am at the moment, in our office on the third floor less than a hundred meters from the Manila Peninsula."
-tags:
-  - Philippines
-  - pinoy
-  - Politics
-  - Proud to be Pinoy
+tags: [Philippines, Politics, Proud to be Pinoy]
 comments: true
 ---
 The Arroyo government has just started its assault (approximately around 4:01pm) on the group of Sen. Trillianes and Gen. Lim who have forcibly taken over Manila Peninsula after marching out of a courtroom session in Makati RTC earlier this morning.

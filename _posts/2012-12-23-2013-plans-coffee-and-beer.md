@@ -3,16 +3,9 @@ title: 2013, plans, coffee and beer.
 author: Jon Cuevas
 layout: post
 permalink: /2013-plans-coffee-and-beer-1771/
-dsq_thread_id:
-  - 988636475
-custom_css:
-  - 
-custom_fonts:
-  - 
-custom_columns:
-  - 
 categories:
   - Updates
+tags: [World Domination, Life]
 ---
 Sitting in a coffee shop thinking of my plans for the coming year while thinking things like this are better thought about over a bottle or two of nice cold beer&#8230;<!--more-->
 

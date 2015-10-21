@@ -6,7 +6,9 @@ permalink: /v5/overlord/a-dozen-drafts-but-nothing-posted/
 excerpt: "Nothing happening lately on this site. Too much activities on marketing some projects on social networks like twitter, facebook and the rest have kept Archon Digital from blogging. It seems writing content on this site has crept down to a halt."
 featured: false
 comments: true
+tags: [Writing, World Domination]
 ---
+{% include snippet-disclaimer-old-post.html %}
 
 Nothing happening lately on this site. Too much activities on marketing some projects on social networks like twitter, facebook and the rest have kept Archon Digital from blogging. It seems writing content on this site has crept down to a halt.
 

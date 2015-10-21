@@ -4,11 +4,11 @@ author: Archon Digital
 layout: post
 permalink: /v5/overlord/lesson-of-the-day/
 excerpt: "Never assume anything, never volunteer for anything and never account for anything."
-tags:
-  - Overlord
-  - world domination
+tags: [World Domination]
 comments: true
 ---
+{% include snippet-disclaimer-old-post.html %}
+
 <p class="lead">What would you do or how would you react if you got hell after volunteering or providing a solution to what you thought was an impending production problem at work?</p>
 
 <!--more-->

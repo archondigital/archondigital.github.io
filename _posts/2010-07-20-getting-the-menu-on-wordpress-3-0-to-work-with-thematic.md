@@ -4,25 +4,12 @@ author: Jon Cuevas
 excerpt: 'One of the best new feature to come out of WordPress 3.0 is the menu editor. This drag-&-drop approach enables you to create custom navigation without being limited to the page or category hierarchy.'
 layout: post
 permalink: /getting-the-menu-on-wordpress-3-0-to-work-with-thematic-1044/
-aktt_notify_twitter:
-  - no
-amazon-product-excerpt-hook-override:
-  - 3
-amazon-product-content-hook-override:
-  - 2
-amazon-product-newwindow:
-  - 3
 featured_image: /assets/images/legacy/v5/wordpress-menu.gif
 bg_color: 'rgba(0, 0, 0, .8);'
 text_color: light
-topsy_short_url:
-  - http://bit.ly/dDzvDY
-studio-article:
-  - yes
-dsq_thread_id:
-  - 933415221
 categories:
   - Wordpress
+tags: [WordPress, Web Development]
 ---
 <div class="alignleft">
 </div>

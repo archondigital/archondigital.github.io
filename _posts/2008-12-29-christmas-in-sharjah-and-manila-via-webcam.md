@@ -4,14 +4,9 @@ author: Jon Cuevas
 layout: post
 permalink: /v5/overlord/christmas-in-sharjah-and-manila-via-webcam/
 excerpt: "Spending Christmas eve with the family via webcam. Can't figure out why the webcam at home seems too grainy but it's better than not being able to see them at all. I sure wish Skype worked in U.A.E. but had to settle for Yahoo Messenger for now."
-featured: false
 comments: true
+tags: [Family, Life, OFW]
 ---
-<blockquote>
-	<p class="lead">
-		Friday here is like Sunday to the rest of the world and I was walking home after going to the grocery and sending some money home over through Western Union at the mall's Al Ansari exchange. Walking at night in Sharjah is generally peaceful as it is not like back home when you just knew you had to take extra precaution for anything that might come up.
-	</p>
-</blockquote>
 
 After the webcam session with the people at home in my folks place, where I got to have some time to see the kids and check how everything is going, I took a cab to Corniche St. and went to Hardee's and grabbed myself a decent sandwich. It was my only really decent meal of the day and I figured spending Christmas alone wouldn't be so sad if I didn't actually think about it too much. Eating can be as disastrous and tragic as contemplating on suicide by cops.
 

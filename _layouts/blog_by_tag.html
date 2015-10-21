@@ -1,0 +1,106 @@
+---
+layout: default
+---
+<div class="page">
+	<header class="post-header">
+		<div class="row">
+			<div class="large-12 columns">
+			<h1 id="entry-title">{{ page.tag }}, <small>Articles and images by tag/topic</small></h1>
+			</div>
+		</div>
+	</header>			
+
+	<article class="post-content">
+		<div class="row">
+			<div class="large-5 
+			{% if site.tags[page.tag] %}
+				{% for post in site.tags[page.tag] %}
+					{% if post.featured_image %}
+						large-push-7
+					{% endif %}
+				{% endfor %}
+			{% endif %}
+
+			 columns">
+
+			    {% if site.tags[page.tag] %}
+			        {% for post in site.tags[page.tag] %}
+			            {% capture post_year %}{{ post.date | date: '%Y' }}{% endcapture %}
+			            {% if forloop.first %}
+			                <h3>{{ post_year }}</h3>
+			                <div class="list-group">
+			                	<ul class="past no-bullet">
+			            {% endif %}
+						
+			            {% if forloop.first == false %}
+			                {% assign previous_index = forloop.index0 | minus: 1 %}
+			                {% capture previous_post_year %}{{ site.tags[page.tag][previous_index].date | date: '%Y' }}{% endcapture %}
+			                {% if post_year != previous_post_year %}
+			                    </div><h3>{{ post_year }}</h3>
+			                    <div class="list-group">
+			                    	<ul class="past no-bullet">
+			                {% endif %}
+			            {% endif %}
+						
+										<li>
+											<div class="row collapse">
+												<div class="large-2 columns"><time class="meta" style="display:inline-block;width:3.25rem;">{{ post.date | date:"%d %b" }}:</time></div>
+												<div class="large-10 columns"><a href="{{ post.url }}">{{ post.title }}</a></div>
+											</div>
+										</li>			            			
+
+			            {% if forloop.last %}
+			            		</ul>
+			                </div>
+			            {% endif %}
+			        {% endfor %}
+			    {% else %}
+			        <p>There are no posts for this tag.</p>
+			    {% endif %}
+			
+			<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+			</div>
+
+			<div class="large-7 
+
+			{% if site.tags[page.tag] %}
+				{% for post in site.tags[page.tag] %}
+					{% if post.featured_image %}
+						large-pull-5
+					{% endif %}
+				{% endfor %}
+			{% endif %}
+
+			 columns">
+				
+				<ul class="clearing-thumbs large-block-grid-2 medium-block-grid-2 small-block-grid-2" data-clearing>
+			    	
+				    {% if site.tags[page.tag] %}
+			        {% for post in site.tags[page.tag] %}
+			    
+			        	{% if post.featured_image %}
+							{% for pic in post.featured_image %}
+							<li>
+								<a class="th" href="{{ post.featured_image | prepend: site.baseurl }}" style="max-height:200px; overflow:hidden;">
+								<img class="link-to-post" title="{{ post.title }}" alt="{{ post.title }}" src="
+								{% if post.featured_image_thumb %}{{ post.featured_image_thumb | prepend: site.baseurl }}{% else %}{{ post.featured_image | prepend: site.baseurl }}{% endif %}" data-caption="{{ post.title }}. {{ post.excerpt | strip_html }}"
+								href="{{ post.url }}" />
+								</a>
+							</li>
+							{% endfor %}
+						{% else %}
+						{% endif %}
+
+
+				        {% endfor %}
+				    {% else %}
+				        <p>There are no images for this tag.</p>
+					{% endif %}	    
+			    </ul> 
+				
+			</div>
+		</div>
+	</article>
+
+</div>
+

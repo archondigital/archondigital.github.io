@@ -5,7 +5,9 @@ layout: post
 permalink: /v5/life/looking-back-and-moving-forward/
 excerpt: "The year 2009 was a year that has seen so many changes in my life and career. Changes that introduced new challenges, and challenges that made me reflect on things I normally do not reflect on."
 comments: true
+tags: [Life, OFW, Dubai, Family]
 ---
+{% include snippet-disclaimer-old-post.html %}
 
 The year 2009 was a year that has seen so many changes in my life and career. Changes that introduced new challenges, and challenges that made me reflect on things I normally do not reflect on.
 

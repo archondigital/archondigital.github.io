@@ -6,6 +6,7 @@ permalink: /v5/studio/wordpress/themes/a-blank-wordpress-theme/
 featured_image: /assets/images/legacy/v5/blanktheme-lead.jpg
 bg_color: 'rgba(0, 0, 0, .8);'
 text_color: light
+tags: [WordPress, Web Development]
 comments: true  
 ---
 Sometime middle of 2007, I found this [blank wordpress theme][1] and started using it as a base for theme designs I am working on. Tinkering with it helped me learn about creating a fully widgetized theme by editing and adding a few lines to the functions.php and sidebar.php files.<!--more-->

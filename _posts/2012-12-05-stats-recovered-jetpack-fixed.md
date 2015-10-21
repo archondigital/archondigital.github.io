@@ -3,17 +3,10 @@ title: Stats recovered, Jetpack fixed
 author: Jon Cuevas
 layout: post
 permalink: /stats-recovered-jetpack-fixed-1664/
-custom_css:
-  - 
-custom_fonts:
-  - 
-custom_columns:
-  - 
-dsq_thread_id:
-  - 959343096
 categories:
   - Updates
   - Wordpress
+tags: [WordPress, World Domination, Web Development]
 ---
 <figure><img class="alignleft" title="screenshot of Jetpack website" src="{{ site.baseurl }}/assets/images/legacy/v5/Screen-Shot-2012-12-02-at-9.54.48-PM.png" alt="" width="324" height="229" /></figure> 
 In my previous post, I wrote about how I suddenly lost several years worth of statistics after upgrading Jetpack on [Archon Digital][1]. Today, I got my stats back after support people from WordPress sorted my problem for me.

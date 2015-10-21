@@ -8,7 +8,10 @@ featured_image: /assets/images/legacy/v5/macpro-lead.jpg
 bg_color: 'rgba(0, 0, 0, .8);'
 text_color: light
 comments: true
+tags: [Apple, Technology]
 ---
+{% include snippet-disclaimer-old-post.html %}
+
 Ynzal Marketing, one of the country&#8217;s leading Apple resellers has been stripped off its Authorized Apple Reseller Status. A copy of Apple&#8217;s termination letter was posted on <a href="http://www.ynzal.com/" target="_blank">Ynzal</a>&#8216;s website along with their public announcement.<!--more-->
 
 The company has also posted a <a href="http://www.ynzal.com/appeal1.html" target="_blank">copy of their appeal for reconsideration</a> on their website.
