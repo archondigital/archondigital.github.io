@@ -58,7 +58,13 @@ layout: default
 			        <p>There are no posts for this tag.</p>
 			    {% endif %}
 			
-			<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+			
+				
+				<h3><small>Browse other Tags/Topics</small></h3>
+			    <ul class="widget-tags">
+			    {% include snippet-tags-widget.html %}
+			    </ul>
+				<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 			</div>
 
 			<div class="large-7 
@@ -81,7 +87,7 @@ layout: default
 			        	{% if post.featured_image %}
 							{% for pic in post.featured_image %}
 							<li>
-								<a class="th" href="{{ post.featured_image | prepend: site.baseurl }}" style="max-height:200px; overflow:hidden;">
+								<a class="th" href="{{ post.featured_image | prepend: site.baseurl }}" style="max-height:400px; overflow:hidden;">
 								<img class="link-to-post" title="{{ post.title }}" alt="{{ post.title }}" src="
 								{% if post.featured_image_thumb %}{{ post.featured_image_thumb | prepend: site.baseurl }}{% else %}{{ post.featured_image | prepend: site.baseurl }}{% endif %}" data-caption="{{ post.title }}. {{ post.excerpt | strip_html }}"
 								href="{{ post.url }}" />

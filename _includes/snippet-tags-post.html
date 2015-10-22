@@ -1,11 +1,11 @@
 			<div>
 				{% include snippet-tags.html %}
-				<p class="meta">{{ tags_content }} 
+				<ul class="widget-tags"><p class="meta">{{ tags_content }}</p> 
 				{% if page.tags %}
 					{% for tags in page.tags %}
-					<span class="label secondary"><a href="{{ site.baseurl }}/topic/{{ tags | slugify }}/">{{ tags }}</a></span>
+					<li><a href="{{ site.baseurl }}/topic/{{ tags | slugify }}/">{{ tags }}</a></li>
 					{% endfor %}
 				{% else %}
 				{% endif %}	
-				</p>
+				</ul>
 			</div>

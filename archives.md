@@ -3,18 +3,3 @@ layout: archives
 title: Archives
 permalink: /archives/
 ---
-<h3><small>By Topic</small></h3>
-<ol class="this">
-	<li><a href="{{ "/topic/wordpress/" | prepend: site.baseurl }}">WordPress</a></li>
-	<li><a href="{{ "/topic/jekyll/" | prepend: site.baseurl }}">Jekyll</a></li>
-	<li><a href="{{ "/topic/web-development/" | prepend: site.baseurl }}">Web Development</a></li>
-	<li><a href="{{ "/topic/foundation/" | prepend: site.baseurl }}">Foundation</a></li>
-	<li><a href="{{ "/topic/technology/" | prepend: site.baseurl }}">Technology</a></li>
-	<li><a href="{{ "/topic/street-photography/" | prepend: site.baseurl }}">Street Photography</a></li>
-	<li><a href="{{ "/topic/design/" | prepend: site.baseurl }}">Design</a></li>
-	<li><a href="{{ "/topic/manila/" | prepend: site.baseurl }}">Manila</a></li>
-	<li><a href="{{ "/topic/philippines/" | prepend: site.baseurl }}">Philippines</a></li>
-	<li><a href="{{ "/topic/tourism/" | prepend: site.baseurl }}">Tourism</a></li>
-	<li><a href="{{ "/topic/politics/" | prepend: site.baseurl }}">Politics</a></li>
-	<li><a href="{{ "/topic/proud-to-be-pinoy/" | prepend: site.baseurl }}">Proud to be Pinoy</a></li>
-</ol>
