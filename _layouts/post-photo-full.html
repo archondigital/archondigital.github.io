@@ -117,7 +117,7 @@ layout: default
 				  <a href="{{ page.featured_image | prepend: site.baseurl }}">
 				  <img title="{{ page.title }}" alt="{{ page.title }}. {{ page.excerpt }}" src="{{ page.featured_image | prepend: site.baseurl  }}" {% if page.excerpt %}data-caption="{{ page.excerpt }}"{% else %} data-caption="{{ page.title }}"{% endif %} />
 				  </a>
-				  <br><small class="caption">Click on image to view.</small>
+				  <br><small class="caption">Click on image to view{% if page.gallery_content %} gallery{% endif %}.</small>
 				</li>
 			{% if page.gallery_content %}
 				{% for pic in page.gallery_content %}
