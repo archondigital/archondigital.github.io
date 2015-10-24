@@ -12,3 +12,5 @@ comments: true
 tags: [Pets, Videos]
 ---
 Desperate to go outdoors, Fluffy has learned how to speak.
+
+[1]: http://img.youtube.com/vi/Zpyo53dcfHo/maxresdefault.jpg
