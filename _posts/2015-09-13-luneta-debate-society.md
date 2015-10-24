@@ -12,7 +12,7 @@ background_position: top center
 bg_color: 'rgba(0, 0, 0, .3);'
 text_color: light
 comments: true
-tags: [Photography, Street Photography, Black and White, Sony, Leica, Summicron, Voigtlander, Manila, Streets of Manila]
+tags: [Photography, Street Photography, Black and White, Sony, Leica, Summicron, Voigtlander, Manila, Streets of Manila, Mirrorless]
 ---
 
 Long before those Fliptop rap battles were being posted on Youtube, there were these guys who would debate every late Sunday afternoons and evenings at the Luneta near the chess plaza. They would debate on any topic ranging from politics to religion, from everyday life to science.

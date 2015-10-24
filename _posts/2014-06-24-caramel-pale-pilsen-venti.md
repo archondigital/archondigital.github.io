@@ -9,7 +9,7 @@ featured_image: /assets/images/articles/caramel-pale-pilsen-venti-2021.jpg
 bg_color: 'rgba(190, 105, 83, .8);'
 text_color: light
 comments: true
-tags: [Photography, Funny]
+tags: [iPhoneography, Photography, Funny]
 ---
 <p class="lead">Featuring the only caffiene fix that can fix you a hangover.</p>
 

@@ -12,6 +12,12 @@ layout: default
 
 	<article class="post-content">
 		<div class="row">
+			<div class="large-12 columns">
+				{% if page.excerpt %}<p class="lead">{{ page.excerpt }}</p>{% endif %}
+			</div>
+		</div>
+		<br>
+		<div class="row">
 			<div class="large-5 
 			{% if site.tags[page.tag] %}
 				{% for post in site.tags[page.tag] %}
@@ -55,7 +61,7 @@ layout: default
 			            {% endif %}
 			        {% endfor %}
 			    {% else %}
-			        <p>There are no posts for this tag.</p>
+			        <p>There are no posts for this topic. Check our <a href="/archives/">archives</a> for more posts.</p>
 			    {% endif %}
 			
 			
@@ -87,7 +93,7 @@ layout: default
 			        	{% if post.featured_image %}
 							{% for pic in post.featured_image %}
 							<li>
-								<a class="th" href="{{ post.featured_image | prepend: site.baseurl }}" style="max-height:400px; overflow:hidden;">
+								<a class="th" href="{{ post.featured_image | prepend: site.baseurl }}" style="max-height:280px; overflow:hidden;">
 								<img class="link-to-post" title="{{ post.title }}" alt="{{ post.title }}" src="
 								{% if post.featured_image_thumb %}{{ post.featured_image_thumb | prepend: site.baseurl }}{% else %}{{ post.featured_image | prepend: site.baseurl }}{% endif %}" data-caption="{{ post.title }}. {{ post.excerpt | strip_html }}"
 								href="{{ post.url }}" />
@@ -100,7 +106,7 @@ layout: default
 
 				        {% endfor %}
 				    {% else %}
-				        <p>There are no images for this tag.</p>
+				       
 					{% endif %}	    
 			    </ul> 
 				

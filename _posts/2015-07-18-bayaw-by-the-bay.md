@@ -11,7 +11,7 @@ background_position: top center
 bg_color: 'rgba(0, 0, 0, .3);'
 text_color: light
 comments: true
-tags: [Photography, Street Photography, Sony, Nikon, Nikkor, Manila, Streets of Manila]
+tags: [Photography, Street Photography, Sony, Nikon, Nikkor, Manila, Streets of Manila, Mirrorless]
 ---
 
 It was raining, we were stuck in traffic and passed under a bridge and this is where I found this man taking a nap on the levee by the river.
