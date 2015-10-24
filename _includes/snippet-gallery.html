@@ -1,0 +1,31 @@
+<div class="panel">
+	<div class="row">
+		<div class="large-4 columns">
+			<ul class="clearing-thumbs large-block-grid-2 medium-block-grid-2 small-block-grid-2" data-clearing>
+				<li>
+				  <a class="th" href="{{ page.featured_image | prepend: site.baseurl }}" style="max-height:112px; overflow:hidden;">
+				  <img title="{{ page.title }}" alt="{{ page.title }}. {{ page.excerpt }}" src="{{ page.featured_image | prepend: site.baseurl  }}" {% if page.excerpt %}data-caption="{{ page.excerpt }}"{% else %} data-caption="{{ page.title }}"{% endif %} />
+				  </a>
+				</li>
+				{% if page.gallery_content %}
+				{% for pic in page.gallery_content %}
+				<li>
+					<a class="th" href="{{ pic.url | prepend: site.baseurl }}" style="max-height:112px; overflow:hidden;">
+					<img title="{{ pic.label }}" alt="{{ pic.label }}" src="{{ pic.url | prepend: site.baseurl  }}" data-caption="{{ pic.label }}. {{ pic.caption }}" />
+					</a>
+				
+				</li>
+				{% endfor %}
+				{% else %}
+				{% endif %}
+			</ul>	
+		</div>
+		<div class="large-8 columns">
+			<h3>{{ page.gallery_title }}</h3>
+			<p>{{ page.gallery_desc }}</p>
+		</div>
+	</div>	
+</div>
+
+		
+

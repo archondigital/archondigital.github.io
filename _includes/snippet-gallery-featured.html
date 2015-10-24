@@ -1,0 +1,18 @@
+<ul class="clearing-thumbs clearing-feature" data-clearing>
+	<li class="clearing-featured-img">
+	  <a href="{{ page.featured_image | prepend: site.baseurl }}">
+	  <img title="{{ page.title }}" alt="{{ page.title }}. {{ page.excerpt }}" src="{{ page.featured_image | prepend: site.baseurl  }}" {% if page.excerpt %}data-caption="{{ page.excerpt }}"{% else %} data-caption="{{ page.title }}"{% endif %} />
+	  </a>
+	</li>
+{% if page.gallery_content %}
+	{% for pic in page.gallery_content %}
+	<li>
+		<a href="{{ pic.url | prepend: site.baseurl }}">
+		<img title="{{ pic.label }}" alt="{{ pic.label }}" src="{{ pic.url | prepend: site.baseurl  }}" data-caption="{{ pic.label }}. {{ pic.caption }}" />
+		</a>
+	
+	</li>
+	{% endfor %}
+{% else %}
+{% endif %}
+</ul>
