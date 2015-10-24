@@ -6,27 +6,13 @@
 	<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="http://archon.digital/feed.xml" />
 
     <title>
-    	{% if page.layout != 'home' %}
-		
-			{% if page.title %}
-				{{ page.title }}
-			{% endif %}
-
-			{% if template == blog_by_tag %}
-				{{ page.tag }}
-			{% endif %}
-			
-			- {{ site.title }}
-
-		{% else %}	
-			{{ site.title }}
-		{% endif %}
+    	{% if page.layout != 'home' %}{% if page.title %}{{ page.title }}{% endif %}{% if template == blog_by_tag %}{{ page.tag }}{% endif %} - {{ site.title }}{% else %}{{ site.title }}{% endif %}
 	</title>
 
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 	
-	<meta name="twitter:title" content="{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}">
-	<meta property="og:title" content="{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}" />
+	<meta name="twitter:title" content="{% if page.layout != 'home' %}{% if page.title %}{{ page.title }}{% endif %}{% if template == blog_by_tag %}{{ page.tag }}{% endif %} - {{ site.title }}{% else %}{{ site.title }}{% endif %}">
+	<meta property="og:title" content="{% if page.layout != 'home' %}{% if page.title %}{{ page.title }}{% endif %}{% if template == blog_by_tag %}{{ page.tag }}{% endif %} - {{ site.title }}{% else %}{{ site.title }}{% endif %}" />
 	<meta property="og:sitename" content="{{ site.title }}" />
 	<meta itemprop="name" content="{{ page.title }}">
 	{% if page.excerpt %}
@@ -61,9 +47,9 @@
 	<meta name="twitter:site" content="@archondigital">
 	<link rel="author" href="https://plus.google.com/google-plus-profile-id/posts"/>
 	{% if page.keywords %}
-	<meta name="keywords" content="{{ page.keywords }}">
+	<meta name="keywords" content="{{ page.keywords }}, {% if page.tags %}{% for tags in page.tags %}{{ tags }}, {% endfor %}{% else %}{% endif %}{{ page.title }}">
 	{% else %}
-	<meta name="keywords" content="Archon Digital, World Domination and the Internet, {{ page.title }}, {{ page.excerpt | strip_html }}">
+	<meta name="keywords" content="Archon Digital, World Domination and the Internet, {% if page.tags %}{% for tags in page.tags %}{{ page.title }}, {{ tags }}{% endfor %}{% else %}{{ page.title }}, {{ page.excerpt | strip_html }}{% endif %}">
 	{% endif %}
 	
 	<!-- pinterest verification -->
