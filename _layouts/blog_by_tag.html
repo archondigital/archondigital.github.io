@@ -13,6 +13,11 @@ layout: default
 	<article class="post-content">
 		<div class="row">
 			<div class="large-12 columns">
+				{% include snippet-social.html %}
+			</div>
+		</div>
+		<div class="row">
+			<div class="large-12 columns">
 				{% if page.excerpt %}<p class="lead">{{ page.excerpt }}</p>{% endif %}
 			</div>
 		</div>
