@@ -23,6 +23,7 @@ h1, h2, h3, h4, h5, h6 {
     transition: opacity 1s ease-in-out;*/
     }
 .poof {display: block;}
+.t50 {opacity: .5;}
 
 p.lead {font-size: 1.51875rem; line-height: 1.3;}
 
