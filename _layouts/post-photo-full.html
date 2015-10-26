@@ -18,7 +18,7 @@ layout: default
 					  	<div class="large-12 columns">
 						  	{% if page.title_hide == true %}
 							{% else %}
-								<h1 class="entry-title p-name">{{ page.title }}</h1>
+								<h1 class="entry-title p-name">{% if page.title_secondary %}<small>{{ page.title_secondary }}:</small><br>{% endif %}{{ page.title }}</h1>
 							{% endif %}
 					  	</div>  		
 					</div>
@@ -63,7 +63,8 @@ layout: default
 			<div class="row">
 			  	<div class="large-12 columns">
 					{% if page.title_hide == false %}
-						<h1 class="entry-title p-name">{{ page.title }}</h1>
+						<h1 class="entry-title p-name">{% if page.title_secondary %}<small>{{ page.title_secondary }}:</small><br>{% endif %}{{ page.title }}</h1>
+						<a href="#more" class="more"><i class="fa fa-angle-down fa-5x"></i></a>
 					{% else %}
 						
 					{% endif %}
@@ -99,12 +100,18 @@ layout: default
 	<div class="row">
 		
 		<div class="large-12 columns">
-					{% if page.title_hide == true %}
-						<h1 class="entry-title p-name">{{ page.title }}</h1>
-						<p class="meta" style="position:absolute;left:1rem;line-height:0;bottom:3.25rem;"><a href="#more">Read more</a></p>
-					{% else %}
-						
-					{% endif %}
+			<div class="row">
+				<div class="large-6 columns">
+					
+				</div>
+			</div>
+			{% if page.title_hide == true %}
+				<h1 class="entry-title p-name">{% if page.title_secondary %}<small>{{ page.title_secondary }}:</small><br>{% endif %}{{ page.title }}</h1>
+				<a href="#more" class="more"><i class="fa fa-angle-down fa-5x"></i></a>
+				
+			{% else %}
+				
+			{% endif %}
 			<br>
 			{% include entry-meta.html %}
 		</div>
