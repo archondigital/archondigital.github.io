@@ -11,12 +11,13 @@ background_position: center left
 bg_color: 'rgba(0, 0, 0, .5);'
 text_color: light
 comments: true
-tags: [Photography, Street Photography, Black and White, Sony, Manila, PopeinPH, Streets of Manila, Mirrorless]
+tags: [Photography, Street Photography, Black and White, Sony, Sony A6000, Manila, PopeinPH, Streets of Manila, Mirrorless]
 ---
 
 A vendor starts his day preparing sliced pineapples to sell.
 
-Photo taken during the 2nd day of Pope Francis' visit to the Philippines. Shot using a Sony A6000 with a SEL50F18 lens at f/1.8 1/800s and ISO 100. [See image on Flickr][1] for EXIF.
+Photo taken during the 2nd day of Pope Francis' visit to the Philippines. Shot using a [Sony A6000][2] with a SEL50F18 lens at f/1.8 1/800s and ISO 100. [See image on Flickr][1] for EXIF.
 
 
 [1]: https://www.flickr.com/photos/archondigital/22096545598/
+[2]: /topic/sony-a6000/
