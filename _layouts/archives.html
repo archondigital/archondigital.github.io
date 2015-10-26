@@ -32,7 +32,7 @@ layout: default
 					<li>
 						<div class="row collapse">
 							<div class="large-2 columns"><time class="meta" style="display:inline-block;width:3.25rem;">{{ post.date | date:"%d %b" }}:</time></div>
-							<div class="large-10 columns"><a href="{{ post.url }}">{{ post.title }}</a></div>
+							<div class="large-10 columns"><a href="{{ post.url }}">{{ post.title }}{% if post.title_secondary %} <span class="label secondary t50">{{ post.title_secondary }}</span>{% endif %}</a></div
 						</div>
 					</li>			            							  
 				  {% endfor %}
