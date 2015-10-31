@@ -5,8 +5,8 @@ title_hide: true
 author: Jon Cuevas
 layout: post-photo
 permalink: /articles/halloween-dark-figure/
-excerpt: "It was pitch black and I was trying to measure the light, then this figure literally popped into my frame startling me..."
-keywords: "Paris, street photography, Sony A6000"
+excerpt: "It was pitch black, I was trying to measure the light when this figure literally popped into my frame startling me..."
+keywords: "Manila, street photography, Sony A6000"
 featured_image: /assets/images/articles/halloween-09246.jpg
 featured_image_thumb: /assets/images/articles/halloween-09246-thumb.jpg
 background_position: bottom center
@@ -18,7 +18,9 @@ tags: [Street Photography, Manila, Black and White, Sony, Sony A6000, Nikon, Pho
 
 <p class="lead">This was an accidental click.</p>
 
-It was pitch black and I was just trying to measure the light, then this figure literally popped into my frame as my eye was on the EFV startling me. And as if by reflex, I found myself clicking as I was catching my breath.
+It was pitch black and I was just trying to measure the light when this figure literally popped into my frame as my eye was on the EFV, startling me. I almost jumped, but found myself clicking as I was catching my breath.
+
+The old man was probably sitting behind the fence and must've heard me approaching. He probably got startled too.
 
 I took this photo sometime in July while navigating a dark alley in Mandaluyong, Metro Manila.
 
