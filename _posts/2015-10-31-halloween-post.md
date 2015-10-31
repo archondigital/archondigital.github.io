@@ -1,6 +1,5 @@
 ---
 title: Happy Halloween
-title_secondary: Manila Street Photography
 title_hide: true
 author: Jon Cuevas
 layout: post-photo
