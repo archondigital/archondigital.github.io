@@ -13,9 +13,11 @@
 
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 	
+    <meta property="og:site_name" content="{{ site.title }}" />
+
 	<meta name="twitter:title" content="{% if page.layout != 'home' %}{% if page.title %}{% if page.title_secondary %}{{ page.title_secondary }}:{% endif %} {{ page.title }}{% endif %}{% if template == blog_by_tag %}{{ page.tag }}{% endif %} - {{ site.title }}{% else %}{{ site.title }}{% endif %}">
 	<meta property="og:title" content="{% if page.layout != 'home' %}{% if page.title %}{% if page.title_secondary %}{{ page.title_secondary }}:{% endif %} {{ page.title }}{% endif %}{% if template == blog_by_tag %}{{ page.tag }}{% endif %} - {{ site.title }}{% else %}{{ site.title }}{% endif %}" />
-	<meta property="og:sitename" content="{{ site.title }}" />
+	
 	<meta itemprop="name" content="{{ page.title }}">
 	{% if page.excerpt %}
 	
