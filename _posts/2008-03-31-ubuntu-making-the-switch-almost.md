@@ -2,7 +2,7 @@
 title: 'Ubuntu &#8211; Making the Switch, Almost'
 author: Archon Digital
 layout: post
-permalink: /v5/technology/software/open-source/ubuntu-making-the-switch-almost/
+permalink: /software/ubuntu-making-the-switch-almost/
 featured_image: /assets/images/legacy/v5/ubuntu-lead.jpg
 bg_color: 'rgba(0, 0, 0, .8);'
 text_color: light
