@@ -3,7 +3,7 @@ title: Getting the Menu on WordPress 3.0 to Work with Thematic
 author: Jon Cuevas
 excerpt: 'One of the best new feature to come out of WordPress 3.0 is the menu editor. This drag-&-drop approach enables you to create custom navigation without being limited to the page or category hierarchy.'
 layout: post
-permalink: /getting-the-menu-on-wordpress-3-0-to-work-with-thematic-1044/
+permalink: /articles/getting-the-menu-on-wordpress-3-0-to-work-with-thematic/
 featured_image: /assets/images/legacy/v5/wordpress-menu.gif
 bg_color: 'rgba(0, 0, 0, .8);'
 text_color: light
