@@ -4,7 +4,7 @@ author: Jon Cuevas
 excerpt: |
   Like in a science fiction film when a small town suddenly becomes alien infested and starts abducting the locals where you'd find people who used to talk like normal people say "Don't Pay for White Teeth..."
 layout: post
-permalink: /my-twitter-followers-were-abducted-by-aliens-607/
+permalink: /social-media/my-twitter-followers-were-abducted-by-aliens/
 featured_image: /assets/images/legacy/v5/nasabuzz.jpg
 bg_color: 'rgba(0, 0, 0, .8);'
 text_color: light
