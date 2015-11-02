@@ -2,7 +2,7 @@
 title: Jai Alai Manila, the Sky Room and lost memories
 author: Jon Cuevas
 layout: post
-permalink: /jai-alai-manila-sky-room-lost-memories-2087/
+permalink: /articles/jai-alai-manila-sky-room-lost-memories/
 excerpt: "This is where Dad used to play during his pro pelotari days. An elegant Art Deco structure that has been part of Manila's history for as long as I can remember. Its Sky Room was also once the playground of the elite back in the City's glory days."
 featured_image: /assets/images/legacy/IMG_3229-1024x1024.jpg
 bg_color: 'rgba(0, 0, 0, .8);'
