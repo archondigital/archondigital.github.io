@@ -3,14 +3,14 @@ title: 'Newsweek says goodbye to print. #lastprintissue'
 author: Jon Cuevas
 excerpt: "A sad day for print. Their farewell cover artwork highlights the stark contrast between traditional printing by portraying print as a classic, black and white New York city skyline photo with Newsweek's office building in the foreground and the modern, web-centric hashtag headline, #lastprintissue."
 layout: post
-permalink: /newsweek-says-goodbye-to-print-1803/
+permalink: /articles/newsweek-says-goodbye-to-print/
 featured_image: /assets/images/legacy/Newsweek-Final-Cover.jpg
 bg_color: 'rgba(0, 0, 0, .8);'
 text_color: light
 comments: true
 tags: [Print, Design]
 ---
-Definitely, a sad day for print. Newsweek will be publishing its final print issue this coming Monday. They just announced it online by releasing a digital version of their cover over Twitter a few hours ago (see tweet below).
+<p class="lead">Definitely, a sad day for print. Newsweek will be publishing its final print issue this coming Monday. They just announced it online by releasing a digital version of their cover over Twitter a few hours ago (see tweet below).</p>
 
 Their farewell cover artwork highlights the stark contrast between traditional printing portrayed as a classic, black and white New York city skyline photo with Newsweek's office building in the foreground and the modern, web-centric hashtag headline, #lastprintissue.
 
