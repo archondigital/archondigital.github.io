@@ -2,7 +2,7 @@
 title: LinkWithin-Inspired YARPP Template
 author: Jon Cuevas
 layout: post
-permalink: /linkwithin-inspired-yarpp-template-854/
+permalink: /articles/linkwithin-inspired-yarpp-template/
 comments: true
 tags: [WordPress, YARPP, Linkwithin, Web Development, Coding]
 ---
