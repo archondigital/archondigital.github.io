@@ -3,7 +3,7 @@ title: Teach a man to fish
 author: Jon Cuevas
 excerpt: Man fishing for food in the murky waters of Manila bay.
 layout: post-photo
-permalink: /teach-a-man-to-fish-1676/
+permalink: /teach-a-man-to-fish/
 featured_image: /assets/images/legacy/fisherman_IMG_6663-flat.jpg
 bg_color: 'rgba(0, 0, 0, .8);'
 text_color: light
