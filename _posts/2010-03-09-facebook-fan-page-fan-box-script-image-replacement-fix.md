@@ -21,7 +21,7 @@ It was noted from my observations in the past month that the Facebook script loa
 </p>
 
 <p style="text-align: left;">
-  Page load time improved dramatically after removing the <a href="{{ site.baseurl }}/internet/social-networks/facebook-social-networks-internet/facebook-fan-page-and-fan-box-a-sucker-for-widgets/">Facebook Fan Box Script</a> and I&#8217;m expecting to make a few more changes on the site to improve it&#8217;s performance on SERPs and speed up the site.
+  Page load time improved dramatically after removing the <a href="{{ site.baseurl }}/social-media/facebook-fan-page-and-fan-box-a-sucker-for-widgets/">Facebook Fan Box Script</a> and I&#8217;m expecting to make a few more changes on the site to improve it&#8217;s performance on SERPs and speed up the site.
 </p>
 
  [1]: {{ site.baseurl }}/internet/social-networks/facebook-social-networks-internet/facebook-fan-page-and-fan-box-a-sucker-for-widgets/
