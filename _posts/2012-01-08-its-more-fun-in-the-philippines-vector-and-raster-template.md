@@ -2,7 +2,7 @@
 title: "It's more fun in the Philippines - vector and raster template"
 author: Jon Cuevas
 layout: post
-permalink: /its-more-fun-in-the-philippines-vector-and-raster-template-1260/
+permalink: /articles/its-more-fun-in-the-philippines-vector-and-raster-template/
 comments: true
 tags: [More Fun in the Philippines, Tourism, Philippines, Design]
 ---
