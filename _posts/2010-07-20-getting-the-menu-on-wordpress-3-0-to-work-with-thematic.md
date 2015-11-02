@@ -10,6 +10,7 @@ text_color: light
 categories:
   - Wordpress
 tags: [WordPress, Web Development]
+comments: true
 ---
 <div class="alignleft">
 </div>
