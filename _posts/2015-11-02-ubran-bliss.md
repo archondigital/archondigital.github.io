@@ -5,7 +5,7 @@ title_hide: true
 author: Jon Cuevas
 layout: post-photo
 permalink: /street-photography/urban-bliss/
-excerpt: "These are everyday scenes of people in this part of Manila where junkshops and homes exist right next to each other."
+excerpt: "...if we have not found the heaven within, we have not found the heaven without. - James Hilton, Lost Horizon"
 keywords: "Humans of San Andres Bukid, Street photography, Manila, Sony A6000, Streets of Manila"
 featured_image: /assets/images/articles/urban-bliss-08310-mono.jpg
 featured_image_thumb: /assets/images/articles/urban-bliss-08310-mono-thumb.jpg
