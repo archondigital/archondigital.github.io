@@ -78,6 +78,7 @@ li.clearing-featured-img {display: block; width: 100%;}
 
 .h70 {position: relative; height: 70%; width: 100%;}
 .h30 {position: relative; height: 30%; width: 100%;}
+.h10 {position: relative; height: 10%; width: 100%;}
 
 .fullscreen {position: relative; height: 100%; width: 100%;}
   .fullscreen .orbit-container {height: 100%;}
