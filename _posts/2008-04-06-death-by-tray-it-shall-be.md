@@ -2,7 +2,7 @@
 title: Death By Tray It Shall Be!
 author: Jon Cuevas
 layout: post-video
-permalink: /death-by-tray-it-shall-be-1095/
+permalink: /videos/death-by-tray-it-shall-be/
 video_id: Sv5iEK-IEzw
 comments: true
 ---
