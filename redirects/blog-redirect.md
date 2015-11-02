@@ -1,8 +1,8 @@
 ---
 layout: redirect
 title: Blog
-permalink: /v5/
-redirect: /#blog
+permalink: /blog/
+redirect: /articles/
 ---
 
 # Redirect /blog to new blog
