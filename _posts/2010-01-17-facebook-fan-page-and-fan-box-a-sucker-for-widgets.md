@@ -2,7 +2,7 @@
 title: 'Facebook Fan Page &#038; Fan Box &#8211; I&#8217;m a Sucker for Widgets'
 author: Jon Cuevas
 layout: post
-permalink: /facebook-fan-page-and-fan-box-a-sucker-for-widgets-733/
+permalink: /social-media/facebook-fan-page-and-fan-box-a-sucker-for-widgets/
 categories:
   - Social Media
 tags: [Social Media, Facebook, Web Development]
