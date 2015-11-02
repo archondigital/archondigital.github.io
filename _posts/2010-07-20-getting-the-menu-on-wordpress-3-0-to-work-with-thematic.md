@@ -12,10 +12,12 @@ categories:
 tags: [WordPress, Web Development]
 comments: true
 ---
-<div class="alignleft">
-</div>
 
-One of the best new feature to come out of WordPress 3.0 is the menu editor. This drag-&-drop approach enables you to create custom navigation without being limited to the page or category hierarchy. Being able to add external links and categories to the menu, I am now able to produce a fully customized navigation solution for my projects with relative ease.<!--more-->
+<div class="offgrid-right"><p>{% include adzone01.html %}</p></div>
+
+<p class="lead">
+	One of the best new feature to come out of WordPress 3.0 is the menu editor. This drag-&-drop approach enables you to create custom navigation without being limited to the page or category hierarchy. Being able to add external links and categories to the menu, I am now able to produce a fully customized navigation solution for my projects with relative ease.
+</p><!--more-->
 
 <span class="attention">Update: The latest version of <a href="http://themeshaper.com/thematic/">Thematic</a> now fully supports the WP 3.0 menus</span>
 
