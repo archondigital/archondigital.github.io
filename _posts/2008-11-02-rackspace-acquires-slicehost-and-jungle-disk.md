@@ -1,8 +1,8 @@
 ---
-title: Rackspace Acquires Slicehost and Jungle Disk;
+title: Rackspace Acquires Slicehost and Jungle Disk
 author: Archon Digital
 layout: post
-permalink: /internet/hosting/rackspace-acquires-slicehost-and-jungle-disk/
+permalink: /hosting/rackspace-acquires-slicehost-and-jungle-disk/
 excerpt: "Company Launches Cloud Computing Strategy directly challenging Amazon's Cloud Computing Services. Deal paves the way for cloud computing's brighter future for business users and developers."    
 categories:
   - Hosting
