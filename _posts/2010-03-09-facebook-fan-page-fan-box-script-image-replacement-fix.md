@@ -2,7 +2,7 @@
 title: 'Facebook Fan Page &#038; Fan Box Script &#8211; Image Replacement Fix'
 author: Jon Cuevas
 layout: post
-permalink: /facebook-fan-page-fan-box-script-image-replacement-fix-810/
+permalink: /social-media/facebook-fan-page-fan-box-script-image-replacement-fix/
 aktt_notify_twitter:
   - no
 featured_image: /assets/images/legacy/v5/facebook_1.jpg
