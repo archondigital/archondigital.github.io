@@ -18,6 +18,10 @@ gallery_content:
   - url: /assets/images/articles/urban-bliss-08310.jpg
     label: Same photo but in color.
 ---
+<blockquote>
+	<p class="lead">“...if we have not found the heaven within, we have not found the heaven without”</p>
+	<cite>James Hilton, Lost Horizon</cite>
+</blockquote>
 
 A kid refreshing himself from the urban heat with clean water. These are everyday scenes of people in this part of Manila where junkshops and homes exist right next to each other. In the background are the buildings of Makati's Central Business District.
 
