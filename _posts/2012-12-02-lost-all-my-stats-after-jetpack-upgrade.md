@@ -7,6 +7,7 @@ categories:
   - Updates
   - Wordpress
 tags: [WordPress, World Domination, Web Development]
+comments: true
 ---
 <div class="alert-box secondary">
   <p>
