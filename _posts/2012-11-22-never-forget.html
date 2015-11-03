@@ -14,28 +14,29 @@ tags: [Philippines, Politics, Press Freedom, Proud to be Pinoy]
 
 <head>
 
-    <meta name="description" content="{{ site.description }}">
-
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-
-<!--     <title>Never Forget #MaguindanaoMassacre #EndimpunityinPH #Endimpunitynow #NeverForget</title> -->
+    <meta name="google-site-verification" content="ucFSwiLI-MWC-PAmmQ-mpSCLRqB-3BACQcEV_Mx8UrI" />
+    <meta property="fb:app_id" content="138528675742" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="http://archon.digital/feed.xml" />
 
     <title>Never Forget #MaguindanaoMassacre #EndimpunityinPH #Endimpunitynow #NeverForget</title>
 
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <link rel="canonical" href="http://archon.digital{{ page.url }}">
     
-    <meta name="twitter:title" content="Never Forget #MaguindanaoMassacre #EndimpunityinPH #Endimpunitynow #NeverForget">
-    <meta property="og:title" content="Never Forget #MaguindanaoMassacre #EndimpunityinPH #Endimpunitynow #NeverForget" />
-    <meta property="og:sitename" content="Never Forget #MaguindanaoMassacre #EndimpunityinPH #Endimpunitynow #NeverForget" />
+    <meta property="og:site_name" content="{{ site.title }}" />
+
+    <meta name="twitter:title" content="{% if page.layout != 'home' %}{% if page.title %}{% if page.title_secondary %}{{ page.title_secondary }}:{% endif %} {{ page.title }}{% endif %}{% if template == blog_by_tag %}{{ page.tag }}{% endif %} - {{ site.title }}{% else %}{{ site.title }}{% endif %}">
+    <meta property="og:title" content="{% if page.layout != 'home' %}{% if page.title %}{% if page.title_secondary %}{{ page.title_secondary }}:{% endif %} {{ page.title }}{% endif %}{% if template == blog_by_tag %}{{ page.tag }}{% endif %} - {{ site.title }}{% else %}{{ site.title }}{% endif %}" />
+    
     <meta itemprop="name" content="{{ page.title }}">
     {% if page.excerpt %}
+    
     <!-- description -->
-    <meta name="twitter:description" content="{{ page.excerpt }}">
-    <meta property="og:description" content="{{ page.excerpt }}" />
-    <meta itemprop="description" content="{{ page.excerpt }}">
-    <meta name="description" content="{{ page.excerpt }}" />
+    <meta name="twitter:description" content="{{ page.excerpt | strip_html }}">
+    <meta property="og:description" content="{{ page.excerpt | strip_html }}" />
+    <meta itemprop="description" content="{{ page.excerpt | strip_html }}">
+    <meta name="description" content="{{ page.excerpt | strip_html }}" />
     {% else %}
     <!-- default description -->
     <meta name="twitter:description" content="Archon Digital, World Domination and the Internet - {{ site.description }}">
@@ -44,13 +45,13 @@ tags: [Philippines, Politics, Press Freedom, Proud to be Pinoy]
     <meta name="description" content="Archon Digital, World Domination and the Internet - {{ site.description }}" />
     {% endif %}
     <meta name="twitter:creator" content="@archondigital">
-    <meta name="twitter:domain" content="archondigital.com{{ page.url }}">
+    <meta name="twitter:domain" content="archon.digital{{ page.url }}">
     <meta property="og:type" content="article" />
-    <meta property="og:url" content="http://archondigital.com{{ page.url }}" />
+    <meta property="og:url" content="http://archon.digital{{ page.url }}" />
     {% if page.featured_image %}
     <!-- featured image -->
-    <meta property="og:image" content="{{ site.baseurl }}/assets/images/legacy/never-forget-thumb.jpg" />
-    <meta name="twitter:image:src" content="{{ site.baseurl }}/assets/images/legacy/never-forget-thumb.jpg">
+    <meta property="og:image" content="{% if page.featured_image_thumb %}{{ page.featured_image_thumb | prepend: site.baseurl }}{% else %}{{ page.featured_image | prepend: site.baseurl }}{% endif %}" />
+    <meta name="twitter:image:src" content="{% if page.featured_image_thumb %}{{ page.featured_image_thumb | prepend: site.baseurl }}{% else %}{{ page.featured_image | prepend: site.baseurl }}{% endif %}">
     <meta name="twitter:card" content="summary_large_image">
     {% else %}
     <!-- no featured image, loading default image -->
@@ -61,26 +62,31 @@ tags: [Philippines, Politics, Press Freedom, Proud to be Pinoy]
     <meta name="twitter:site" content="@archondigital">
     <link rel="author" href="https://plus.google.com/google-plus-profile-id/posts"/>
     {% if page.keywords %}
-    <meta name="keywords" content="{{ page.keywords }}">
+    <meta name="keywords" content="{{ page.keywords }}, {% if page.tags %}{% for tags in page.tags %}{{ tags }}, {% endfor %}{% else %}{% endif %}{{ page.title }}">
     {% else %}
-    <meta name="keywords" content="Archon Digital, World Domination and the Internet">
+    <meta name="keywords" content="Archon Digital, World Domination and the Internet, {% if page.tags %}{% for tags in page.tags %}{{ page.title }}, {{ tags }}{% endfor %}{% else %}{{ page.title }}, {{ page.excerpt | strip_html }}{% endif %}">
     {% endif %}
     
     <!-- pinterest verification -->
-    <meta name="p:domain_verify" content="d2f0d5c994287b95713b694fdb03b8df"/>
+    <meta name="p:domain_verify" content="987601f543e8047e2244bd1f76e96caa"/>
 
     <link rel="stylesheet" href="{{ "/assets/css/app.css" | prepend: site.baseurl }}">
+    
+    <!-- Font Awesome -->
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+    
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{ "/assets/css/style.css" | prepend: site.baseurl }}">
 
-
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="stylesheet" href="{{ "/assets/css/app.css" | prepend: site.baseurl }}">
-  <!-- Custom CSS -->
-  <link rel="stylesheet" href="{{ "/assets/css/style.css" | prepend: site.baseurl }}">
+    <script src="{{ "/assets/bower_components/modernizr/modernizr.js" | prepend: site.baseurl }}"></script>
 
 
 {% include scripts-head.html %}
+
+    <meta name="blogcatalog" content="9BC8694366" />
+
+    <!-- testing sumome -->
+    <script src="//load.sumome.com/" data-sumo-site-id="40813dcb20cd53deba118d04ea72c5f3e713f037e9835e044465f30ba702548c" async="async"></script>
 
 <!-- custom css begin -->
 <style type="text/css">
