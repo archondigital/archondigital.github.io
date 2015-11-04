@@ -35,79 +35,13 @@ It seems a major part of what makes the **Linkwithin plugin** perform so well on
 
 Copy and paste the following code to notepad or any text editor and the save file as "yarpp-template-post-thumbnail.php" inside your current theme folder
 
-<pre class="brush: php; title: ; notranslate" title="">&lt;!--?php /* Example template Author: Archon Digital (Jonathan Cuevas) {{ site.baseurl }}/ */ ?--&gt;&lt;/pre&gt;
-&lt;h3&gt;Possibly Related Posts&lt;/h3&gt;
-&lt;pre&gt;
-&lt;!--?php if ($related_query---&gt;have_posts()):?&gt;&lt;/pre&gt;
-&nbsp;
-&lt;ul class="related-posts"&gt;
-&lt;ul class="related-posts"&gt;
-	&lt;li&gt;&lt;!--?php $postimageurl = get_post_meta($post---&gt;ID, 'thumbnail', true); if ($postimageurl) { ?&gt;
-
- &lt;a title="Permanent Link to &lt;?php the_title(); ?&gt;" href="&lt;?php the_permalink(); ?&gt;" rel="bookmark"&gt;&lt;img src="&lt;?php bloginfo('stylesheet_directory'); ?&gt;/timthumb.php?src=&lt;?php echo $postimageurl; ?&gt;&h=100&w=100&zc=1&q=100" alt="&lt;?php the_title(); ?&gt;" width="100" height="100" /&gt;&lt;/a&gt;
-
- &lt;!--?php } else { ?--&gt;
-
- &lt;a title="Permanent Link to &lt;?php the_title(); ?&gt;" href="&lt;?php the_permalink(); ?&gt;" rel="bookmark"&gt;&lt;img src="&lt;?php bloginfo('stylesheet_directory'); ?&gt;/timthumb.php?src=&lt;?php bloginfo('stylesheet_directory'); ?&gt;/default.jpg&h=100&w=100&zc=1&q=100" alt="&lt;?php the_title(); ?&gt;" width="100" height="100" /&gt;&lt;/a&gt;
-
- &lt;!--?php } ?--&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/ul&gt;
-&nbsp;
-&lt;pre&gt;
-&lt;!--?php else: ?--&gt;
-
-No related posts.
-
-&lt;!--?php endif; ?--&gt;
-
-</pre>
+<script src="https://gist.github.com/archondigital/558ea6840798c60fb9c5.js"></script>
 
 ## Copy the CSS
 
 Add the following css to your theme's stylesheet or [download text file here][8].
 
-<pre class="brush: css; title: ; notranslate" title="">ul.related-posts {
-
-	float: left;
-
-	list-style-type: none;
-
-	margin: 0px;
-
-	padding: 0px;
-
-}
-
-.related-posts li {
-
-	list-style-type: none;
-
-	float: left;
-
-	width: 100px;
-
-	padding-right: 8px;
-
-	padding-left: 8px;
-
-	font-size: 12px;
-
-	line-height: 18px;
-
-}
-
-.related-posts img{
-
-	width: 100px;
-
-	padding: 1px;
-
-	border: 1px solid #CCC;
-
-}
-
-</pre>
+<script src="https://gist.github.com/archondigital/b22f4f008b71e065ed08.js"></script>
 
 ## Set your YARPP options
 
@@ -130,6 +64,6 @@ In case you are already using timthumb on your theme then you will only have to 
  [5]: http://www.darrenhoyt.com/2008/04/02/timthumb-php-script-released/
  [6]: http://wordpress.org/extend/plugins/yet-another-related-posts-plugin/
  [7]: http://timthumb.googlecode.com/svn/trunk/timthumb.php
- [8]: http://archondigital.com/downloads/yarpp-custom-css.txt
+ [8]: https://gist.github.com/archondigital/b22f4f008b71e065ed08
  [9]: http://archondigital.com/assets/images/legacy/v5/yarpp.jpg
  [10]: http://archondigital.com/assets/images/legacy/v5/yarpp2.jpg
