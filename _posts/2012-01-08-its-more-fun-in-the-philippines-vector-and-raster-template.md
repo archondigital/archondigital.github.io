@@ -5,6 +5,7 @@ layout: post
 permalink: /articles/its-more-fun-in-the-philippines-vector-and-raster-template/
 comments: true
 tags: [More Fun in the Philippines, Tourism, Philippines, Design]
+disqus_identifier: 933308798
 ---
 The Department of Tourism's new brand campaign to attract visitors to the country focuses on the country’s core strength, which they say singles out what no other destination can offer— the Filipino people.
 
