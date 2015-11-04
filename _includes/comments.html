@@ -16,6 +16,8 @@
 				<script type="text/javascript">
 				    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
 				    var disqus_shortname = '{% if site.enable_disqus == true %}archondigital{% else %}testing{% endif %}'; // required: replace example with your forum shortname
+				    var disqus_title = '{% if page.title_secondary %}{{ page.title_secondary }}: {% endif %}{{ page.title }}';
+				    var disqus_url = 'http://archon.digital{{ page.url }}';
 
 				    /* * * DON'T EDIT BELOW THIS LINE * * */
 				    (function() {
