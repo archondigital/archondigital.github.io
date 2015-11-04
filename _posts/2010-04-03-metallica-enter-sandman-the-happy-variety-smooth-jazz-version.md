@@ -7,6 +7,7 @@ permalink: /videos/metallica-enter-sandman-the-happy-variety-smooth-jazz-version
 video_id: OBmM79YadYM
 comments: true
 tags: [Videos, Funny]
+disqus_identifier: 933415157
 ---
 Rock n' Roll! Yeah! Happy Metal for all ya happy chums out there!
 

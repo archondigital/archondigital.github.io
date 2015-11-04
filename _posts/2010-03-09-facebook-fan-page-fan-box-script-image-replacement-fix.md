@@ -11,6 +11,7 @@ text_color: light
 categories:
   - Social Media
 tags: [Social Media, Facebook]
+disqus_identifier: 933414775
 ---
 After a month of keeping a [Facebook Fan Box widget][1] for <a href="http://www.facebook.com/pages/Archon-Digital/250984095360" target="_blank">Archon Digital&#8217;s Facebook Fan Page</a>, we decided to remove the clunky javascript altogether and replace it with an image resembling the same &#8220;Become a Fan&#8221; button.<!--more-->
 
