@@ -10,6 +10,7 @@ bg_color: 'rgba(0, 0, 0, .8);'
 text_color: light
 comments: true
 tags: [Funny, SEO, Spam]
+disqus_identifier: 933414691
 ---
 <blockquote>
   <p class="lead">"I am Buzz Lightyear. I come in peace."</p>

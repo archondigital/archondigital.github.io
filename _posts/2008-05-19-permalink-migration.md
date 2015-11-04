@@ -10,6 +10,7 @@ categories:
   - Articles
   - Wordpress
 tags: [WordPress, Web Development, Coding]
+disqus_identifier: 933414660
 ---
 {% include snippet-disclaimer-old-post.html %}
 

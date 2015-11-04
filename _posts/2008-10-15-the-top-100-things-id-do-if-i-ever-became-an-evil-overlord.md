@@ -10,6 +10,7 @@ text_color: light
 categories:
   - Humor
 tags: [Funny]
+disqus_identifier: 933414686
 ---
 <span class="attention"><em>Archon Digital did not write this article but was happy to stumble upon from this source:</em> <a href="http://www.fantasylibrary.com/lounge/overlord.htm">http://www.fantasylibrary.com/lounge/overlord.htm<br /> </a></span><!--more--><figure>
 

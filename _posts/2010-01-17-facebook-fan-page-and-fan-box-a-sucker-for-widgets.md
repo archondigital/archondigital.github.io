@@ -6,6 +6,7 @@ permalink: /social-media/facebook-fan-page-and-fan-box-a-sucker-for-widgets/
 categories:
   - Social Media
 tags: [Social Media, Facebook, Web Development]
+disqus_identifier: 933414744
 ---
 Ever since Archon Digital created a [Facebook Fan Page][1] several months ago, it was only this December 2009 that I decided to put that Fan Box widget up on the sidebar just to see how it goes as a replacement to my Blogcatalog and MyBlogLog widgets which I removed after launching [version 5][2].<!--more-->
 
