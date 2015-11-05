@@ -13,6 +13,7 @@ background_position: top center
 bg_color: 'rgba(0, 0, 0, .2);'
 text_color: light
 comments: true
+disqus_identifier: HumansofSanAndresBukid-002-s2015
 tags: [Humans of San Andres Bukid, Streets of Manila, Street Photography, Black and White, Sony, Nikon, Nikkor, Manila, Photography, Mirrorless]
 gallery_content:
   - url: /assets/images/articles/urban-bliss-08310.jpg
