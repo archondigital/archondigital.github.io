@@ -22,11 +22,8 @@
 				    var disqus_config = function () {
 				        {% if page.disqus_identifier %}
 				        this.page.identifier = '{{ page.disqus_identifier }}'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-				        {% else %}
 				        this.page.url = 'http://archon.digital{{ page.url }}';  // Replace PAGE_URL with your page's canonical URL variable
 				        {% endif %}
-				    };
-				        
 				    };
 				    
 				    (function() {  // DON'T EDIT BELOW THIS LINE
