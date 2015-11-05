@@ -4,7 +4,7 @@ title_secondary: Humans of San Andres Bukid
 author: Jon Cuevas
 layout: post-photo
 permalink: /street-photography/not-much-to-say/
-excerpt: "I fight my own little battles inside. Oh how I long to speak my mind and tell all that's in my heart, but every single time I fail. I must really be terrible at this."
+excerpt: "Every day I fight these tiny little battles inside. My mind is a warzone. To keep things to myself or to spill out my guts, I must be really terrible at this, for I fail, every single time."
 featured_image: /assets/images/articles/not-much-to-say-09550.jpg
 featured_image_thumb: /assets/images/articles/not-much-to-say-09550.jpg
 background_position: top center
@@ -15,7 +15,7 @@ disqus_identifier: HumansofSanAndresBukid-003-s2015
 tags: [Humans of San Andres Bukid, Streets of Manila, Street Photography, Black and White, Sony, Leica, Manila, Photography, Mirrorless]
 ---
 <blockquote>
-	<p class="lead">"I fight my own little battles inside. Oh how I long to speak my mind and tell all that's in my heart, but every single time I fail. I must really be terrible at this."</p>
+	<p class="lead">"Every day I fight these tiny little battles inside. My mind is a warzone. To keep things to myself or to spill out my guts, I must be really terrible at this, for I fail, every single time."</p>
 	<cite>Manong, Resident Tambay I</cite>
 </blockquote>
 
