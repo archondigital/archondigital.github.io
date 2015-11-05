@@ -31,7 +31,7 @@
 				    (function() {  // DON'T EDIT BELOW THIS LINE
 				        var d = document, s = d.createElement('script');
 				        
-				        s.src = '//archondigital.disqus.com/embed.js';
+				        s.src = '//{% if site.enable_disqus == true %}archondigital{% else %}testing{% endif %}.disqus.com/embed.js';
 				        
 				        s.setAttribute('data-timestamp', +new Date());
 				        (d.head || d.body).appendChild(s);
