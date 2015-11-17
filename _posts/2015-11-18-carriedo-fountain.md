@@ -20,7 +20,7 @@ gallery_content:
 
 Got hold of the new [Sony A7SII][5] this Sunday and immediately took it for a walk from late afternoon to evening. 
 
-I shot this photo right before the sun set, handheld at 1/5s, using the camera's in-body image stabilization (IBIS). Non-Steadyshot (OSS) lenses can only make use of the camera body's built-in stabilization hence the 3-axis. Only lenses that have Sony's OSS can take advantage of the 5-axis image stabilization.
+I shot this right before the sun set, handheld at 1/5s, using the camera's in-body image stabilization (IBIS). Non-Steadyshot (OSS) lenses can only make use of the camera body's built-in stabilization hence the 3-axis. Only lenses that have Sony's OSS can take advantage of the 5-axis image stabilization.
 
 Taken using a [Samyang 14mm f2.8 ED AS IF UMC][6] lens at 1/5s f/8 ISO 640. [See image on Flickr][1]{:target="_blank"} for EXIF. Posted originally on my [Instagram][2]{:target="_blank"}.
 
