@@ -6,7 +6,6 @@ author: Jon Cuevas
 layout: post-photo
 permalink: /articles/pineapple/
 excerpt: "A vendor starts his day preparing sliced pineapples to sell. Manila 2015. Sony A6000 with a SEL50F18 lens at f/1.8 1/800s and ISO 100."
-featured: true
 featured_image: /assets/images/articles/pina_09559.jpg
 background_position: center left
 bg_color: 'rgba(0, 0, 0, .5);'

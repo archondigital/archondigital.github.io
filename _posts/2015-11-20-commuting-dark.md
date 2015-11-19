@@ -5,6 +5,7 @@ author: Jon Cuevas
 layout: post-photo
 permalink: /street-photography/commuting-dark-a7sii/
 excerpt: "A visually-impared, elderly man and his guide waits for a bus along EDSA in the late evening. This was taken  during the just recently concluded APEC Economic Leaders' Meeting held in Manila."
+featured: true
 featured_image: /assets/images/articles/commuting-dark-00946.jpg
 featured_image_thumb: /assets/images/articles/commuting-dark-00946-thumb.jpg
 background_position: top center
