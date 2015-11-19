@@ -98,7 +98,7 @@ layout: default
 			        	{% if post.featured_image %}
 							{% for pic in post.featured_image %}
 							<li>
-								<a class="th" href="{{ post.featured_image | prepend: site.baseurl }}" style="max-height:280px; overflow:hidden;">
+								<a class="th" href="{{ post.featured_image | prepend: site.baseurl }}" style="max-height:275px; overflow:hidden;">
 								<img class="link-to-post" title="{{ post.title }}" alt="{{ post.title }}" src="
 								{% if post.featured_image_thumb %}{{ post.featured_image_thumb | prepend: site.baseurl }}{% else %}{{ post.featured_image | prepend: site.baseurl }}{% endif %}" data-caption="{{ post.title }}. {{ post.excerpt | strip_html }}"
 								href="{{ post.url }}" />
