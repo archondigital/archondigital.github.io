@@ -8,7 +8,7 @@ excerpt: "A visually-impared, elderly man and his guide waits for a bus along ED
 featured: true
 featured_image: /assets/images/articles/commuting-dark-00946.jpg
 featured_image_thumb: /assets/images/articles/commuting-dark-00946-thumb.jpg
-background_position: top center
+background_position: bottom center
 bg_color: 'rgba(0, 0, 0, .6);'
 text_color: light
 comments: true
