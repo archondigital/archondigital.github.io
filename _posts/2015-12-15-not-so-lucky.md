@@ -11,7 +11,7 @@ background_position: bottom center
 bg_color: 'rgba(0, 0, 0, .6);'
 text_color: light
 comments: true
-disqus_identifier: commuting-dark-005-s2015
+disqus_identifier: not-so-lucky-006-s2015
 tags: [Streets of Manila, Manila by Night, Capitol Commons, Street Photography, Sony, Sony A7Sii, Manila, Photography, Mirrorless, Vintage Lenses, Jupiter 37A]
 ---
 
