@@ -17,7 +17,7 @@ tags: [Streets of Manila, Manila by Night, Capitol Commons, Street Photography, 
 
 <p class="lead">Capitol Commoners braving the rain to get a ride home.</p>
 
-I've been stuck in the vicinity of Capitol Commons in Pasig since 9:00pm due to that day's traffic gridlock. And since I'm already soaked and bored, I took out my camera and wrapped it with a rain cover.
+I've been stuck in the vicinity of Capitol Commons in Pasig since 9:00pm due to that day's traffic gridlock. And since I'm already soaked and bored, I took out my camera, wrapped it with a rain cover and started shooting.
 
 Uber was at x5 surge pricing and so was Grabcar. I got home at 2:00am, feverish and exhausted.
 
