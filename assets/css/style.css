@@ -43,13 +43,15 @@ div.extra-wide {width:144%; margin-left:-44%;background:#222;}
 /*.fb-like.fb_iframe_widget {position: absolute !important; top: 0 !important;}*/
 
 /* Add Class for Images */
-div.offgrid-left {float:left;max-width:40%;padding-right:1.25rem;}
+div.offgrid-left {float:left;max-width:41.66667%;padding-right:1.25rem;}
   div.offgrid-left img {max-width:120%;margin-left: -20%;}
   div.offgrid-left .gist {width:100%;margin-left: -4%;}
-div.offgrid-right {float:right;max-width:40%;padding-left:1.25rem;}
+div.offgrid-right {float:right;max-width:41.66667%;padding-left:1.25rem;}
   div.offgrid-right img {min-width: 100%; max-width:120%;margin-right: -20%;}
 div.aligncenter { display: block; width: 100%; clear: both; }
   div.aligncenter img { display: block; min-width: 100%; margin: 0 18px 0 0; }
+
+  div.alignleft { width: 41.66667%; float: left; padding-right:1.25rem; }
 
   img.offgrid-right {max-width: 150%; margin-right: -45%;}
   img.offgrid-left {max-width: 150%; margin-left: -45%;}
