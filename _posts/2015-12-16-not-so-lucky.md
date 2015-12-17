@@ -21,7 +21,7 @@ I've been stuck in the vicinity of Capitol Commons in Pasig since 9:00pm due to 
 
 Uber was at x5 surge pricing and so was Grabcar. I got home at 2:00am, feverish and exhausted.
 
-Taken using a [MC Jupiter-37A 135mm f/3.5 KMZ][7] lens at 1/100s f/3.5 ISO 6400. [See image on Flickr][1]{:target="_blank"} for EXIF. Posted originally on my [Instagram][2]{:target="_blank"}.
+Taken using a [MC Jupiter-37A 135mm f/3.5 KMZ][7] lens at 1/100s f/3.5 ISO 6400 on a [Sony A7SII][5]. [See image on Flickr][1]{:target="_blank"} for EXIF. Posted originally on my [Instagram][2]{:target="_blank"}.
 
 [1]: https://www.flickr.com/photos/archondigital/23169403144/
 [2]: https://www.instagram.com/p/_Uac2DGq6m/
