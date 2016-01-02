@@ -33,7 +33,7 @@ gallery_content:
 	<div class="large-4 columns">
 		<p class="lead">Spent new year's eve in our place in Malate and briefly took to the streets at exactly 12:00 midnight just as firecrackers in our street started going off.</p>
 
-		<p>2015 was a good year in general. I met new people, <a href="http://ten88.digital/" target="_blank">launched a startup</a>, and learned much from the past year's experiences and is looking forward to a better one this 2016.</p>
+		<p>2015 was a good year in general. I got to meet new people, <a href="http://ten88.digital/" target="_blank">launched a startup</a>, and learned much from the past year's experiences. This year I am looking forward to a much better one.</p>
 
 		<p>This will also be my last 180 days of working on the <a href="http://www.gov.ph/" target="_blank">Official Gazette</a> and <a href="http://data.gov.ph/" target="_blank">Open Data PH</a>.</p>
 
