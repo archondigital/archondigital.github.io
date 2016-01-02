@@ -3,7 +3,7 @@ title: Happy New Year, Welcome 2016
 title_hide: true
 author: Jon Cuevas
 layout: post
-permalink: /street-photography/welcome-2016/
+permalink: /articles/welcome-2016/
 excerpt: "New year festivities and firecrackers in our street."
 featured_image: /assets/images/articles/firecracker-09142.jpg
 featured_image_thumb: /assets/images/articles/firecracker-09142-thumb.jpg
