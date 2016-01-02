@@ -1,3 +1,10 @@
+<div class="panel">
+	<div class="row">
+		<div class="large-4 columns">
+			<h3>{{ page.gallery_title }}</h3>
+			<p>{{ page.gallery_desc }}</p>
+		</div>
+		<div class="large-8 columns">
 			<ul class="clearing-thumbs large-block-grid-3 medium-block-grid-3 small-block-grid-3" data-clearing>
 				<li>
 				  <a class="th" href="{{ page.featured_image | prepend: site.baseurl }}" style="max-height:140px; overflow:hidden;">
@@ -15,4 +22,11 @@
 				{% endfor %}
 				{% else %}
 				{% endif %}
-			</ul>
+			</ul>	
+		</div>
+
+	</div>	
+</div>
+
+		
+
