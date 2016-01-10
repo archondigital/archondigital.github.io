@@ -25,6 +25,6 @@ Taken using a [Leica Summicron-M 1:2/35mm ASPH][6] lens at 1/250s f/8 ISO 100. [
 
 [1]: https://www.flickr.com/photos/archondigital/24202229731/
 [2]: https://www.instagram.com/p/BAWF1CCGq_B/
-[4]: /topic/manila/
+[4]: /topic/nazareno-2016/
 [5]: /topic/sony-a7sii/
 [6]: /topic/leica/
