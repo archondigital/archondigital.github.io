@@ -19,6 +19,8 @@ tags: [Nazareno 2016, Streets of Manila, Manila by Night, Street Photography, So
 
 Construction workers and patrons patiently wait for the Black Nazarene to pass at the Translacion of the 2016 Feast of the Black Nazarene.
 
+This is my first time to shoot during the [Feast of the Black Nazarene][4]. You may browse through my other entries from this event [here][4].
+
 Taken using a [Leica Summicron-M 1:2/35mm ASPH][6] lens at 1/250s f/8 ISO 100. [See image on Flickr][1]{:target="_blank"} for EXIF. Posted originally on my [Instagram][2]{:target="_blank"}.
 
 [1]: https://www.flickr.com/photos/archondigital/24202229731/
