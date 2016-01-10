@@ -13,7 +13,7 @@ bg_color: 'rgba(0, 0, 0, .6);'
 text_color: light
 comments: true
 disqus_identifier: nazareno-004-s2016
-tags: [Streets of Manila, Manila by Night, Street Photography, Sony, Sony A7Sii, Leica, Manila, Photography, Mirrorless]
+tags: [Nazareno 2016, Streets of Manila, Manila by Night, Street Photography, Sony, Sony A7Sii, Leica, Manila, Photography, Mirrorless]
 ---
 
 A devotee making his way through the thick crowds. I encountered a lot of tired but determined faces throughout the day.

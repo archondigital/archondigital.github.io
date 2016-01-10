@@ -13,17 +13,8 @@ bg_color: 'rgba(0, 0, 0, .6);'
 text_color: light
 comments: true
 disqus_identifier: nazareno-003-s2016
-tags: [Streets of Manila, Manila by Night, Street Photography, Sony, Sony A7Sii, Leica, Manila, Photography, Mirrorless]
+tags: [Nazareno 2016, Streets of Manila, Manila by Night, Street Photography, Sony, Sony A7Sii, Leica, Manila, Photography, Mirrorless]
 ---
-<div class="row">
-	<div class="large-5 columns">
-		
-	</div>
-	<div class="large-7 columns">
-
-	</div>
-</div>
-
 <p class="lead">Like birds on a power line.</p>
 
 Construction workers and patrons patiently wait for the Black Nazarene to pass at the Translacion of the 2016 Feast of the Black Nazarene.
