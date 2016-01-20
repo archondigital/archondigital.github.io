@@ -6,7 +6,7 @@
 		{% if count >= '1' %}
 	
 		<li>
-			<div class="orbit-slide" style="background-image: url({{ post.featured_image | prepend: site.baseurl }});"></div>
+			<div class="orbit-slide" style="background-image: url({{ post.featured_image | prepend: site.baseurl }});background-position:{{ post.background_position }};"></div>
 			<div class="orbit-caption">
 				<div class="row">
 					<div class="large-5 columns large-push-1 text-right">
