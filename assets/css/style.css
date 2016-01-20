@@ -229,15 +229,18 @@ ul.widget-tags, ol.widget-tags, dl.widget-tags { margin: 0;}
 @media only screen and (min-width: 90.063em) { 
   .articles article {height: 400px;}
     .articles article .container {padding-top: 2rem;}
+  .visible-img img { max-width: 60%;}
   } /* min-width 1441px, xlarge screens */
 
 @media only screen and (min-width: 90.063em) and (max-width: 120em) { 
   .articles article {height: 480px;}
     .articles article .container {padding-top: 3rem;}
+  .visible-img img { max-width: 60%;}
   } /* min-width 1441px and max-width 1920px, use when QAing xlarge screen-only issues */
 
 // XXLarge screens
 @media only screen and (min-width: 120.063em) {
   .articles article {height: 520px;}
     .articles article .container {padding-top: 3rem;}
+  .visible-img img { max-width: 60%;}
  } /* min-width 1921px, xxlarge screens */
