@@ -4,3 +4,6 @@ _posts-on-hold
 .sass-cache
 _config_dev.yml
 template-fb-thumb-guide.psd
+_posts/.DS_Store
+
+.DS_Store
