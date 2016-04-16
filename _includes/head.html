@@ -39,13 +39,13 @@
 	<meta property="og:url" content="http://archon.digital{{ page.url }}" />
 	{% if page.featured_image %}
 	<!-- featured image -->
-	<meta property="og:image" content="{% if page.featured_image_thumb %}{{ page.featured_image_thumb | prepend: site.baseurl }}{% else %}{{ page.featured_image | prepend: site.baseurl }}{% endif %}" />
-	<meta name="twitter:image:src" content="{% if page.featured_image_thumb %}{{ page.featured_image_thumb | prepend: site.baseurl }}{% else %}{{ page.featured_image | prepend: site.baseurl }}{% endif %}">
+	<meta property="og:image" content="{% if page.featured_image_thumb %}{{ page.featured_image_thumb | prepend: site.url }}{% else %}{{ page.featured_image | prepend: site.url }}{% endif %}" />
+	<meta name="twitter:image:src" content="{% if page.featured_image_thumb %}{{ page.featured_image_thumb | prepend: site.url }}{% else %}{{ page.featured_image | prepend: site.url }}{% endif %}">
 	<meta name="twitter:card" content="summary_large_image">
 	{% else %}
 	<!-- no featured image, loading default image -->
-	<meta property="og:image" content="{{ "/assets/images/alapeanutbuttersandwiches.jpg" | prepend: site.baseurl }}" />
-	<meta name="twitter:image:src" content="{{ "/assets/images/alapeanutbuttersandwiches.jpg" | prepend: site.baseurl }}">
+	<meta property="og:image" content="{{ "/assets/images/alapeanutbuttersandwiches.jpg" | prepend: site.url }}" />
+	<meta name="twitter:image:src" content="{{ "/assets/images/alapeanutbuttersandwiches.jpg" | prepend: site.url }}">
 	<meta name="twitter:card" content="summary_large_image">
 	{% endif %}
 	<meta name="twitter:site" content="@archondigital">
@@ -59,15 +59,15 @@
 	<!-- pinterest verification -->
 	<meta name="p:domain_verify" content="987601f543e8047e2244bd1f76e96caa"/>
 
-	<link rel="stylesheet" href="{{ "/assets/css/app.css" | prepend: site.baseurl }}">
+	<link rel="stylesheet" href="{{ "/assets/css/app.css" | prepend: site.url }}">
 	
 	<!-- Font Awesome -->
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
     
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="{{ "/assets/css/style.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | prepend: site.url }}">
 
-    <script src="{{ "/assets/bower_components/modernizr/modernizr.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/assets/bower_components/modernizr/modernizr.js" | prepend: site.url }}"></script>
 
 	{% include scripts-head.html %}
 
