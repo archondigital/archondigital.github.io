@@ -4,7 +4,7 @@ title_hide: true
 author: Jon Cuevas
 layout: post
 permalink: /articles/events-facebook-ph-launch/
-excerpt: "Cras justo odio, dapibus ac facilisis in, egestas eget quam."
+excerpt: "Facebook announced the opening of its offices in Manila along with their launch of Facebook for Business Philippines this Thursday morning of April 21 at an event held at the Shooting Gallery in Makati."
 featured_image: /assets/images/articles/facebook-manila-07023.jpg
 featured_image_thumb: /assets/images/articles/facebook-manila-07023-thumb.jpg
 background_position: top center
