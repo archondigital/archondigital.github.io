@@ -44,7 +44,7 @@ tags: [Events, Facebook, Social Media]
 		<h3>Not just for social use.</h3>
 		<p>Filipino entrepreneurs have been using social media for quite some time now and according to the social network, two in every three Filipinos are connected to a business Page on Facebook, and its users engage and discover new brands and products using the platform.</p>
 
-		<p><img src="/assets/images/articles/facebook-manila-07031-thumb.jpg"><p class="caption">Nullam quis risus eget urna mollis ornare vel eu leo.</p></p>
+		<p><img src="/assets/images/articles/facebook-manila-07031-thumb.jpg"><p class="caption">An ice cream stand, one of the many local treats featured at the Facebook for Business PH event.</p></p>
 
 		<h3>Facebook Philippines</h3>
 		<p>Facebook's Philippines operations will be headed by Digs Dimagiba. Dimagiba will lead the local team in crea in partnering closely with businesses and agencies to ensure that the they get the best value out of Facebook's creative, marketing and business solutions. Prior to joining Facebook, Dimagiba was the head of mobile business at Samsung Philippines.</p>
