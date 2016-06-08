@@ -1,5 +1,6 @@
 ---
-title: Carriedo market
+published: true
+post_title: Carriedo market
 title_secondary: Streets of Manila
 title_hide: true
 author: Jon Cuevas

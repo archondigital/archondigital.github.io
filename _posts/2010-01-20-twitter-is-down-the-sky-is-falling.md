@@ -1,5 +1,6 @@
 ---
-title: Twitter is Down - The Sky is Falling
+published: true
+post_title: Twitter is Down - The Sky is Falling
 author: Jon Cuevas
 layout: post
 permalink: /v5/internet/social-networks/twitter-social-networks-internet/twitter-is-down-the-sky-is-falling/

@@ -1,5 +1,6 @@
 ---
-title: Permalink Migration on WordPress
+published: true
+post_title: Permalink Migration on WordPress
 author: Jon Cuevas
 layout: post
 permalink: /v5/permalink-migration-142/

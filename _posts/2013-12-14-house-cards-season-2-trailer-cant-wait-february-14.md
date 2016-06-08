@@ -1,5 +1,6 @@
 ---
-title: "House of Cards' Season 2 Trailer, can't wait for February 14"
+published: true
+post_title: "House of Cards' Season 2 Trailer, can't wait for February 14"
 author: Jon Cuevas
 excerpt: Thank you Netflix. Looking forward to Season 2 of House of Cards.
 layout: post-video

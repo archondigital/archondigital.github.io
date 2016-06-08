@@ -1,5 +1,6 @@
 ---
-title: 'Road to Beijing: 2008 Summer Olympics'
+published: true
+post_title: 'Road to Beijing: 2008 Summer Olympics'
 author: Archon Digital
 layout: post
 permalink: /studio/design/road-to-beijing-2008-summer-olympics/

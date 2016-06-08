@@ -1,5 +1,6 @@
 ---
-title: 'People Power - Worth It or Worthless?'
+published: true
+post_title: 'People Power - Worth It or Worthless?'
 author: Archon Digital
 layout: post
 excerpt: "It bothers me that to this day, no significant political change can cure this lingering cancer of corruption in our nation. This malignant and ruptured anomaly continues to worsen our people's way of life. It has grown to the point where we all have to make a stand and face this problem head on."

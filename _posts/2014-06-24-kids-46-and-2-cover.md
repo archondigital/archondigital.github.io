@@ -1,5 +1,6 @@
 ---
-title: "Kids cover '46 and 2' by Tool"
+published: true
+post_title: "Kids cover '46 and 2' by Tool"
 author: Jon Cuevas
 date:   2014-06-24 04:00:00
 excerpt: "I've already seen this video a couple of times, shared it in the past on my FB and on Twitter, but it's still, hands down, the best cover done for this song by Tool."

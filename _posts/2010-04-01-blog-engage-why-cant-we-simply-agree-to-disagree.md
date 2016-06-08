@@ -1,5 +1,6 @@
 ---
-title: "Blog Engage: Why Can't We Simply Agree to Disagree?"
+published: true
+post_title: "Blog Engage: Why Can't We Simply Agree to Disagree?"
 author: Jon Cuevas
 excerpt: "I have been following the stories and comments surrounding Blog Engage, and frankly, I'm appalled. Why can't we simply agree to disagree? Here's a quick review:"
 layout: post

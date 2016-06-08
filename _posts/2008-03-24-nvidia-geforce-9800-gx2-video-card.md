@@ -1,5 +1,6 @@
 ---
-title: Nvidia GeForce 9800 GX2 Video Card
+published: true
+post_title: Nvidia GeForce 9800 GX2 Video Card
 author: Archon Digital
 layout: post
 permalink: /v5/technology/hardware/graphics-card-hardware-technology/nvidia-geforce-9800-gx2-video-card/

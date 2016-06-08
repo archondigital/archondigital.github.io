@@ -1,5 +1,6 @@
 ---
-title: "Brain implant allows paralyzed man to move hand using his thoughts"
+published: true
+post_title: "Brain implant allows paralyzed man to move hand using his thoughts"
 author: Jon Cuevas
 date:   2014-06-29 23:35:00
 excerpt: "A microchip implanted in the brain of a paralyzed man in this video proved successful and has allowed him to regain movement in his right hand using only his thoughts."

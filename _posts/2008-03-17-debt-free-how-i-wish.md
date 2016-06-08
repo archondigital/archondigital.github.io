@@ -1,5 +1,6 @@
 ---
-title: 'Debt Free&#8230; How I Wish'
+published: true
+post_title: 'Debt Free&#8230; How I Wish'
 author: Archon Digital
 excerpt: Finding out your net worth can be both challenging and disappointing at the same time.
 layout: post

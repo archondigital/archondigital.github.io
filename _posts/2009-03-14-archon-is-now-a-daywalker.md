@@ -1,5 +1,6 @@
 ---
-title: Archon is now a Daywalker
+published: true
+post_title: Archon is now a Daywalker
 author: Jon Cuevas
 layout: post
 permalink: /v5/overlord/archon-is-now-a-daywalker/

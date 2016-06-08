@@ -1,5 +1,6 @@
 ---
-title: Keeping a Floppy Drive Can Be Handy
+published: true
+post_title: Keeping a Floppy Drive Can Be Handy
 author: Jon Cuevas
 layout: post
 permalink: /v5/technology/hardware/keeping-a-floppy-drive-can-be-handy/

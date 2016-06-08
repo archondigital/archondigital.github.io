@@ -1,5 +1,6 @@
 ---
-title: 'Design: Champagne Brunch'
+published: true
+post_title: 'Design: Champagne Brunch'
 author: Archon Digital
 excerpt: "Ever thought of what the rich could do on a lazy Sunday morning? It could be anything from playing golf to taking a few laps at an exclusive country clubs' pool and perhaps even getting a nice tan poolside under the sun. Or how about a Sunday Champagne Brunch? Yes, you heard right, it's brunch served with some really expensive champagne with it."
 layout: post

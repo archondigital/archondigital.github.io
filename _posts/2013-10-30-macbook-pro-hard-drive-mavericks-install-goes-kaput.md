@@ -1,5 +1,6 @@
 ---
-title: MacBook Pro hard drive and Mavericks install goes kaput
+published: true
+post_title: MacBook Pro hard drive and Mavericks install goes kaput
 author: Jon Cuevas
 layout: post
 permalink: /articles/macbook-pro-hard-drive-mavericks-install-goes-kaput/

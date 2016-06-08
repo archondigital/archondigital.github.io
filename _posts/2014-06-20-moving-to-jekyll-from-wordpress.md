@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Moving from WordPress to Jekyll"
+published: true
+post_title:  "Moving from WordPress to Jekyll"
 date:   2014-06-20 00:22:26
 excerpt: "As of today, Archon Digital is now running on Jekyll and is being hosted on Github Pages. Everything seems to work fine and I'm happy the transition went really well considering I was migrating in between breaks, meetings, at night and over the weekend. The original idea was only to migrate the old /v5/ parts of the site but after spending time reading Jekyll's documentation, I decided to move everything over."
 keywords: Jekyll, WordPress, Github, CMS

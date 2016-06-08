@@ -1,5 +1,6 @@
 ---
-title: Lost in Space
+published: true
+post_title: Lost in Space
 author: Archon Digital
 layout: post
 permalink: /v5/overlord/its-a-mind-thing/

@@ -1,5 +1,6 @@
 ---
-title: still bent on World Domination
+published: true
+post_title: still bent on World Domination
 author: Jon Cuevas
 layout: post
 permalink: /v5/overlord/still-bent-on-world-domination/

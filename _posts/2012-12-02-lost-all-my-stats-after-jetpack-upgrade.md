@@ -1,5 +1,6 @@
 ---
-title: Lost all my stats after JetPack upgrade
+published: true
+post_title: Lost all my stats after JetPack upgrade
 author: Jon Cuevas
 layout: post
 permalink: /articles/lost-all-my-stats-after-jetpack-upgrade/

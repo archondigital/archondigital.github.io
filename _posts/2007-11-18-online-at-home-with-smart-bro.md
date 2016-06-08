@@ -1,5 +1,6 @@
 ---
-title: Online at Home with Smart Bro
+published: true
+post_title: Online at Home with Smart Bro
 author: Archon Digital
 layout: post
 permalink: /v5/internet/online-at-home-with-smart-bro/

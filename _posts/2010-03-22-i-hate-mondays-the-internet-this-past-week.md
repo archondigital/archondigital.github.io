@@ -1,5 +1,6 @@
 ---
-title: I Hate Mondays - The Internet This Past Week
+published: true
+post_title: I Hate Mondays - The Internet This Past Week
 author: Jon Cuevas
 layout: post
 permalink: /v5/internet/blogging/i-hate-mondays-the-internet-this-past-week/

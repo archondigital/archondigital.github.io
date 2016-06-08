@@ -1,5 +1,6 @@
 ---
-title: Dazed and Confused
+published: true
+post_title: Dazed and Confused
 author: Jon Cuevas
 layout: post-video
 permalink: /v5/overlord/movies/dazed-and-confused/

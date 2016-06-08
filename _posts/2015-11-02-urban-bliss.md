@@ -1,5 +1,6 @@
 ---
-title: Urban bliss
+published: true
+post_title: Urban bliss
 title_secondary: Humans of San Andres Bukid
 title_hide: true
 author: Jon Cuevas

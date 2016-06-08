@@ -1,5 +1,6 @@
 ---
-title: Happy Halloween
+published: true
+post_title: Happy Halloween
 title_hide: true
 author: Jon Cuevas
 layout: post-photo

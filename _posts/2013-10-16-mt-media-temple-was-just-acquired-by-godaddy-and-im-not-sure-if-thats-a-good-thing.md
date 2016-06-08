@@ -1,5 +1,6 @@
 ---
-title: "(mt) Media Temple was just acquired by GoDaddy and I'm not sure if that's a good thing"
+published: true
+post_title: "(mt) Media Temple was just acquired by GoDaddy and I'm not sure if that's a good thing"
 author: Jon Cuevas
 layout: post
 excerpt: "(mt) Media Temple was just acquired by GoDaddy, one of the best hosting companies that both graphic designers and web designers love to use and one of the best around taken over by what is known as one of the worst hosting company that ever existed."

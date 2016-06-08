@@ -1,5 +1,6 @@
 ---
-title: iPhone’s Activation Server Down
+published: true
+post_title: iPhone’s Activation Server Down
 author: Jon Cuevas
 layout: post
 permalink: /v5/technology/software/iphones-activation-server-down/

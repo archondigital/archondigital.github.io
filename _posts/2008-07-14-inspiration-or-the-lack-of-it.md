@@ -1,5 +1,6 @@
 ---
-title: Inspiration or the Lack of It
+published: true
+post_title: Inspiration or the Lack of It
 author: Archon Digital
 layout: post
 permalink: /v5/overlord/inspiration-or-the-lack-of-it/

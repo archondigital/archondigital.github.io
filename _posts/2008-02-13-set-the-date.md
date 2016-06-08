@@ -1,5 +1,6 @@
 ---
-title: Set The Date
+published: true
+post_title: Set The Date
 author: Archon Digital
 layout: post
 permalink: /v5/studio/design/set-the-date/

@@ -1,5 +1,6 @@
 ---
-title: WPDesigner SOLD for $66,000
+published: true
+post_title: WPDesigner SOLD for $66,000
 author: Archon Digital
 layout: post
 permalink: /v5/studio/wordpress/themes/wpdesigner-sold-for-66000/

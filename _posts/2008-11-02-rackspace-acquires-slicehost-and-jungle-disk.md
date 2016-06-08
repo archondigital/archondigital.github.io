@@ -1,5 +1,6 @@
 ---
-title: Rackspace Acquires Slicehost and Jungle Disk
+published: true
+post_title: Rackspace Acquires Slicehost and Jungle Disk
 author: Archon Digital
 layout: post
 permalink: /hosting/rackspace-acquires-slicehost-and-jungle-disk/

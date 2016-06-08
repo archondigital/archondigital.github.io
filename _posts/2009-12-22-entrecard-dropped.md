@@ -1,5 +1,6 @@
 ---
-title: Entrecard Dropped
+published: true
+post_title: Entrecard Dropped
 author: Jon Cuevas
 layout: post
 permalink: /v5/internet/social-networks/entrecard/entrecard-dropped/

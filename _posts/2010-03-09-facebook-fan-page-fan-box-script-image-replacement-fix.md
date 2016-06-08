@@ -1,5 +1,6 @@
 ---
-title: 'Facebook Fan Page &#038; Fan Box Script &#8211; Image Replacement Fix'
+published: true
+post_title: 'Facebook Fan Page &#038; Fan Box Script &#8211; Image Replacement Fix'
 author: Jon Cuevas
 layout: post
 permalink: /social-media/facebook-fan-page-fan-box-script-image-replacement-fix/

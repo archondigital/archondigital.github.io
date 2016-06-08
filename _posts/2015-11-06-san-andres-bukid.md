@@ -1,5 +1,6 @@
 ---
-title: Not much to say
+published: true
+post_title: Not much to say
 title_secondary: Humans of San Andres Bukid
 author: Jon Cuevas
 layout: post-photo

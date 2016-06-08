@@ -1,5 +1,6 @@
 ---
-title: Going for third
+published: true
+post_title: Going for third
 author: Archon Digital
 layout: post
 permalink: /v5/life/family/going-for-third/

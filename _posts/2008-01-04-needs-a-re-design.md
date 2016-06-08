@@ -1,5 +1,6 @@
 ---
-title: Needs a Re-design
+published: true
+post_title: Needs a Re-design
 author: Archon Digital
 layout: post
 permalink: /v5/studio/design/needs-a-re-design/

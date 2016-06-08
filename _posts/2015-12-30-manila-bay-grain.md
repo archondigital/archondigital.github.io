@@ -1,5 +1,6 @@
 ---
-title: Manila bay, Sony A7SII and Jupiter 37A 135mm
+published: true
+post_title: Manila bay, Sony A7SII and Jupiter 37A 135mm
 title_secondary: Manila by Night
 author: Jon Cuevas
 layout: post-photo

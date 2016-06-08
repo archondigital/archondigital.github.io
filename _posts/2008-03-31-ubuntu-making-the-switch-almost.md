@@ -1,5 +1,6 @@
 ---
-title: 'Ubuntu &#8211; Making the Switch, Almost'
+published: true
+post_title: 'Ubuntu &#8211; Making the Switch, Almost'
 author: Archon Digital
 layout: post
 permalink: /software/ubuntu-making-the-switch-almost/

@@ -1,5 +1,6 @@
 ---
-title: 'Metallica: Enter Sandman the Happy Variety (Smooth Jazz Version)'
+published: true
+post_title: 'Metallica: Enter Sandman the Happy Variety (Smooth Jazz Version)'
 author: Jon Cuevas
 excerpt: Now after hearing the original head-banging Metallica classic and the Richard Cheese big band version, here comes a "smooth jazz" cover from Andy Rehfeldt. I am still wondering what software he used to isolate the vocal track.
 layout: post-video

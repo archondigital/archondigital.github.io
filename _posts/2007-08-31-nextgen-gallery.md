@@ -1,5 +1,6 @@
 ---
-title: NextGen Gallery
+published: true
+post_title: NextGen Gallery
 author: Archon Digital
 layout: post
 permalink: /v5/studio/wordpress/nextgen-gallery/

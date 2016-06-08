@@ -1,5 +1,6 @@
 ---
-title: "The Top 100 Things I'd Do If I Ever Became An Evil Overlord"
+published: true
+post_title: "The Top 100 Things I'd Do If I Ever Became An Evil Overlord"
 author: Jon Cuevas
 excerpt: Being an Evil Overlord comes at a high price and boy do these bastards love checklists hence the list.
 layout: post

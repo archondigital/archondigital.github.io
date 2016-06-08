@@ -1,5 +1,6 @@
 ---
-title: 'Firefox 3 Download Day &#8211; Setting a New World Record'
+published: true
+post_title: 'Firefox 3 Download Day &#8211; Setting a New World Record'
 author: Archon Digital
 layout: post
 permalink: /v5/internet/browsers/firefox-3-download-day-setting-a-new-world-record/

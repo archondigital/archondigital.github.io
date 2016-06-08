@@ -1,5 +1,6 @@
 ---
-title: Looking Back and Moving Forward
+published: true
+post_title: Looking Back and Moving Forward
 author: Jon Cuevas
 layout: post
 permalink: /v5/life/looking-back-and-moving-forward/

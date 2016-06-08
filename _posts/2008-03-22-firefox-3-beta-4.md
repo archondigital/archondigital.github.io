@@ -1,5 +1,6 @@
 ---
-title: Firefox 3 Beta 4
+published: true
+post_title: Firefox 3 Beta 4
 author: Archon Digital
 excerpt: Just this morning I installed the latest beta from Mozilla Firefox. This is the first time I am installing the beta to give it a road test. Since I first started using it, I immediately noticed how faster the beta is as compared to the current version and it appears to not consume too much memory.
 layout: post

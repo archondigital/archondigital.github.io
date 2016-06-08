@@ -1,5 +1,6 @@
 ---
-title: 'Print: 12&#8243; vinyl album cover Faithless &#8211; Muhammad Ali'
+published: true
+post_title: 'Print: 12&#8243; vinyl album cover Faithless &#8211; Muhammad Ali'
 author: Jon Cuevas
 layout: post-photo
 excerpt: "Me and a friend were going through this vinyl dealer&#8217;s collection of records when I ran into this marvelous piece printed artwork. It&#8217;s a 12&#8243; vinyl album cover from a trip-hop group called Faithless. The printing on the album cover appears to have been a two-color process run on a traditional offset printer which was perfect for the duotone artwork that featured a classic photograph of Muhammad Ali."

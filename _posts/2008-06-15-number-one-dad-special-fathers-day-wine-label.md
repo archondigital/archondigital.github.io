@@ -1,5 +1,6 @@
 ---
-title: 'Number One Dad: Special Father&#8217;s Day Wine Label'
+published: true
+post_title: 'Number One Dad: Special Father&#8217;s Day Wine Label'
 author: Archon Digital
 layout: post
 permalink: /v5/studio/design/number-one-dad-special-fathers-day-wine-label/

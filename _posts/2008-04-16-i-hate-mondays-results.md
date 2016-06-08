@@ -1,5 +1,6 @@
 ---
-title: 'I Hate Mondays &#8211; Results'
+published: true
+post_title: 'I Hate Mondays &#8211; Results'
 author: Archon Digital
 layout: post
 permalink: /v5/internet/contest/i-hate-mondays-results/

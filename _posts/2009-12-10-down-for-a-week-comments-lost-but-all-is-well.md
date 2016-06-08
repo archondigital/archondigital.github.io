@@ -1,5 +1,6 @@
 ---
-title: Down for a Week; Comments Lost But All is Well
+published: true
+post_title: Down for a Week; Comments Lost But All is Well
 author: Jon Cuevas
 layout: post
 permalink: /v5/overlord/down-for-a-week-comments-lost-but-all-is-well/

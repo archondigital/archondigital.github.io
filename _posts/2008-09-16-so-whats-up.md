@@ -1,5 +1,6 @@
 ---
-title: "So What's Up?"
+published: true
+post_title: "So What's Up?"
 author: Archon Digital
 excerpt: "What's been keeping me busy lately is work and a ton of other stuff like the upcoming migration (from archon-digital.com) to archondigital.com where I'm still having problems as I made some very drastic changes to my permalink structure."
 layout: post

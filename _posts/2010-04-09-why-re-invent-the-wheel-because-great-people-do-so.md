@@ -1,5 +1,6 @@
 ---
-title: Why Re-Invent the Wheel? Because Great People Do So.
+published: true
+post_title: Why Re-Invent the Wheel? Because Great People Do So.
 author: Jon Cuevas
 layout: post
 permalink: /v5/studio/why-re-invent-the-wheel-because-great-people-do-so/

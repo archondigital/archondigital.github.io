@@ -1,5 +1,6 @@
 ---
-title: A Typography Game Hall of Fame
+published: true
+post_title: A Typography Game Hall of Fame
 author: Archon Digital
 layout: post
 permalink: /studio/typography/a-typography-game-hall-of-fame/

@@ -1,5 +1,6 @@
 ---
-title: Getting in the Zone
+published: true
+post_title: Getting in the Zone
 author: Archon Digital
 layout: post
 permalink: /v5/overlord/writing/getting-in-the-zone/

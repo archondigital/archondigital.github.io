@@ -1,5 +1,6 @@
 ---
-title: Crossing tracks.
+published: true
+post_title: Crossing tracks.
 title_hide: true
 author: Jon Cuevas
 layout: post-photo

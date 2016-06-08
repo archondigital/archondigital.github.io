@@ -1,5 +1,6 @@
 ---
-title: Fallout 3 is Almost There, So Close I Can Smell it Now
+published: true
+post_title: Fallout 3 is Almost There, So Close I Can Smell it Now
 author: Archon Digital
 layout: post
 permalink: /computer-games/fallout-3-almost-there/

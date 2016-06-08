@@ -1,5 +1,6 @@
 ---
-title: Death By Tray It Shall Be!
+published: true
+post_title: Death By Tray It Shall Be!
 author: Jon Cuevas
 layout: post-video
 permalink: /videos/death-by-tray-it-shall-be/

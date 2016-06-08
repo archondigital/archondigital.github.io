@@ -1,5 +1,6 @@
 ---
-title: Why So Serious?
+published: true
+post_title: Why So Serious?
 author: Jon Cuevas
 layout: post-photo
 permalink: /v5/overlord/why-so-serious/

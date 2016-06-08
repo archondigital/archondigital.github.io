@@ -1,5 +1,6 @@
 ---
-title: Blame it on my ISP! Smart Bro
+published: true
+post_title: Blame it on my ISP! Smart Bro
 author: Jon Cuevas
 layout: post
 permalink: /v5/internet/isp/smartbro/blame-it-on-my-isp-smart-bro/

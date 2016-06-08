@@ -1,5 +1,6 @@
 ---
-title: Brief Downtime Due to Server Upgrade
+published: true
+post_title: Brief Downtime Due to Server Upgrade
 author: Archon Digital
 layout: post
 permalink: /technology/software/brief-downtime-due-to-server-upgrade/

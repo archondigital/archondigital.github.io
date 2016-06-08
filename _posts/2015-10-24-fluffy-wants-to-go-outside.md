@@ -1,5 +1,6 @@
 ---
-title: "Fluffy wants to go outside"
+published: true
+post_title: "Fluffy wants to go outside"
 author: Jon Cuevas
 excerpt: "Desperate to go outdoors, Fluffy has learned how to speak."
 layout: post-video

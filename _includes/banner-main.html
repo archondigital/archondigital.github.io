@@ -11,7 +11,7 @@
 				<div class="row">
 					<div class="large-5 columns large-push-1 text-right">
 						<h6>Featured Content</h6>
-						<h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}{% if post.title_secondary %}<br><span class="label secondary t50">{{ post.title_secondary }}</span>{% endif %}</a></h3>
+						<h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.post_title }}{% if post.title_secondary %}<br><span class="label secondary t50">{{ post.title_secondary }}</span>{% endif %}</a></h3>
 					</div>
 					<div class="large-6 columns">
 						<p class="hide-for-small">{{ post.excerpt | remove: '<p>' | remove: '</p>' | truncatewords: 35 }}</p>	

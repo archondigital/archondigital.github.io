@@ -1,5 +1,6 @@
 ---
-title: My Twitter Followers Were Abducted by Aliens
+published: true
+post_title: My Twitter Followers Were Abducted by Aliens
 author: Jon Cuevas
 excerpt: |
   Like in a science fiction film when a small town suddenly becomes alien infested and starts abducting the locals where you'd find people who used to talk like normal people say "Don't Pay for White Teeth..."

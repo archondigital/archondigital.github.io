@@ -1,5 +1,6 @@
 ---
-title: Jai Alai Manila, the Sky Room and lost memories
+published: true
+post_title: Jai Alai Manila, the Sky Room and lost memories
 author: Jon Cuevas
 layout: post
 permalink: /articles/jai-alai-manila-sky-room-lost-memories/

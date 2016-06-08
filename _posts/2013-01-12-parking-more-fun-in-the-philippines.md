@@ -1,5 +1,6 @@
 ---
-title: Parking. More Fun in the Philippines
+published: true
+post_title: Parking. More Fun in the Philippines
 author: Jon Cuevas
 excerpt: "Watching this new TV ad from the Department of Tourism really made me want to spend some time away from the Metro with my family, maybe go to the beach or hole up in some cottage up north where it's cold."
 layout: post-video

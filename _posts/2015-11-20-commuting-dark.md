@@ -1,5 +1,6 @@
 ---
-title: Commuting in the Dark
+published: true
+post_title: Commuting in the Dark
 title_secondary: Manila by Night
 author: Jon Cuevas
 layout: post-photo

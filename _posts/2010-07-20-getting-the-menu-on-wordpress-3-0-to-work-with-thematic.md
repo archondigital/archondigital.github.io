@@ -1,5 +1,6 @@
 ---
-title: Getting the Menu on WordPress 3.0 to Work with Thematic
+published: true
+post_title: Getting the Menu on WordPress 3.0 to Work with Thematic
 author: Jon Cuevas
 excerpt: 'One of the best new feature to come out of WordPress 3.0 is the menu editor. This drag-&-drop approach enables you to create custom navigation without being limited to the page or category hierarchy.'
 layout: post
@@ -28,7 +29,8 @@ Copying the following code into your Thematic child theme&#8217;s functions.php 
 
 <span class="attention">Update: updated the snippet from what <a href="http://theoribeiro.com/">Theo Ribeiro</a> just suggested from the comments below</span>
 
-<pre class="brush: php; title: ; notranslate" title="">// We Register the a new menu for the theme called "Primary Menu"
+<pre class="brush: php; published: true
+post_title: ; notranslate" title="">// We Register the a new menu for the theme called "Primary Menu"
 function register_primary_menu() {
 register_nav_menu( 'primary-menu', __( 'Primary Menu' ) );
 }

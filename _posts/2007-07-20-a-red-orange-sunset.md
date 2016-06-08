@@ -1,5 +1,6 @@
 ---
-title: A Red Orange Sunset
+published: true
+post_title: A Red Orange Sunset
 author: Archon Digital
 layout: post
 permalink: /v5/overlord/a-red-orange-sunset/

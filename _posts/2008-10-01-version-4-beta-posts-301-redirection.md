@@ -1,5 +1,6 @@
 ---
-title: Version 4 Beta, Posts and 301 Redirection
+published: true
+post_title: Version 4 Beta, Posts and 301 Redirection
 author: Archon Digital
 excerpt: "Almost Done. Finally, after three months of finding spare time to sit down on and actually execute my design.Transferring per-post with 301 redirects on a new URL and permalink structure is tiring but fun."
 layout: post

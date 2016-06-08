@@ -1,5 +1,6 @@
 ---
-title: How to load Clearing Lightbox using a URI hash on Foundation 5.
+published: true
+post_title: How to load Clearing Lightbox using a URI hash on Foundation 5.
 author: Jon Cuevas
 layout: post
 permalink: /articles/load-clearing-lightbox-uri-hash-foundation/

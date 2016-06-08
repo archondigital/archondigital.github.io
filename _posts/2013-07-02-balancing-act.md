@@ -1,5 +1,6 @@
 ---
-title: Balancing Act
+published: true
+post_title: Balancing Act
 author: Jon Cuevas
 excerpt: Think of weights and counterweights. This is for those asking why I keep my heavy backpack strapped to my back while standing up.
 layout: post-photo

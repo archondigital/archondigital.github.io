@@ -1,5 +1,6 @@
 ---
-title: 'Twitter vs Plurk &#8211; Which is Better?'
+published: true
+post_title: 'Twitter vs Plurk &#8211; Which is Better?'
 author: Jon Cuevas
 layout: post
 excerpt: "This idea has always been bugging me for quite some time now and though I have my own opinion about it I&#8217;d still want to ask you people which is better, Plurk or Twitter?"

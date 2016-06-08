@@ -56,7 +56,7 @@ layout: default
 										<li>
 											<div class="row collapse">
 												<div class="large-2 columns"><time class="meta" style="display:inline-block;width:3.25rem;">{{ post.date | date:"%d %b" }}:</time></div>
-												<div class="large-10 columns"><a href="{{ post.url }}">{{ post.title }}{% if post.title_secondary %} <span class="label secondary t50">{{ post.title_secondary }}</span>{% endif %}</a></div>
+												<div class="large-10 columns"><a href="{{ post.url }}">{{ post.post_title }}{% if post.title_secondary %} <span class="label secondary t50">{{ post.title_secondary }}</span>{% endif %}</a></div>
 											</div>
 										</li>			            			
 
@@ -99,8 +99,8 @@ layout: default
 							{% for pic in post.featured_image %}
 							<li>
 								<a class="th" href="{{ post.featured_image | prepend: site.baseurl }}" style="max-height:275px; overflow:hidden;">
-								<img class="link-to-post" title="{{ post.title }}" alt="{{ post.title }}" src="
-								{% if post.featured_image_thumb %}{{ post.featured_image_thumb | prepend: site.baseurl }}{% else %}{{ post.featured_image | prepend: site.baseurl }}{% endif %}" data-caption="{{ post.title }}. {{ post.excerpt | strip_html }}"
+								<img class="link-to-post" title="{{ post.post_title }}" alt="{{ post.post_title }}" src="
+								{% if post.featured_image_thumb %}{{ post.featured_image_thumb | prepend: site.baseurl }}{% else %}{{ post.featured_image | prepend: site.baseurl }}{% endif %}" data-caption="{{ post.post_title }}. {{ post.excerpt | strip_html }}"
 								href="{{ post.url }}" />
 								</a>
 							</li>

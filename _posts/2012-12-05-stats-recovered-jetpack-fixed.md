@@ -1,5 +1,6 @@
 ---
-title: Stats recovered, Jetpack fixed
+published: true
+post_title: Stats recovered, Jetpack fixed
 author: Jon Cuevas
 layout: post
 permalink: /stats-recovered-jetpack-fixed-1664/

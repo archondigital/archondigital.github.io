@@ -1,5 +1,6 @@
 ---
-title: Christmas, Just Around the Corner
+published: true
+post_title: Christmas, Just Around the Corner
 author: Jon Cuevas
 layout: post
 permalink: /v5/life/christmas-just-around-the-corner/

@@ -1,5 +1,6 @@
 ---
-title: The 2008 Gmail Appeal
+published: true
+post_title: The 2008 Gmail Appeal
 author: Archon Digital
 layout: post
 permalink: /v5/studio/design/e-mail-creative/the-2008-gmail-appeal/

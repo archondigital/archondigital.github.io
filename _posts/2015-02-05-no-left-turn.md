@@ -1,5 +1,6 @@
 ---
-title: No left turn
+published: true
+post_title: No left turn
 title_secondary: "#PopeinPH"
 title_hide: true
 author: Jon Cuevas

@@ -1,5 +1,6 @@
 ---
-title: "Achondigital version 3.0"
+published: true
+post_title: "Achondigital version 3.0"
 author: Archon Digital
 layout: post
 permalink: /v5/studio/design/achondigital-version-30-now-live/

@@ -1,5 +1,6 @@
 ---
-title: A Dozen Drafts But Still Nothing Posted
+published: true
+post_title: A Dozen Drafts But Still Nothing Posted
 author: Jon Cuevas
 layout: post
 permalink: /v5/overlord/a-dozen-drafts-but-nothing-posted/

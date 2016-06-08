@@ -1,5 +1,6 @@
 ---
-title: Fire David Letterman Rally in front of Ed Sullivan Theatre
+published: true
+post_title: Fire David Letterman Rally in front of Ed Sullivan Theatre
 author: Jon Cuevas
 layout: post
 permalink: /v5/overlord/fire-david-letterman-rally-in-front-of-ed-sullivan-theatre/

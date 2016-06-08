@@ -1,5 +1,6 @@
 ---
-title: No animals were harmed in the making of this video.
+published: true
+post_title: No animals were harmed in the making of this video.
 author: Jon Cuevas
 excerpt: "Lazy and rainy Sunday, I needed a video clip to test my video post format and ended up with this clip I shot with our dog who was taking shelter inside his doghouse."
 layout: post-video

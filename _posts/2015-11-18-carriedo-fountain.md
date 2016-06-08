@@ -1,5 +1,6 @@
 ---
-title: Carriedo Fountain, Sony A7Sii
+published: true
+post_title: Carriedo Fountain, Sony A7Sii
 title_secondary: Streets of Manila
 author: Jon Cuevas
 layout: post-photo

@@ -1,5 +1,6 @@
 ---
-title: One Step at a Time
+published: true
+post_title: One Step at a Time
 author: Archon Digital
 layout: post
 permalink: /v5/general/one-step-at-a-time/

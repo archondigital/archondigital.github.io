@@ -1,5 +1,6 @@
 ---
-title: Philippines State of the Nation Address – A Pinoy Twitterfest
+published: true
+post_title: Philippines State of the Nation Address – A Pinoy Twitterfest
 author: Jon Cuevas
 layout: post
 permalink: /v5/philippines-state-of-the-nation-address-a-pinoy-twitterfest/

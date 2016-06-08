@@ -1,5 +1,6 @@
 ---
-title: Palanca St., Quiapo
+published: true
+post_title: Palanca St., Quiapo
 title_secondary: Nazareno 2016
 title_hide: true
 author: Jon Cuevas

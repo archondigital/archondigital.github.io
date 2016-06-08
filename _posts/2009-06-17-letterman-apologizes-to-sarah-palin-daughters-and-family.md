@@ -1,5 +1,6 @@
 ---
-title: Letterman Apologizes to Sarah Palin, Daughters and Family
+published: true
+post_title: Letterman Apologizes to Sarah Palin, Daughters and Family
 author: Jon Cuevas
 layout: post
 permalink: /v5/overlord/letterman-apologizes-to-sarah-palin-daughters-and-family/

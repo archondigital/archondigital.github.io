@@ -1,5 +1,6 @@
 ---
-title: Worry-Free Baby
+published: true
+post_title: Worry-Free Baby
 author: Archon Digital
 layout: post
 permalink: /v5/life/family/worry-free-baby/

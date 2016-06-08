@@ -1,5 +1,6 @@
 ---
-title: LinkWithin-Inspired YARPP Template
+published: true
+post_title: LinkWithin-Inspired YARPP Template
 author: Jon Cuevas
 layout: post
 permalink: /articles/linkwithin-inspired-yarpp-template/

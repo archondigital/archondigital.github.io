@@ -1,5 +1,6 @@
 ---
-title: A Blank WordPress Theme
+published: true
+post_title: A Blank WordPress Theme
 author: Archon Digital
 layout: post
 permalink: /v5/studio/wordpress/themes/a-blank-wordpress-theme/

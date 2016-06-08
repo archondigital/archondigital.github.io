@@ -1,5 +1,6 @@
 ---
-title: 2013, plans, coffee and beer.
+published: true
+post_title: 2013, plans, coffee and beer.
 author: Jon Cuevas
 layout: post
 permalink: /2013-plans-coffee-and-beer-1771/

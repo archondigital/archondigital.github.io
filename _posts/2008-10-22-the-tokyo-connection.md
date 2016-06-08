@@ -1,5 +1,6 @@
 ---
-title: The Tokyo Connection
+published: true
+post_title: The Tokyo Connection
 author: Archon Digital
 layout: post
 permalink: /v5/overlord/training/the-tokyo-connection/

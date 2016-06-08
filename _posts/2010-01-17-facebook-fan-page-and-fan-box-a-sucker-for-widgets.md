@@ -1,5 +1,6 @@
 ---
-title: 'Facebook Fan Page &#038; Fan Box &#8211; I&#8217;m a Sucker for Widgets'
+published: true
+post_title: 'Facebook Fan Page &#038; Fan Box &#8211; I&#8217;m a Sucker for Widgets'
 author: Jon Cuevas
 layout: post
 permalink: /social-media/facebook-fan-page-and-fan-box-a-sucker-for-widgets/

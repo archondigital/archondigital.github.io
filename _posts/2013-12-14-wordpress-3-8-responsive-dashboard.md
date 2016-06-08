@@ -1,5 +1,6 @@
 ---
-title: WordPress 3.8 responsive dashboard
+published: true
+post_title: WordPress 3.8 responsive dashboard
 author: Jon Cuevas
 excerpt: "The Wordpress 3.8 dashboard has gone responsive and it's gorgeous. I'm posting this now from my iPhone 5 through the default iOS Safari browser and I must say I'm really impressed. The guys at Automattic has definitely moved in the right direction on this one."
 layout: post

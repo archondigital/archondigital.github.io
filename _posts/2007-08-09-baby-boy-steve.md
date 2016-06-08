@@ -1,5 +1,6 @@
 ---
-title: Baby Boy Steve
+published: true
+post_title: Baby Boy Steve
 author: Archon Digital
 layout: post
 permalink: /v5/life/baby-boy-steve/

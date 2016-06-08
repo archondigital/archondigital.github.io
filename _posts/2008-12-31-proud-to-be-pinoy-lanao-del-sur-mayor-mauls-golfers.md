@@ -1,5 +1,6 @@
 ---
-title: Proud to be Pinoy - Lanao Del Sur Mayor Mauls Golfers
+published: true
+post_title: Proud to be Pinoy - Lanao Del Sur Mayor Mauls Golfers
 author: Jon Cuevas
 layout: post
 permalink: /v5/philippines/proud-to-be-pinoy-lanao-del-sur-mayor-mauls-golfers/

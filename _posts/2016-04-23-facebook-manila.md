@@ -1,5 +1,6 @@
 ---
-title: Facebook for Business Philippines launch #FB4PH
+published: true
+post_title: Facebook for Business Philippines launch #FB4PH
 title_hide: true
 author: Jon Cuevas
 layout: post

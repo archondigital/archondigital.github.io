@@ -1,5 +1,6 @@
 ---
-title: Lesson of the Day
+published: true
+post_title: Lesson of the Day
 author: Archon Digital
 layout: post
 permalink: /v5/overlord/lesson-of-the-day/

@@ -1,5 +1,6 @@
 ---
-title: Rainy Saturdays, WordPress App for BlackBerry and losing track of time
+published: true
+post_title: Rainy Saturdays, WordPress App for BlackBerry and losing track of time
 author: Jon Cuevas
 layout: post
 permalink: /v5/internet/blogging/rainy-saturdays-wordpress-app-for-blackberry-and-losing-track-of-time/

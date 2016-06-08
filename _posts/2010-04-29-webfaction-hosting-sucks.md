@@ -1,5 +1,6 @@
 ---
-title: Webfaction, Hosting that Sucks
+published: true
+post_title: Webfaction, Hosting that Sucks
 author: Jon Cuevas
 excerpt: "After 10 months of hosting under Webfaction, I'd like to give some insight and clarify a few points on as to why Webfaction sucks."
 layout: post

@@ -1,5 +1,6 @@
 ---
-title: I Hate Mondays
+published: true
+post_title: I Hate Mondays
 author: Archon Digital
 layout: post
 permalink: /v5/internet/contest/i-hate-mondays/

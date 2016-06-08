@@ -1,5 +1,6 @@
 ---
-title: 'Pantone Goe: Is it Worth the Switch?'
+published: true
+post_title: 'Pantone Goe: Is it Worth the Switch?'
 author: Archon Digital
 layout: post
 permalink: /v5/studio/design/color/pantone-goe-is-it-worth-the-switch/

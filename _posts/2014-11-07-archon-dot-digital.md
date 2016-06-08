@@ -1,5 +1,6 @@
 ---
-title: Domain migration from archondigital.com to archon.digital
+published: true
+post_title: Domain migration from archondigital.com to archon.digital
 author: Jon Cuevas
 layout: post
 permalink: /articles/archon-dot-digital/

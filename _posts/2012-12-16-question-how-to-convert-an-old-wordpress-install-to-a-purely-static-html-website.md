@@ -1,5 +1,6 @@
 ---
-title: 'Question: How to convert WordPress install to a static HTML website'
+published: true
+post_title: 'Question: How to convert WordPress install to a static HTML website'
 author: Jon Cuevas
 excerpt: "When I redesigned my site two years ago, I decided to archive my old WordPress installation as a way to clean up all the bloat it accumulated from years of installing plugins, themes and custom scripts. The most logical decision for me was to just start with a fresh WordPress install  and retire my old installation under a subfolder. Archiving my site also required me to manually put dozens of 301 redirects to allow search engines and old backlinks to still find their way into my blog."
 layout: post

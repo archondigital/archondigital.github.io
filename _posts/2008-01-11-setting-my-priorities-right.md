@@ -1,5 +1,6 @@
 ---
-title: Setting My Priorities Right
+published: true
+post_title: Setting My Priorities Right
 author: Archon Digital
 layout: post
 permalink: /v5/internet/blogging/setting-my-priorities-right/

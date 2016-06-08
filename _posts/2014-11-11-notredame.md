@@ -1,5 +1,6 @@
 ---
-title: Notre Dame
+published: true
+post_title: Notre Dame
 author: Jon Cuevas
 layout: post-photo
 permalink: /articles/notredame/

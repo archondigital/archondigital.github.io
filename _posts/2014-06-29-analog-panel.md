@@ -1,5 +1,6 @@
 ---
-title: "These analog panels remind me of post-apocalyptic, non-linear, role-playing games #Fallout #Wasteland2"
+published: true
+post_title: "These analog panels remind me of post-apocalyptic, non-linear, role-playing games #Fallout #Wasteland2"
 author: Jon Cuevas
 date:   2014-06-29 13:58:00
 excerpt: "Interacting with analog controls like these takes me, a grown-up father of three, to this make believe, post-apocalyptic world in search of an extra waterchip or unused GECK."

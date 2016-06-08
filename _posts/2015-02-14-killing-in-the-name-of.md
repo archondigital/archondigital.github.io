@@ -1,5 +1,6 @@
 ---
-title: Killing in the name.
+published: true
+post_title: Killing in the name.
 title_hide: true
 author: Jon Cuevas
 layout: post-photo-full

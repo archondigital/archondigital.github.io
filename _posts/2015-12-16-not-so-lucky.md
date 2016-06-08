@@ -1,5 +1,6 @@
 ---
-title: Not so lucky
+published: true
+post_title: Not so lucky
 title_secondary: Manila by Night
 author: Jon Cuevas
 layout: post-photo

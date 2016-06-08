@@ -1,5 +1,6 @@
 ---
-title: Hold close to your heart
+published: true
+post_title: Hold close to your heart
 title_secondary: Manila by Night
 author: Jon Cuevas
 layout: post-photo

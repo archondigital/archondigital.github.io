@@ -1,5 +1,6 @@
 ---
-title: Selfie generation.
+published: true
+post_title: Selfie generation.
 title_hide: true
 author: Jon Cuevas
 layout: post-photo-full

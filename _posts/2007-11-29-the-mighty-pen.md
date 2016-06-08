@@ -1,5 +1,6 @@
 ---
-title: The Mighty Pen
+published: true
+post_title: The Mighty Pen
 author: Archon Digital
 layout: post
 permalink: /v5/philippines/politics/the-mighty-pen/

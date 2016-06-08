@@ -1,5 +1,6 @@
 ---
-title: How to Disable Disqus & Google Adsense when running Jekyll on localhost.
+published: true
+post_title: How to Disable Disqus & Google Adsense when running Jekyll on localhost.
 author: Jon Cuevas
 layout: post
 permalink: /articles/disable-adsense-disqus-jekyll-localhost/

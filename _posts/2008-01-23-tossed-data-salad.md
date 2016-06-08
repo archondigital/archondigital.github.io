@@ -1,5 +1,6 @@
 ---
-title: Tossed Data Salad
+published: true
+post_title: Tossed Data Salad
 author: Archon Digital
 excerpt: "How would you feel if you find out that your personal and financial data is being passed from one amateur telemarketer to another?"
 layout: post

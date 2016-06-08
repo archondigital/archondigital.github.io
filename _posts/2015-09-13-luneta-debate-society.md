@@ -1,5 +1,6 @@
 ---
-title: Luneta debate society.
+published: true
+post_title: Luneta debate society.
 title_hide: true
 author: Jon Cuevas
 layout: post-photo

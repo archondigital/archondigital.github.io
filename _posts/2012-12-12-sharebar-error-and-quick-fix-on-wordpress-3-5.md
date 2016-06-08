@@ -1,5 +1,6 @@
 ---
-title: Sharebar error and quick fix on WordPress 3.5
+published: true
+post_title: Sharebar error and quick fix on WordPress 3.5
 author: Jon Cuevas
 layout: post
 permalink: /sharebar-error-and-quick-fix-on-wordpress-3-5-1717/
@@ -8,7 +9,8 @@ tags: [WordPress, Web Development, Coding]
 ---
 I ran into some problems with the Sharebar plugin immediately after upgrading to WordPress 3.5. All my posts where [Sharebar][1] is active were displaying the following error code.
 
-<pre class="brush: php; title: ; notranslate" title="">Warning: Missing argument 2 for wpdb::prepare(), called in /&lt;path&gt;/wp-content/plugins/sharebar/sharebar.php on line 112 and defined in /&lt;path&gt;/wp-includes/wp-db.php on line 990
+<pre class="brush: php; published: true
+post_title: ; notranslate" title="">Warning: Missing argument 2 for wpdb::prepare(), called in /&lt;path&gt;/wp-content/plugins/sharebar/sharebar.php on line 112 and defined in /&lt;path&gt;/wp-includes/wp-db.php on line 990
 </pre>
 
 <div class="alignleft">
@@ -23,22 +25,26 @@ e3mobile, suggested editing the file sharebar.php located in the Sharebar folder
 On Line 112 look for;[  
 ][2]
 
-<pre class="brush: php; first-line: 112; title: ; notranslate" title="">$results =$wpdb-&gt;get_results($wpdb-&gt;prepare("SELECT * FROM ".$wpdb-&gt;prefix."sharebar WHERE enabled=1 ORDER BY position, id ASC")); $str .= "\n";&lt;/a&gt;
+<pre class="brush: php; first-line: 112; published: true
+post_title: ; notranslate" title="">$results =$wpdb-&gt;get_results($wpdb-&gt;prepare("SELECT * FROM ".$wpdb-&gt;prefix."sharebar WHERE enabled=1 ORDER BY position, id ASC")); $str .= "\n";&lt;/a&gt;
 </pre>
 
 and replace it with this;
 
-<pre class="brush: php; first-line: 112; title: ; notranslate" title="">$results =$wpdb-&gt;get_results($wpdb-&gt;prepare("SELECT * FROM ".$wpdb-&gt;prefix."sharebar WHERE enabled=1 ORDER BY position, id ASC", null)); $str .= "\n";
+<pre class="brush: php; first-line: 112; published: true
+post_title: ; notranslate" title="">$results =$wpdb-&gt;get_results($wpdb-&gt;prepare("SELECT * FROM ".$wpdb-&gt;prefix."sharebar WHERE enabled=1 ORDER BY position, id ASC", null)); $str .= "\n";
 </pre>
 
 Then on line 124, look for this;
 
-<pre class="brush: php; first-line: 124; title: ; notranslate" title="">$results = $wpdb-&gt;get_results($wpdb-&gt;prepare("SELECT * FROM ".$wpdb-&gt;prefix."sharebar WHERE enabled=1 ORDER BY position, id ASC")); $str .= "\n";
+<pre class="brush: php; first-line: 124; published: true
+post_title: ; notranslate" title="">$results = $wpdb-&gt;get_results($wpdb-&gt;prepare("SELECT * FROM ".$wpdb-&gt;prefix."sharebar WHERE enabled=1 ORDER BY position, id ASC")); $str .= "\n";
 </pre>
 
 and replace it with this;
 
-<pre class="brush: php; first-line: 124; title: ; notranslate" title="">$results = $wpdb-&gt;get_results($wpdb-&gt;prepare("SELECT * FROM ".$wpdb-&gt;prefix."sharebar WHERE enabled=1 ORDER BY position, id ASC", null)); $str .= "\n";
+<pre class="brush: php; first-line: 124; published: true
+post_title: ; notranslate" title="">$results = $wpdb-&gt;get_results($wpdb-&gt;prepare("SELECT * FROM ".$wpdb-&gt;prefix."sharebar WHERE enabled=1 ORDER BY position, id ASC", null)); $str .= "\n";
 </pre>
 
 Hope this helps, I'm no PHP expert, but I just want to share this now because this is what worked for me which you might want to implement while waiting for the plugin author to release an update.

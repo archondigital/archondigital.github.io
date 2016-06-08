@@ -1,5 +1,6 @@
 ---
-title: This is why I love working at night.
+published: true
+post_title: This is why I love working at night.
 author: Jon Cuevas
 excerpt: I rarely get speeds like this during daytime, even when in areas with LTE coverage. This is why I get to accomplish more stuff at night. Uploading files, performing maintenance work on websites, updating, debugging and development work is simply faster and trouble-free. Most of these tasks gets done around this time.
 layout: post-photo

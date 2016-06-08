@@ -1,5 +1,6 @@
 ---
-title: Philippine Politics and WordPress Loops Don’t Mix
+published: true
+post_title: Philippine Politics and WordPress Loops Don’t Mix
 author: Jon Cuevas
 layout: post
 permalink: /v5/philippines/philippine-politics-and-wordpress-loops-dont-mix/

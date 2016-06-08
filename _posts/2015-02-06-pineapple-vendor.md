@@ -1,5 +1,6 @@
 ---
-title: A pineapple day.
+published: true
+post_title: A pineapple day.
 title_secondary: "#PopeinPH"
 title_hide: true
 author: Jon Cuevas

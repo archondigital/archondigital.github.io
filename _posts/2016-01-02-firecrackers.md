@@ -1,5 +1,6 @@
 ---
-title: Happy New Year, Welcome 2016
+published: true
+post_title: Happy New Year, Welcome 2016
 title_hide: true
 author: Jon Cuevas
 layout: post
@@ -13,7 +14,8 @@ text_color: light
 comments: true
 disqus_identifier: new-year-002-s2016
 tags: [Streets of Manila, Manila by Night, Street Photography, Sony, Sony A7Sii, Jupiter 37A, Leica, Manila, Photography, Mirrorless, Politics]
-gallery_title: New Year's 2016 photos
+gallery_published: true
+post_title: New Year's 2016 photos
 gallery_desc: Posting here photos of our new year celebration. I'll update this as I gather more photos.
 gallery_content:
   - url: /assets/images/articles/firecracker-09159.jpg

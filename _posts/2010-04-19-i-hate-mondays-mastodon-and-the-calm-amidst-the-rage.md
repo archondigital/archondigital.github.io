@@ -1,5 +1,6 @@
 ---
-title: I hate Mondays, Mastodon and that eerie calm amidst the rage
+published: true
+post_title: I hate Mondays, Mastodon and that eerie calm amidst the rage
 author: Jon Cuevas
 layout: post
 permalink: /v5/studio/music/i-hate-mondays-mastodon-and-the-calm-amidst-the-rage/

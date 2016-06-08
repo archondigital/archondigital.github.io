@@ -1,5 +1,6 @@
 ---
-title: "It's more fun in the Philippines - vector and raster template"
+published: true
+post_title: "It's more fun in the Philippines - vector and raster template"
 author: Jon Cuevas
 layout: post
 permalink: /articles/its-more-fun-in-the-philippines-vector-and-raster-template/

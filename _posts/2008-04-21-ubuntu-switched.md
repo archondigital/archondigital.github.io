@@ -1,5 +1,6 @@
 ---
-title: 'Ubuntu &#8211; Switched'
+published: true
+post_title: 'Ubuntu &#8211; Switched'
 author: Archon Digital
 layout: post
 permalink: /v5/technology/software/open-source/ubuntu-switched/

@@ -1,5 +1,6 @@
 ---
-title: The Eye
+published: true
+post_title: The Eye
 author: Jon Cuevas
 layout: post-photo
 permalink: /articles/the-eye/

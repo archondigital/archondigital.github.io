@@ -1,5 +1,6 @@
 ---
-title: Fishball vendor
+published: true
+post_title: Fishball vendor
 title_secondary: Streets of Manila
 title_hide: true
 author: Jon Cuevas

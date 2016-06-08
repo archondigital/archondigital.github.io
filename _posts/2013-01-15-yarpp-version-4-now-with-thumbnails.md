@@ -1,5 +1,6 @@
 ---
-title: YARPP version 4 now with thumbnails
+published: true
+post_title: YARPP version 4 now with thumbnails
 author: Jon Cuevas
 layout: post
 permalink: /yarpp-version-4-now-with-thumbnails-1835/

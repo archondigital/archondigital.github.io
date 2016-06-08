@@ -1,5 +1,6 @@
 ---
-title: Foundation for Sites
+published: true
+post_title: Foundation for Sites
 author: Jon Cuevas
 layout: post
 permalink: /foundation-for-sites/

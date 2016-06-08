@@ -1,5 +1,6 @@
 ---
-title: "Today is <del>Independence</del> Republic Day"
+published: true
+post_title: "Today is <del>Independence</del> Republic Day"
 author: Jon Cuevas
 layout: post-photo
 permalink: /articles/republic-day/

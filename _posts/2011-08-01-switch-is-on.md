@@ -1,5 +1,6 @@
 ---
-title: Switch is ON
+published: true
+post_title: Switch is ON
 author: Jon Cuevas
 layout: post
 permalink: /switch-is-on-1192/

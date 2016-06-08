@@ -1,5 +1,6 @@
 ---
-title: New MacPro
+published: true
+post_title: New MacPro
 author: Archon Digital
 layout: post
 permalink: /v5/technology/hardware/workstations/the-macpro-quad-core-3ghz-and-creative-suite-3/

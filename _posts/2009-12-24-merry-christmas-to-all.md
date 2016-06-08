@@ -1,5 +1,6 @@
 ---
-title: Merry Christmas to all
+published: true
+post_title: Merry Christmas to all
 author: Jon Cuevas
 layout: post
 permalink: /v5/life/merry-christmas-to-all/

@@ -1,5 +1,6 @@
 ---
-title: iPhone 3.0 Software Update Release
+published: true
+post_title: iPhone 3.0 Software Update Release
 author: Jon Cuevas
 layout: post
 permalink: /v5/technology/software/iphone-3-0-software-update-release/

@@ -1,5 +1,6 @@
 ---
-title: Saying Goodbye to the Grid
+published: true
+post_title: Saying Goodbye to the Grid
 author: Archon Digital
 layout: post
 permalink: /v5/internet/hosting/saying-goodbye-to-the-grid/

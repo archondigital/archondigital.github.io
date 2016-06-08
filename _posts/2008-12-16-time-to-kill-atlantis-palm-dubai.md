@@ -1,5 +1,6 @@
 ---
-title: Time to Kill – Atlantis The Palm, Dubai
+published: true
+post_title: Time to Kill – Atlantis The Palm, Dubai
 author: Jon Cuevas
 layout: post
 permalink: /v5/overlord/tough-choices-and-keeping-calm-feels-good-to-be-pinoy/

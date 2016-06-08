@@ -1,5 +1,6 @@
 ---
-title: Quality Comments and Giving Back Some Love
+published: true
+post_title: Quality Comments and Giving Back Some Love
 author: Archon Digital
 layout: post
 permalink: /internet/blogging/quality-comments-and-giving-back-some-love/

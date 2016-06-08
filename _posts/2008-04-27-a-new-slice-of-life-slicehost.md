@@ -1,5 +1,6 @@
 ---
-title: 'A New Slice of Life - Slicehost'
+published: true
+post_title: 'A New Slice of Life - Slicehost'
 author: Archon Digital
 layout: post
 permalink: /v5/internet/hosting/a-new-slice-of-life-slicehost/

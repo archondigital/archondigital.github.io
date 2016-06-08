@@ -1,5 +1,6 @@
 ---
-title: 'Newsweek says goodbye to print. #lastprintissue'
+published: true
+post_title: 'Newsweek says goodbye to print. #lastprintissue'
 author: Jon Cuevas
 excerpt: "A sad day for print. Their farewell cover artwork highlights the stark contrast between traditional printing by portraying print as a classic, black and white New York city skyline photo with Newsweek's office building in the foreground and the modern, web-centric hashtag headline, #lastprintissue."
 layout: post

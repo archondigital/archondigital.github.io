@@ -1,5 +1,6 @@
 ---
-title: Tough Choices and Keeping Calm; Feels Good to be Pinoy
+published: true
+post_title: Tough Choices and Keeping Calm; Feels Good to be Pinoy
 author: Jon Cuevas
 layout: post
 permalink: /v5/overlord/tough-choices-and-keeping-calm-feels-good-to-be-pinoy/

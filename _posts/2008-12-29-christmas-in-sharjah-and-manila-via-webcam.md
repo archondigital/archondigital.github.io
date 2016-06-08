@@ -1,5 +1,6 @@
 ---
-title: Christmas in Sharjah and Manila via webcam
+published: true
+post_title: Christmas in Sharjah and Manila via webcam
 author: Jon Cuevas
 layout: post
 permalink: /v5/overlord/christmas-in-sharjah-and-manila-via-webcam/

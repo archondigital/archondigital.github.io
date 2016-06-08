@@ -1,5 +1,6 @@
 ---
-title: Eksena sa Jeep
+published: true
+post_title: Eksena sa Jeep
 title_secondary: Humans of San Andres Bukid
 title_hide: true
 author: Jon Cuevas

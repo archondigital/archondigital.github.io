@@ -1,5 +1,6 @@
 ---
-title: Malu Fernandez is My Tita
+published: true
+post_title: Malu Fernandez is My Tita
 author: Archon Digital
 layout: post
 permalink: /v5/philippines/malu-fernandez-is-my-tita/

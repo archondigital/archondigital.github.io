@@ -1,5 +1,6 @@
 ---
-title: Pinay Scandal – SEO Campaign Results
+published: true
+post_title: Pinay Scandal – SEO Campaign Results
 author: Jon Cuevas
 layout: post
 permalink: /v5/internet/search-engine-optimization/pinay-scandal-seo-campaign-results/

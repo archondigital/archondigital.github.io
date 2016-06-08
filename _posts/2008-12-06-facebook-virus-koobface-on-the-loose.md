@@ -1,5 +1,6 @@
 ---
-title: Facebook Virus Koobface on the Loose
+published: true
+post_title: Facebook Virus Koobface on the Loose
 author: Jon Cuevas
 layout: post
 permalink: /v5/internet/social-networks/facebook-virus-koobface-on-the-loose/

@@ -1,5 +1,6 @@
 ---
-title: Ynzal Loses Apple Reseller Status
+published: true
+post_title: Ynzal Loses Apple Reseller Status
 author: Archon Digital
 layout: post
 excerpt: "Bad news. A leading local company gets booted from Apple."
