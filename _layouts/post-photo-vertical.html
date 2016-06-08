@@ -1,0 +1,63 @@
+---
+layout: default
+---
+
+
+	<div class="row">
+		<div class="medium-1 columns hide-for-large-up hide-for-small">&nbsp;</div>
+		<div class="large-6 medium-6 columns" style="background:#000; height:70%; overflow-y:hide;">	
+			<img src="{{ page.featured_image | prepend: site.baseurl  }}" style="height:100%;width:100%;">
+		</div>
+		<div class="large-6 medium-5 columns">
+			<header class="post-header">
+				<div class="row">
+				  	<div class="large-12 columns">
+							<h1 class="entry-title p-name">{% if page.title_secondary %}<small>{{ page.title_secondary }}:</small><br>{% endif %}{{ page.title }}</h1>
+							<br/>
+							{% include entry-meta.html %}
+				  	</div>  		
+				</div>
+			</header>	
+
+			<article class="post-content entry-content e-content">
+				{{ content }}
+				<div class="row">
+					<div class="large-3 medium-4 small-4 columns">
+						<ul class="clearing-thumbs clearing-feature" data-clearing>
+							<li class="clearing-featured-img">
+								<a href="{{ page.featured_image | prepend: site.baseurl }}">
+								<img title="{{ page.title }}" alt="{{ page.title }}. {{ page.excerpt }}" src="{{ page.featured_image | prepend: site.baseurl  }}" {% if page.excerpt %}data-caption="{{ page.excerpt }}"{% else %} data-caption="{{ page.title }}"{% endif %} />
+								</a>
+								<br><small class="caption">Click on image to view{% if page.gallery_content %} gallery{% endif %}.</small>
+							</li>
+							{% if page.gallery_content %}
+							{% for pic in page.gallery_content %}
+							<li>
+								<a href="{{ pic.url | prepend: site.baseurl }}">
+								<img title="{{ pic.label }}" alt="{{ pic.label }}" src="{{ pic.url | prepend: site.baseurl  }}" data-caption="{{ pic.label }}. {{ pic.caption }}" />
+								</a>
+
+							</li>
+							{% endfor %}
+							{% else %}
+							{% endif %}
+						</ul>		
+					</div>
+				</div>
+				
+			</article>
+		</div>
+	</div>
+
+
+
+	
+	<div class="row">
+		<div class="large-12 columns">
+			<hr>
+			{% include snippet-tags-post.html %}
+			{% include snippet-social.html %}		
+		</div>
+	</div>
+	
+	{% include comments.html %}
