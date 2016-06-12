@@ -6,7 +6,7 @@ title_hide: true
 author: Jon Cuevas
 layout: post-photo-vertical
 permalink: /street-photography/carriedo-again/
-excerpt: "Street food vendor and people from a nearby eatery after their meal."
+excerpt: "Took a little walk down Quiapo and Sta. Cruz again. I managed to take this photo before the security guard at the LRT station could stop me."
 featured_image: /assets/images/articles/carriedo-08115.jpg
 featured_image_thumb: /assets/images/articles/carriedo-08115-thumb.jpg
 background_position: center center
