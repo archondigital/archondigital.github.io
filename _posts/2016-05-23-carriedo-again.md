@@ -17,7 +17,7 @@ disqus_identifier: carriedo-009-s2016
 tags: [Streets of Manila, Street Photography, Sony, Sony A7Sii, Leica, Manila, Photography, Mirrorless]
 ---
 
-Donec id elit non mi porta gravida at eget metus. Donec sed odio dui. Nulla vitae elit libero, a pharetra augue. Etiam porta sem malesuada magna mollis euismod.
+Took a little walk down Quiapo and Sta. Cruz again. I managed to take this photo before the security guard at the LRT station could stop me.
 
 Taken using a [Leica Summicron-M 1:2/35mm ASPH][6] lens at 1/500s f/8 ISO 500. [See image on Flickr][1]{:target="_blank"} for EXIF. Posted originally on my [Instagram][2]{:target="_blank"}.
 
