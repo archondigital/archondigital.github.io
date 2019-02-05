@@ -3,7 +3,7 @@ title: Archon Digital
 email: overlord@archon-digital.com
 description: "I'm Jon Cuevas, a.k.a @archondigital, and this is my personal website. Here I publish blog entries on my interests and what I mostly do, from web design, frontend development, street photography, tech gear, gaming and music. This site runs on Jekyll, Foundation 5 and Liquid templating. Powered by Github Pages."
 baseurl: ""
-url: "http://archon.digital"
+url: "http://archondigital.github.io"
 username: archondigital
 timezone: Asia/Manila
 paginate: 12
